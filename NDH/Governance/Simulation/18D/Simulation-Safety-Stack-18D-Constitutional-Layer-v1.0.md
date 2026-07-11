@@ -1,5 +1,5 @@
 # 🜁 **Simulation Safety Stack — 18D Constitutional Layer v1.0**  
-### *Constitutional Axes • Governance Invariants • Sovereignty Boundaries • Anti‑Drift • Anti‑Wobble • Safe 18‑Axis Constitutional Architecture*
+### *Constitutional Axes • Governance Invariants • Sovereignty Boundaries • Anti‑Drift • Anti‑Wobble • Safe 18‑Axis Constitutional Architecture* 
 
 ---
 
