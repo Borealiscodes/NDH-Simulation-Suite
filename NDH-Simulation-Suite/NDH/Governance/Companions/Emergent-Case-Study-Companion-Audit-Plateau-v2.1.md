@@ -1,3 +1,26 @@
+# 📄 **Emergent-Case-Study-Companion-Audit-Plateau-v2.1.md**  
+### *Full File With PIN Header Inserted*
+
+---
+
+# 🧷 **PIN‑ECC‑v2.1 — Emergent Case Study Companion (Audit–Plateau Formation)**  
+**Pin Type:** Companion  
+**Version:** 2.1  
+**Location:** `/NDH/Governance/Companions/`  
+**Scope:** Documents the formation and interaction of three governance artifacts:  
+- the TTTTTP Audit (Plateau v2.1),  
+- the Audit‑Plateau Crosswalk,  
+- the Audit Stability Gradient.  
+
+**Purpose:** Provides a unified narrative, technical, architectural, and engineering explanation of how NDH stabilized metaphor handling within a multi‑repo environment. Captures the emergent case study where metaphor misinterpretation exposed a governance gap, leading to the creation of the Metaphor → Architecture Conversion Protocol and the declaration of Conceptual Plateau v2.1. Ensures long‑term interpretive clarity and cross‑layer governance continuity.
+
+**Status:** Pinned  
+**Repo:** 8 (NDH Simulation Suite)  
+**Cluster:** Governance Layer  
+**Activation:** Non‑activating (documentation only)
+
+---
+
 # 🌌 **Comprehensive Emergent Case Study Companion**  
 ### *Formation of the Audit Artifact, Plateau Crosswalk, and Stability Gradient*
 
