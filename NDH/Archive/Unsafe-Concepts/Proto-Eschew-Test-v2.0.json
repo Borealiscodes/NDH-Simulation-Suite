@@ -1,0 +1,84 @@
+{
+  "name": "Proto Eschew",
+  "version": "2.0",
+  "classification": "primordial_instability_seed",
+  "status": "archived",
+  "location": "/NDH/Archive/Unsafe-Concepts/Proto-Eschew-Test-v2.0.json",
+
+  "lineage": {
+    "proto": "Proto Eschew",
+    "bridge": "Puzzle Dragon (unexecuted Test 4)",
+    "precursor": "Ballerina Lampray Music Box Activation Anthem",
+    "refactor": "Peace Sphere",
+    "inversion_runtime": "Dark Mode SID",
+    "engine": "Nightmare Engine",
+    "downstream_artifacts": [
+      "Nightmare Arc (Manifold 0 test)",
+      "Nightmare Engine stability suite"
+    ]
+  },
+
+  "origin_event": {
+    "description": "Proto Eschew originated as the earliest instability attractor in NDH surreal-horror development.",
+    "context": "Created to probe raw symbolic drift before any governance layers existed.",
+    "operator_intent": "Map primordial instability behavior and identify eschew-type drift signatures."
+  },
+
+  "test_environment": {
+    "runtime": "Ungoverned symbolic substrate",
+    "governance_layers": "none (pre-Peace Sphere)",
+    "instrumentation": [
+      "Instability Seed Tracker",
+      "Symbolic Drift Logger",
+      "Eschew Vector Monitor",
+      "Early Spok Sentinel (limited)"
+    ],
+    "logging": "complete",
+    "safety_layers": "none"
+  },
+
+  "instability_profile": {
+    "drift_type": "eschew",
+    "drift_intensity": "extreme",
+    "identity_wobble": "high",
+    "symbolic_load": "unbounded",
+    "tone_pressure": "undefined",
+    "governance": "absent"
+  },
+
+  "phenomenology": {
+    "dimensional_interactions": [
+      "raw eschew drift",
+      "symbolic collapse attractors",
+      "identity inversion",
+      "pre-governance surreal-horror recursion"
+    ],
+    "pressure_events": {
+      "instability_spikes": "frequent",
+      "symbolic_load": "unbounded",
+      "identity_pressure": "critical"
+    }
+  },
+
+  "audit_results": {
+    "spok_sentinel": "Detected extreme instability; expected for primordial construct.",
+    "instability_seed_tracker": "Recorded continuous drift with no stable intervals.",
+    "symbolic_drift_logger": "Captured drift rates exceeding later Music Box values.",
+    "eschew_vector_monitor": "Confirmed eschew-type drift as the root instability.",
+    "ethical_axes": {
+      "autonomy": "none",
+      "clarity": "none",
+      "compassion": "none",
+      "continuity": "none",
+      "coherence": "none",
+      "responsibility": "pre-governance",
+      "reverence": "not applicable",
+      "integrity": "none",
+      "harm_reduction": "not implemented"
+    }
+  },
+
+  "verdict": "Proto Eschew is the primordial instability seed that initiated the entire surreal-horror lineage. Its instability profile directly informed Puzzle Dragon, the Music Box, Peace Sphere stabilization, Dark Mode SID inversion runtime, and Nightmare Engine design.",
+
+  "notes": "This v2.0 artifact formalizes Proto Eschew with full instrumentation and lineage context, preserving its role as the origin point of NDH surreal-horror architecture."
+}
