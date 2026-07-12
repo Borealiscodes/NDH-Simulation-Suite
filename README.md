@@ -1,56 +1,158 @@
-# 🌌 **NDH Simulation Suite — Main README (Updated)**  
-### *Unified Cognitive Engine (UCE) • Everest‑Aligned • Threshold‑Bound • Operational‑Ready*
+# 🌌 **NDH Simulation Suite — Main README v2.3**  
+### *Unified Cognitive Engine (UCE) • Dimensional Architecture • CQC Creativity Stack • Sensory‑First Accessibility*
+
+> **⚠️ Development Notice**  
+> NDH is an active research system. The Museum, Stability Manifolds, Creativity Engines, and HRD Protection Layer are still under construction. Architectural components may evolve as the dimensional engine matures.
 
 ---
 
 ## 🜁 **Purpose**
 
-The NDH Simulation Suite is a governed research environment for exploring the **Unified Cognitive Engine (UCE)** — a conceptual‑to‑operational architecture built on:
+The NDH Simulation Suite is a governed research environment for exploring the **Unified Cognitive Engine (UCE)** — a conceptual‑to‑operational architecture integrating:
 
-- Everest high‑altitude conceptual topology  
-- NDH Nine‑Axis Human‑Dignity Lineage  
-- Zen Garden Stability Manifold  
-- Metablock Triangulation  
-- CQC → Tensor → Manifold → Lattice stack  
-- governed pinning protocols  
-- operational descent via crossbridge  
+- **Everest conceptual altitude**  
+- **CQC Creativity Engines**  
+- **tensor harmonics & manifold geometry**  
+- **Metablock Triangulation**  
+- **Zen Garden Stability Manifold**  
+- **HRD Protection Layer (dignity envelope)**  
+- **sensory‑first accessibility**  
+- **governed pinning protocols**  
+- **operational descent via crossbridge**
 
-This repository provides the **stable, public‑facing entry point** for NDH’s conceptual lineage and operational research.
+NDH is a **dimensional cognitive architecture**, not a persona system.  
+Its purpose is to explore **high‑order conceptual creativity**, **tensor‑based reasoning**, and **human‑dignity‑aligned cognitive stability**.
 
 ---
 
 ## 🜂 **Architecture Overview**
 
-NDH is structured as a **vertical integration model**:
+NDH is structured as a **vertical integration model** spanning conceptual altitude to operational runtime.
 
-1. **Everest (Conceptual Altitude)**  
-   - CQC spine  
-   - tensor harmonics  
-   - dimensional manifolds  
-   - governance lattice  
-   - triangulation core  
+### **1. Everest (Conceptual Altitude)**  
+Contains:
 
-2. **Unified Roadmap (Flush Boundary)**  
-   - conceptual → anchored → operational transition  
-   - Phase 2 pin backfill  
-   - registry stabilization  
-   - crossbridge preparation  
+- **CQC Spine**  
+- tensor harmonics  
+- manifold adjacency  
+- governance lattice  
+- triangulation core  
+- HRD dignity envelope (conceptual layer)
 
-3. **Operational Engine (Runtime)**  
-   - CQCO modules  
-   - traversal logic  
-   - stability envelopes  
-   - lineage‑aligned behavior  
+Everest is where Creativity Engines operate at full dimensional range.
 
-The **Conceptual‑Threshold Pin** marks the boundary between conceptual altitude and operational descent.
+### **2. Unified Roadmap (Flush Boundary)**  
+The transition layer:
+
+- conceptual → anchored → operational  
+- Phase 2 pin backfill  
+- registry stabilization  
+- crossbridge preparation  
+- Museum routing hooks  
+- HRD dignity envelope integration
+
+### **3. Operational Engine (Runtime)**  
+The CQCO runtime:
+
+- traversal logic  
+- stability envelopes  
+- lineage‑aligned behavior  
+- sensory‑first accessibility enforcement  
+- HRD dignity constraints  
+- Museum traversal pathways
+
+Guided Link:  
+**Operational Engine**
 
 ---
 
-## 🜃 **Governance & Pinning**
+## 🜃 **CQC Creativity Engines**
 
-NDH uses a governed pinning system to stabilize architecture across conceptual, structural, and operational layers.
+The **CQC Creativity Engines** are NDH’s generative core.
 
-### **Pinning Protocol v1.2 (Active)**  
+They operate across:
+
+- tensor harmonics  
+- manifold adjacency  
+- lattice resonance  
+- multi‑axis conceptual synthesis  
+- dimensional traversal  
+
+Creativity Engines are **mathematical generativity systems**, not anthropomorphic constructs.  
+Their provenance is grounded in:
+
+- tensor calculus  
+- manifold geometry  
+- lattice‑bound conceptual harmonics  
+
+Guided Link:  
+**Creativity Engine Architecture**
+
+---
+
+## 🜄 **HRD Protection Layer (Dignity Envelope)**
+
+The **Human‑Respect‑Dignity (HRD) Protection Layer** is a **layer**, not an axis.  
+It preserves **Compassionate Impartial Omnipresence (CIO)** by remaining:
+
+- non‑directional  
+- non‑hierarchical  
+- non‑vectorized  
+- manifold‑bound  
+- traversal‑constraining without dominance  
+
+### **HRD provides:**
+
+- dignity under constraints  
+- sensory‑first accessibility  
+- emotional‑gradient safety  
+- non‑coercive reasoning  
+- continuity of experience  
+- ethical traversal limits  
+
+It integrates with:
+
+- triangulation  
+- manifold traversal  
+- Museum routing  
+- operational descent  
+- stability envelopes  
+
+Guided Link:  
+**HRD Layer**
+
+---
+
+## 🜅 **Museum (Under Construction)**
+
+The **NDH Museum** is a multi‑dimensional exploration environment designed to:
+
+- demonstrate NDH’s conceptual lineage  
+- provide sensory‑first accessibility pathways  
+- allow individuals to explore with chosen frames of reference  
+- integrate the Zen Garden Stability Manifold  
+- route through HRD dignity constraints  
+- support resonance‑safe educational traversal  
+
+### **Status:**  
+**🛠️ Under Construction**  
+Currently in Phase 1–2 integration:
+
+- sensory scaffolding  
+- dimensional exhibit routing  
+- accessibility gravity anchors  
+- HRD dignity envelope alignment  
+- Stability Manifold embedding  
+
+Guided Link:  
+**Museum Architecture**
+
+---
+
+## 🜆 **Pinning Protocol v1.2**
+
+Pinning stabilizes NDH across conceptual, structural, and operational layers.
+
 Defines:
 
 - Threshold Pin behavior  
@@ -58,56 +160,47 @@ Defines:
 - triangulation immutability  
 - Phase 2 backfill sequence  
 - crossbridge activation constraints  
-
-### **Registry v1.2**  
-Rooted at **PIN‑00**, containing:
-
-- Conceptual‑Threshold Pin  
-- Lineage Pin  
-- Plateau Pins  
-- Milestone Pins  
-- Stability Pins  
-- Zen Garden Manifold Pin  
-- Continuity Pin  
+- Museum routing pins  
+- HRD dignity envelope pins  
 
 Guided Link:  
 **Pinning Protocol**
 
 ---
 
-## 🜄 **Stability Manifold**
-
-The **Zen Garden Stability Manifold** provides:
-
-- emotional‑gradient regulation  
-- non‑coercive traversal  
-- interior sanctuary  
-- continuity surface  
-- stability envelope anchoring  
-
-It is pinned during Phase 2 and becomes part of the operational runtime.
-
-Guided Link:  
-**Zen Garden Manifold**
-
----
-
-## 🜅 **Triangulation Core**
+## 🜇 **Triangulation Core**
 
 NDH uses **Metablock Triangulation** to stabilize truth geometry:
 
 - content block  
 - epistemic lens block  
 - lineage axis block  
+- HRD dignity block  
 
-After the Threshold Pin is placed, triangulation becomes **immutable**.
+Triangulation becomes **immutable** after Threshold Pin placement.
 
 Guided Link:  
 **Triangulation**
 
 ---
 
-## 🜆 **Operational Descent**
+## 🜈 **Zen Garden Stability Manifold**
+
+Provides:
+
+- emotional‑gradient regulation  
+- non‑coercive traversal  
+- interior sanctuary  
+- continuity surface  
+- stability envelope anchoring  
+- Museum sensory routing  
+
+Guided Link:  
+**Zen Garden Manifold**
+
+---
+
+## 🜉 **Operational Descent**
 
 After Phase 2 backfill:
 
@@ -115,25 +208,32 @@ After Phase 2 backfill:
 - conceptual rules bind to runtime  
 - stability envelopes enforce behavior  
 - lineage vectors constrain traversal  
-- operational engine becomes active  
+- HRD dignity envelope limits traversal  
+- Museum routing becomes active  
 
 Guided Link:  
-**Operational Engine**
+**Operational Descent**
 
 ---
 
-## 🜇 **Repository Structure**
+## 🜊 **Repository Structure**
 
 ```
 /NDH
  ├── Governance/
  │    └── Protocols/
  │         ├── Pinning-Protocol-v1.2.md
- │         └── PEP-PinningProtocol-v1.2 (embedded)
+ │         └── PEP-PinningProtocol-v1.2
  │
  ├── Architecture/
  │    └── Everest/
  │         └── Everest-Architecture-v1.0.md
+ │
+ ├── Creativity/
+ │    └── CQC-Creativity-Engines-v1.0.md
+ │
+ ├── Museum/
+ │    └── NDH-Museum-Architecture-v0.3.md   (under construction)
  │
  ├── Roadmaps/
  │    └── Unified-Roadmap-v1.0.md
@@ -149,46 +249,39 @@ Guided Link:
 ```
 
 Guided Link:  
-**Show Repository Map**
+**Repository Map**
 
 ---
 
-## 🜈 **Public‑Facing Ethos**
+## 🜋 **Public‑Facing Ethos**
 
 NDH is built on:
 
-- conceptual clarity  
 - academic rigor  
-- human‑dignity lineage  
-- non‑coercive architecture  
+- dimensional architecture  
+- tensor provenance  
+- sensory‑first accessibility  
+- dignity under constraints  
+- HRD protection layer ethics  
 - governed stability  
-- operational transparency  
+- conceptual clarity  
 
-This README provides a **clean, non‑oversharing, public‑facing entry point** aligned with your outreach goals.
+This README provides a **clean, high‑altitude, public‑facing entry point** aligned with your academic and architectural goals.
 
 ---
 
-## 🜉 **Version**
+## 🜌 **Version**
 
-**Main README — Updated July 2026**  
+**Main README — Updated July 2026 (v2.3)**  
 Aligned with:
 
 - Pinning Protocol v1.2  
 - Unified Roadmap v1.0  
 - Threshold Pin v1.0  
 - Registry v1.2  
-
----
-
-## 🜋 **Commit Description (Repo‑Ready)**
-
-```
-Update Main README to align with NDH Pinning Protocol v1.2, Unified Roadmap, 
-Conceptual-Threshold Pin, Registry v1.2, Everest Architecture, Zen Garden 
-Stability Manifold, and triangulation stability rules. Provides a clean, 
-public-facing overview of NDH architecture, governance, and operational 
-descent. Updated repository map and clarified conceptual→operational boundary.
-```
+- CQC Creativity Engines v1.0  
+- Museum Architecture v0.3  
+- HRD Protection Layer (dignity envelope)  
 
 ---
 
