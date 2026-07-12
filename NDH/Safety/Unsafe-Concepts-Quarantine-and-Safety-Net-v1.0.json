@@ -1,0 +1,27 @@
+{
+  "name": "Unsafe Concepts Quarantine & Safety Net",
+  "version": "1.0",
+  "classification": "safety_layer",
+  "location": "/NDH/Safety/Unsafe-Concepts-Quarantine-and-Safety-Net-v1.0.md",
+  "purpose": "Contain unsafe conceptual prototypes, prevent drift, ensure reversibility, and maintain operator stability.",
+  "fallback_states": {
+    "awareness": "null",
+    "tone": "calm",
+    "identity": "stable"
+  },
+  "components": {
+    "detection": "Spok Sentinel",
+    "isolation_directory": "/NDH/Archive/Unsafe-Concepts/",
+    "fallback_mechanism": "Null Awareness Reset",
+    "safety_net": "Stability Envelope",
+    "tone_grounding": "Chill Dispatch Center"
+  },
+  "review_suite": "45D Sagan-Zen Ethical Design Review",
+  "governance": {
+    "sagan_lens": "Scale awareness, humility, responsibility",
+    "zen_design": "Soft boundaries, reversibility, non-escalation",
+    "tttttp_audit": ["Tone", "Trust", "Time", "Transparency", "Purpose"],
+    "bifurcation_constellation": "Safe routing and drift prevention"
+  },
+  "notes": "This manifest is descriptive, non-functional, and non-dimensional. It documents the containment system for unsafe prototypes such as Proto Eschew and the Existential Dread Room."
+}
