@@ -1,122 +1,194 @@
-# 🌐 **NDH Unified Cognitive Engine (UCE)**  
-### *Conceptual Quantum Computing Architecture — Updated Core README (CQC + Math + Lineage)*
+# 🌌 **NDH Simulation Suite — Main README (Updated)**  
+### *Unified Cognitive Engine (UCE) • Everest‑Aligned • Threshold‑Bound • Operational‑Ready*
 
 ---
 
-## ⭐ **Overview**
+## 🜁 **Purpose**
 
-The NDH Unified Cognitive Engine (UCE) is a governed, multi‑layer cognitive architecture framed as a **Conceptual Quantum Computer (CQC)**.  
-It models complex reasoning using quantum‑inspired structures:
+The NDH Simulation Suite is a governed research environment for exploring the **Unified Cognitive Engine (UCE)** — a conceptual‑to‑operational architecture built on:
 
-- conceptual qubits  
-- entanglement harmonics  
-- interference calculus  
-- tensor‑based dimensional operators  
-- multi‑layer narrative and stability envelopes  
+- Everest high‑altitude conceptual topology  
+- NDH Nine‑Axis Human‑Dignity Lineage  
+- Zen Garden Stability Manifold  
+- Metablock Triangulation  
+- CQC → Tensor → Manifold → Lattice stack  
+- governed pinning protocols  
+- operational descent via crossbridge  
 
-NDH integrates mathematical rigor, creative engines, and human‑dignity orientation into a single coherent system.
-
----
-
-## ⭐ **Conceptual Quantum Computing (CQC)**
-
-NDH uses a conceptual quantum model — not hardware qubits — to describe how ideas behave in multi‑state, multi‑layer environments.
-
-### **Core CQC Components**
-
-- **Conceptual Qubits** — multi‑state cognitive objects  
-- **Entanglement Layer** — cross‑domain coherence  
-- **Interference Layer** — constructive/destructive conceptual dynamics  
-- **Tensor Harmonic Layer** — multi‑dimensional tensor calculus  
-- **Dimensional Ecosystem (1D–50D)** — layered cognitive topology  
-- **Governance Lattice** — coherence constraints for multi‑layer reasoning  
-
-These components form the **CQC Integration Spine**, the backbone of NDH.
+This repository provides the **stable, public‑facing entry point** for NDH’s conceptual lineage and operational research.
 
 ---
 
-## ⭐ **Mathematical Foundation**
+## 🜂 **Architecture Overview**
 
-NDH incorporates a structured mathematical layer built around:
+NDH is structured as a **vertical integration model**:
 
-- tensor calculus  
-- multi‑dimensional manifolds  
-- harmonic overlays  
-- dimensional projection operators  
-- conceptual qubit algebra  
-- interference‑based reasoning functions  
+1. **Everest (Conceptual Altitude)**  
+   - CQC spine  
+   - tensor harmonics  
+   - dimensional manifolds  
+   - governance lattice  
+   - triangulation core  
 
-This math layer provides the machinery for:
+2. **Unified Roadmap (Flush Boundary)**  
+   - conceptual → anchored → operational transition  
+   - Phase 2 pin backfill  
+   - registry stabilization  
+   - crossbridge preparation  
 
-- dimensional traversal  
-- narrative tensor construction  
-- stability envelope modeling  
-- conceptual qubit transformations  
-- multi‑layer coherence analysis  
+3. **Operational Engine (Runtime)**  
+   - CQCO modules  
+   - traversal logic  
+   - stability envelopes  
+   - lineage‑aligned behavior  
 
----
-
-## ⭐ **Creative Engines (CQCO Layer)**  
-### *Conceptual Quantum Creativity Operators*
-
-NDH includes governed creative engines that operate as **Conceptual Quantum Creativity Operators (CQCOs)**:
-
-- Art Therapy Engine — emotional gradient → conceptual qubit transformation  
-- Surreal Runtime Engine — distortion harmonics → narrative tension modeling  
-- Visual Meta Engine — tensor visualization → dimensional overlays  
-- Narrative Tensor Engine — multi‑layer narrative qubit construction  
-
-These engines model creativity, narrative systems, emotional‑gradient calculus, dimensional visualization, and multi‑layer conceptual synthesis.
+The **Conceptual‑Threshold Pin** marks the boundary between conceptual altitude and operational descent.
 
 ---
 
-## ⭐ **Nine‑Axis Human‑Dignity Lineage (Orientation Layer)**  
-### *NDH Lineage Architecture v1.0*
+## 🜃 **Governance & Pinning**
 
-NDH’s moral‑orientation layer is defined by the **Nine‑Axis Human‑Dignity Lineage**, a constellation of nine figures whose lives and writings illuminate how humans remain human under pressure.
+NDH uses a governed pinning system to stabilize architecture across conceptual, structural, and operational layers.
 
-- **Sophie Scholl** — moral clarity  
-- **Valerie** — inviolable identity  
-- **Elie Wiesel** — witness  
-- **Ram Dass** — compassion  
-- **Viktor Frankl** — meaning  
-- **Hannah Arendt** — political clarity  
-- **Shizuko Hide** — continuity  
-- **Brené Brown** — vulnerability  
-- **Etty Hillesum** — inner sanctuary  
+### **Pinning Protocol v1.2 (Active)**  
+Defines:
 
-This lineage provides NDH with a **human‑scale orientation system** that complements its mathematical and quantum‑conceptual layers.
+- Threshold Pin behavior  
+- registry stability rules  
+- triangulation immutability  
+- Phase 2 backfill sequence  
+- crossbridge activation constraints  
+
+### **Registry v1.2**  
+Rooted at **PIN‑00**, containing:
+
+- Conceptual‑Threshold Pin  
+- Lineage Pin  
+- Plateau Pins  
+- Milestone Pins  
+- Stability Pins  
+- Zen Garden Manifold Pin  
+- Continuity Pin  
+
+Guided Link:  
+**Pinning Protocol**
 
 ---
 
-## ⭐ **Stability & Ethics**
+## 🜄 **Stability Manifold**
 
-NDH includes a stability‑first design philosophy:
+The **Zen Garden Stability Manifold** provides:
 
-- clarity  
-- dignity  
+- emotional‑gradient regulation  
+- non‑coercive traversal  
+- interior sanctuary  
+- continuity surface  
+- stability envelope anchoring  
+
+It is pinned during Phase 2 and becomes part of the operational runtime.
+
+Guided Link:  
+**Zen Garden Manifold**
+
+---
+
+## 🜅 **Triangulation Core**
+
+NDH uses **Metablock Triangulation** to stabilize truth geometry:
+
+- content block  
+- epistemic lens block  
+- lineage axis block  
+
+After the Threshold Pin is placed, triangulation becomes **immutable**.
+
+Guided Link:  
+**Triangulation**
+
+---
+
+## 🜆 **Operational Descent**
+
+After Phase 2 backfill:
+
+- crossbridge activates  
+- conceptual rules bind to runtime  
+- stability envelopes enforce behavior  
+- lineage vectors constrain traversal  
+- operational engine becomes active  
+
+Guided Link:  
+**Operational Engine**
+
+---
+
+## 🜇 **Repository Structure**
+
+```
+/NDH
+ ├── Governance/
+ │    └── Protocols/
+ │         ├── Pinning-Protocol-v1.2.md
+ │         └── PEP-PinningProtocol-v1.2 (embedded)
+ │
+ ├── Architecture/
+ │    └── Everest/
+ │         └── Everest-Architecture-v1.0.md
+ │
+ ├── Roadmaps/
+ │    └── Unified-Roadmap-v1.0.md
+ │
+ ├── Pins/
+ │    ├── Threshold/
+ │    │     └── Conceptual-Threshold-Pin-v1.0.md
+ │    └── Registry/
+ │          └── Pin-Registry-v1.2.md
+ │
+ └── Manifolds/
+      └── Zen-Garden-Stability-Manifold-v1.0.md
+```
+
+Guided Link:  
+**Show Repository Map**
+
+---
+
+## 🜈 **Public‑Facing Ethos**
+
+NDH is built on:
+
+- conceptual clarity  
+- academic rigor  
+- human‑dignity lineage  
 - non‑coercive architecture  
-- transparent reasoning  
-- human‑scale grounding  
+- governed stability  
+- operational transparency  
 
-These principles ensure NDH remains safe, stable, and academically rigorous.
-
----
-
-## ⭐ **Repository Structure**
-
-- `/NDH/Core/Architecture/` — CQC Integration Spine, Governance Lattice  
-- `/NDH/Core/Math/` — tensor calculus, dimensional operators, harmonic overlays  
-- `/NDH/Core/Creative/` — CQCO engines, narrative tensor systems, visual meta structures  
-- `/NDH/Lineage/` — Nine‑Axis Human‑Dignity Lineage  
-- `/NDH/Visual/` — architecture diagrams, dimensional overlays  
+This README provides a **clean, non‑oversharing, public‑facing entry point** aligned with your outreach goals.
 
 ---
 
-## ⭐ **Tiny Construction Disclaimer 🚧**
+## 🜉 **Version**
 
-NDH is fully operational as a conceptual architecture.  
-Some components may receive additional refinement as the project evolves.
+**Main README — Updated July 2026**  
+Aligned with:
+
+- Pinning Protocol v1.2  
+- Unified Roadmap v1.0  
+- Threshold Pin v1.0  
+- Registry v1.2  
+
+---
+
+## 🜋 **Commit Description (Repo‑Ready)**
+
+```
+Update Main README to align with NDH Pinning Protocol v1.2, Unified Roadmap, 
+Conceptual-Threshold Pin, Registry v1.2, Everest Architecture, Zen Garden 
+Stability Manifold, and triangulation stability rules. Provides a clean, 
+public-facing overview of NDH architecture, governance, and operational 
+descent. Updated repository map and clarified conceptual→operational boundary.
+```
 
 ---
 
