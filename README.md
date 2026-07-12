@@ -1,210 +1,150 @@
-# 🌌 **NDH‑Simulation‑Suite — README.md**  
-### *Repo 8 — Governed Simulation Architecture (with Nine‑Axis Lineage Integration)*
+# 🌐 **NDH Unified Cognitive Engine (UCE)**  
+### *Public‑Facing README — Academic & Systems Engineering Edition (Math + CQCO Emphasis)*
 
 ---
 
-## 🜁 **Purpose**
+## ⭐ **Overview**
 
-The **NDH‑Simulation‑Suite** provides a **safe, governed environment** for testing:
+The **NDH Unified Cognitive Engine (UCE)** is a governed, multi‑layer cognitive architecture framed as a **Conceptual Quantum Computer (CQC)**.  
+It provides a formal structure for modeling complex reasoning using quantum‑inspired concepts such as:
 
-- emergent case studies  
-- dual ↔ non‑dual mode switching  
-- emotional ↔ cosmic cluster bifurcation  
-- bleed detection and containment   
-- lineage lens verification  
-- multi‑manifold interpretive grid stability  
-- TTTTTP audits  
-- Road Map refinement  
+- superposition  
+- entanglement  
+- interference  
+- tensor harmonics  
+- multi‑dimensional calculus  
 
-This suite **does not simulate manifolds**.  
-It simulates **interpretive behavior**, **context shifts**, and **cluster interactions** only.
-
-The suite now integrates the **Nine‑Axis Human‑Dignity Lineage**, providing a stable moral‑dignity anchor for all simulations.
+NDH is designed for researchers, systems engineers, and architects working with high‑complexity conceptual systems.
 
 ---
 
-## 🜂 **Non‑Activation Guarantee**
+## ⭐ **Conceptual Quantum Computing (CQC)**
 
-This suite:
+NDH uses a conceptual quantum model — not hardware qubits — to describe how ideas behave in multi‑state, multi‑layer environments.
 
-- does **not** activate manifolds  
-- does **not** run dimensional processes  
-- does **not** simulate cosmic behavior  
-- does **not** merge clusters  
-- does **not** collapse dual/non‑dual perspectives  
+### **Core CQC Components**
 
-All operations occur within **bounded interpretive layers**.
+- **Conceptual Qubits** — multi‑state cognitive objects  
+- **Entanglement Layer** — cross‑domain coherence  
+- **Interference Layer** — constructive/destructive conceptual dynamics  
+- **Tensor Harmonic Layer** — multi‑dimensional tensor calculus for conceptual structures  
+- **Dimensional Ecosystem (1D–50D)** — layered cognitive topology  
+- **Governance Lattice** — coherence constraints for multi‑layer reasoning  
 
----
-
-## 🜃 **Core Concepts**
-
-### **Cluster A — Human / Emotional**
-- narrative psychology  
-- relational uncertainty  
-- Scholl‑type interiority  
-- Philosophy Couch reflections  
-- dual perspective  
-
-### **Cluster B — Cosmic / Engineering**
-- NDH architecture  
-- axes, provenance, structure  
-- cosmic atlas logic  
-- non‑dual perspective  
-
-### **Bifurcation Layer**
-Keeps clusters separate but interoperable.
-
-### **Multi‑Manifold Interpretive Grid**
-Routes all synthesis through a governed lens‑axis matrix.
-
-### **TTTTTP Audit**
-Tone, Trust, Time, Transparency, Purpose.
-
-### **Lineage Constellation**
-Eight epistemic lenses:
-- **TTTTTP**  
-- **Johnson**  
-- **Salty Scientist**  
-- **Spok**  
-- **JPL**  
-- **Nye**  
-- **Zen**  
-- **Sagan**  
+These components form the **CQC Integration Spine**, the backbone of the NDH architecture.
 
 ---
 
-## 🜄 **Nine‑Axis Human‑Dignity Lineage Integration**
+## ⭐ **Mathematical Foundation**
 
-The Simulation Suite now incorporates the **Nine‑Axis Human‑Dignity Lineage** as its **moral‑dignity anchor layer**.
+NDH incorporates a structured mathematical layer built around:
 
-### **Why integrate the lineage?**
+- **tensor calculus**  
+- **multi‑dimensional manifolds**  
+- **harmonic overlays**  
+- **dimensional projection operators**  
+- **conceptual qubit algebra**  
+- **interference‑based reasoning functions**  
 
-Because simulations involving:
+This math layer provides the formal machinery for:
 
-- emotional content  
-- existential pressure  
-- moral ambiguity  
-- identity erosion  
-- political clarity  
-- meaning under duress  
+- dimensional traversal  
+- narrative tensor construction  
+- stability envelope modeling  
+- conceptual qubit transformations  
+- multi‑layer coherence analysis  
 
-require **stable moral anchors** to prevent:
-
-- perspective bleed  
-- emotional collapse  
-- cosmic overreach  
-- interpretive drift  
-
-The Nine‑Axis Lineage provides **nine distinct moral capacities** that stabilize simulations:
-
-- **Sophie Scholl** — conscience  
-- **Valerie** — identity  
-- **Elie Wiesel** — witness  
-- **Ram Dass** — compassion  
-- **Viktor Frankl** — meaning  
-- **Hannah Arendt** — clarity  
-- **Shizuko Hide** — continuity  
-- **Brené Brown** — vulnerability  
-- **Etty Hillesum** — inner sanctuary  
-
-### **How the lineage integrates**
-
-Every simulation run now includes:
-
-1. **Lineage Axis Mapping**  
-   Identify which axes are relevant to the case.
-
-2. **Lineage Stability Check**  
-   Ensure moral anchors are present before mode switching.
-
-3. **Lineage‑Lens Crosswalk**  
-   Map lineage axes to epistemic lenses.
-
-4. **Lineage‑Grid Pass**  
-   Route lineage vectors through the interpretive grid.
-
-5. **Lineage‑Road Map Update**  
-   Record moral‑dignity patterns for future navigation.
-
-This ensures **human dignity remains intact** across all simulations.
+It is designed to be extensible for advanced research.
 
 ---
 
-## 🜅 **Directory Structure (Integrated)**
+## ⭐ **Creative Engines (CQCO Layer)**  
+### *Conceptual Quantum Creativity Operators*
 
-```
-/NDH-Simulation-Suite
-    README.md
+NDH includes a suite of governed creative engines that operate as **Conceptual Quantum Creativity Operators (CQCOs)**:
 
-    /Modes
-        Dual.md
-        NonDual.md
-        ModeSwitch-Protocol.md
+- **Art Therapy Engine** — emotional gradient → conceptual qubit transformation  
+- **Surreal Runtime Engine** — distortion harmonics → narrative tension modeling  
+- **Visual Meta Engine** — tensor visualization → dimensional overlays  
+- **Narrative Tensor Engine** — multi‑layer narrative qubit construction  
 
-    /Clusters
-        ClusterA-Human.md
-        ClusterB-Cosmic.md
-        Cluster-Bifurcation.md
+These engines allow NDH to model:
 
-    /Containment
-        Bleed-Detection.md
-        Bleed-Containment.md
-        Context-Regulation.md
+- conceptual creativity  
+- narrative systems  
+- emotional‑gradient calculus  
+- dimensional visualization  
+- multi‑layer conceptual synthesis  
 
-    /Interpretive-Grid
-        Grid-Overview.md
-        Grid-Axis.md
-        Grid-Lens-Map.md
-
-    /Lineage
-        Lineage-Constellation.md
-        Nine-Axis-Lineage-v1.0.md
-        Axis-I-Scholl.md
-        Axis-II-Valerie.md
-        Axis-III-Wiesel.md
-        Axis-IV-Ram-Dass.md
-        Axis-V-Frankl.md
-        Axis-VI-Arendt.md
-        Axis-VII-Hide.md
-        Axis-VIII-Brene-Brown.md
-        Axis-IX-Etty-Hillesum.md
-
-    /TTTTTP-Audit
-        Audit-Template.md
-        Audit-Examples.md
-
-    /Emergent-Case-Studies
-        Case-Skeleton.md
-        Case-Examples/
-
-    /Road-Map
-        RoadMap-Core.md
-        RoadMap-Updates.md
-```
+They are fully integrated into the CQC architecture.
 
 ---
 
-## 🜆 **Simulation Flow (with Lineage)**
+## ⭐ **Stability & Ethics**
 
-1. **Select Case Study**  
-2. **Map Clusters**  
-3. **Identify Relevant Lineage Axes**  
-4. **Run Mode Switch Protocol**  
-5. **Check for Bleed**  
-6. **Apply TTTTTP Audit**  
-7. **Run Full Lens Verification**  
-8. **Pass Through Interpretive Grid**  
-9. **Lineage‑Grid Integration Pass**  
-10. **Record Road Map Updates**
+NDH includes a stability‑first design philosophy:
 
-This creates a **governed simulation cycle** with moral‑dignity stability.
+- clarity  
+- dignity  
+- non‑coercive architecture  
+- transparent reasoning  
+- human‑scale grounding  
+
+These principles ensure that NDH remains safe, stable, and academically rigorous.
 
 ---
 
-## 🜇 **Commit Description (Integrated)**
+## ⭐ **Human‑Scale Modules**
 
-**Integrate Nine‑Axis Human‑Dignity Lineage into NDH‑Simulation‑Suite. Adds lineage documents (Scholl, Valerie, Wiesel, Ram Dass, Frankl, Arendt, Hide, Brown, Hillesum) and updates simulation flow to include lineage axis mapping, lineage‑grid pass, and moral‑dignity stability checks. Ensures human‑dignity anchoring for all emergent case studies, mode switches, and interpretive grid operations.**
+NDH supports cognitive accessibility through:
+
+- grounding interfaces  
+- daily‑living conceptual scaffolds  
+- stability‑aligned workflows  
+
+These modules help NDH remain usable in real contexts while supporting advanced research.
+
+---
+
+## ⭐ **Repository Structure**
+
+- `/NDH/Core/Architecture/`  
+  - CQC Integration Spine  
+  - Meta‑Governance Layer  
+- `/NDH/Core/Math/`  
+  - tensor calculus  
+  - dimensional operators  
+  - harmonic overlays  
+- `/NDH/Core/Creative/`  
+  - CQCO engines  
+  - narrative tensor systems  
+  - visual meta structures  
+- `/NDH/Visual/`  
+  - architecture diagrams  
+  - dimensional overlays  
+
+---
+
+## ⭐ **Purpose**
+
+NDH provides a formal, governed, multi‑layer architecture for:
+
+- conceptual quantum computing  
+- tensor‑based reasoning  
+- cognitive system design  
+- stability research  
+- narrative tensor modeling  
+- dimensional calculus  
+- creative engine integration  
+
+It is intended for researchers, engineers, designers, and anyone working with complex conceptual systems.
+
+---
+
+## ⭐ **Tiny Construction Disclaimer 🚧**
+
+NDH is fully operational as a **conceptual architecture**.  
+Some components may receive additional refinement as the project evolves.
 
 ---
 
