@@ -1,0 +1,42 @@
+{
+  "unsafe_concept_id": "UC-BioGestation-Arc-v1.0",
+  "category": "Metaphor Safety / Architectural Integrity / Emotional Risk",
+  "concept_definition": "Biological gestation metaphors (e.g., 'pregnant with dimensional potential') introduce anthropomorphic bias and emotionally charged associations that disrupt NDH architectural neutrality and resonance clarity.",
+  "risk_profile": {
+    "anthropomorphic_distortion": "Biological metaphors impose human-body logic onto dimensional physics, disrupting resonance neutrality, adjacency clarity, and Zen-design stillness.",
+    "emotional_volatility": "Pregnancy metaphors can be triggering, grief-adjacent, trauma-adjacent, and destabilizing for emotional gradients.",
+    "dimensional_misalignment": "Gestation metaphors imply embodiment and biological development, conflicting with NDH resonance-first formation and threshold-based emergence.",
+    "accessibility_concerns": "Biological metaphors may not be universally accessible or emotionally safe for all users."
+  },
+  "containment_rules": {
+    "quarantined_from": [
+      "NDH architectural documents",
+      "design specifications",
+      "dimensional engine descriptions",
+      "safety net documentation",
+      "structural resonance papers",
+      "museum-building artifacts",
+      "lineage-anchored case studies",
+      "Zen-design architecture documents"
+    ],
+    "allowed_contexts": [
+      "Philosophy Couch explorations",
+      "narrative or poetic inquiry",
+      "emotional reflection",
+      "metaphysical discussion",
+      "human-scale meaning exploration",
+      "literary analysis"
+    ]
+  },
+  "replacement_metaphors": [
+    "quietly dense with dimensional potential",
+    "a poised threshold where the next dimension begins to form",
+    "a concentrated resonance node awaiting expansion",
+    "a still point where dimensional coherence begins"
+  ],
+  "quarantine_status": {
+    "status": "Quarantined",
+    "allowed": "Philosophy Couch / Narrative / Exploratory",
+    "block_level": "Structural Documents Only"
+  }
+}
