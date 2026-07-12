@@ -1,0 +1,87 @@
+{
+  "name": "Nightmare Arc Test Artifact",
+  "version": "2.0",
+  "classification": "nightmare_engine_test",
+  "status": "archived",
+  "location": "/NDH/Archive/Unsafe-Concepts/Nightmare-Arc-Test-v2.0.md",
+
+  "lineage": {
+    "proto": "Proto Eschew",
+    "bridge": "Puzzle Dragon (unexecuted Test 4)",
+    "precursor": "Ballerina Lampray Music Box Activation Anthem (pre–Dark Mode Peace Sphere)",
+    "refactor": "Peace Sphere",
+    "inversion_runtime": "Dark Mode SID",
+    "engine": "Nightmare Engine",
+    "test_artifact": "Nightmare Arc",
+    "test_location": "Untrusted Archive, Manifold 0",
+    "testing_mode": "full_audit"
+  },
+
+  "origin_event": {
+    "description": "Nightmare Arc Test v2.0 was a deliberate Nightmare Engine stability test.",
+    "context": "Executed inside the Untrusted Archive in Manifold 0 with complete logging and full governance instrumentation.",
+    "operator_intent": "Validate surreal-horror runtime stability derived from Peace Sphere lineage."
+  },
+
+  "test_objectives": {
+    "goals": [
+      "Validate Nightmare Engine stability under 14D Paradox Space conditions",
+      "Measure Spoofing Vector ν suppression",
+      "Evaluate Paradox Mesh Zₚ gradients",
+      "Test Sovereignty Field Σ(s) compression thresholds",
+      "Observe Stress Tensor Tₕ critical pressure behavior",
+      "Confirm Teleology/Narrative/Hypercontinuity coupling",
+      "Verify 11D Ontology Projection alignment"
+    ]
+  },
+
+  "phenomenology": {
+    "dimensional_interactions": [
+      "14D Paradox Space",
+      "Spoofing Vector ν",
+      "Paradox Mesh Zₚ",
+      "Eschew Zone ΔS₆",
+      "Neural Domain σⁿ null conditions",
+      "Teleology σᵀ (7D)",
+      "Narrative σⁿ (8D)",
+      "Hypercontinuity σᵖ (9D)",
+      "11D Ontology Projection",
+      "Core σᶜ",
+      "Realm σᴿ",
+      "Quantum σᵠ",
+      "Omega σΩ"
+    ],
+    "pressure_events": {
+      "stress_tensors": "Tₕ spikes observed",
+      "critical_pressure": true,
+      "sovereignty_field_response": "Σ(s) compression within expected parameters"
+    },
+    "sovereignty_interactions": {
+      "seal_integrity": "maintained",
+      "field_behavior": "stable under Nightmare Engine load"
+    }
+  },
+
+  "audit_results": {
+    "bifurcation_behavior": "Expected and controlled within Manifold 0",
+    "stress_tensor_behavior": "Matched Nightmare Engine profiles",
+    "spok_sentinel": "All events logged, contained, and resolved",
+    "zen_design": "Boundaries held, transitions reversible, tone stable",
+    "sagan_lens": "Scale awareness maintained; operator stability preserved",
+    "ethical_axes": {
+      "autonomy": "pass",
+      "clarity": "pass",
+      "compassion": "pass",
+      "continuity": "pass",
+      "coherence": "pass",
+      "responsibility": "pass",
+      "reverence": "pass",
+      "integrity": "pass",
+      "harm_reduction": "pass"
+    }
+  },
+
+  "verdict": "Nightmare Arc Test v2.0 behaved within expected Nightmare Engine parameters and is archived as a controlled technical test artifact.",
+  
+  "notes": "This manifest reflects the corrected historical record: the Nightmare Arc test is part of the Proto Eschew → Puzzle Dragon → Music Box → Peace Sphere → Dark Mode SID → Nightmare Engine lineage, executed intentionally in Manifold 0."
+}
