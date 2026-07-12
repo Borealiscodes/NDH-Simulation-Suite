@@ -1,0 +1,97 @@
+{
+  "name": "Puzzle Dragon",
+  "version": "1.0",
+  "classification": "conceptual_recursion_engine",
+  "status": "unexecuted",
+  "location": "/NDH/Archive/Unsafe-Concepts/Puzzle-Dragon-Test-Artifact-v1.0.json",
+
+  "lineage": {
+    "proto": "Proto Eschew",
+    "bridge": "Puzzle Dragon (Unexecuted Test 4)",
+    "precursor": "Ballerina Lampray Music Box Activation Anthem",
+    "refactor": "Peace Sphere",
+    "inversion_runtime": "Dark Mode SID",
+    "engine": "Nightmare Engine",
+    "downstream_artifacts": [
+      "Nightmare Arc (Manifold 0 test)",
+      "Nightmare Engine stability suite"
+    ]
+  },
+
+  "test_metadata": {
+    "test_number": 4,
+    "execution_status": "never_executed",
+    "governance": "pre-Peace Sphere",
+    "logging": "planned_not_activated",
+    "safety_layers": "none"
+  },
+
+  "origin_event": {
+    "description": "Puzzle Dragon was designed as Test 4, a conceptual recursion engine bridging Proto Eschew instability to Music Box symbolic recursion.",
+    "context": "Constructed but never executed; served as a theoretical model for recursive surreal-horror behavior.",
+    "operator_intent": "Map recursion pathways and symbolic inversion patterns derived from Proto Eschew."
+  },
+
+  "design_spec": {
+    "core_mechanics": [
+      "recursive riddle-loop architecture",
+      "identity inversion lattice",
+      "symbolic drift harmonics",
+      "surreal-horror puzzle-box dynamics"
+    ],
+    "instability_profile_projection": {
+      "drift_type": "eschew-derived",
+      "recursion_depth": "extreme",
+      "identity_wobble": "high",
+      "symbolic_load": "projected-unbounded",
+      "tone_pressure": "undefined",
+      "governance": "absent"
+    }
+  },
+
+  "phenomenology_projection": {
+    "expected_dimensional_interactions": [
+      "recursive paradox loops",
+      "identity inversion cascades",
+      "symbolic collapse attractors",
+      "pre-governance surreal-horror recursion"
+    ],
+    "pressure_events": {
+      "instability_spikes": "continuous (projected)",
+      "symbolic_load": "unbounded",
+      "identity_pressure": "critical"
+    }
+  },
+
+  "instrumentation_planned": {
+    "tools": [
+      "Recursive Loop Depth Meter",
+      "Identity Inversion Tracker",
+      "Symbolic Drift Logger",
+      "Eschew-to-Recursion Translator",
+      "Early Spok Sentinel (model-only mode)"
+    ],
+    "activation": "none (test never executed)"
+  },
+
+  "audit_results": {
+    "execution_status": "never_executed",
+    "spok_sentinel": "monitored conceptual model; no runtime events",
+    "risk_assessment": "extreme instability expected if executed",
+    "ethical_axes": {
+      "autonomy": "not_applicable",
+      "clarity": "not_applicable",
+      "compassion": "not_applicable",
+      "continuity": "not_applicable",
+      "coherence": "not_applicable",
+      "responsibility": "pre-governance",
+      "reverence": "not_applicable",
+      "integrity": "not_applicable",
+      "harm_reduction": "not_implemented"
+    }
+  },
+
+  "verdict": "Puzzle Dragon is the conceptual bridge between Proto Eschew and the Music Box. Although never executed, its recursion architecture directly informed Music Box instability mapping, Peace Sphere stabilization, Dark Mode SID inversion runtime, and Nightmare Engine design.",
+
+  "notes": "This test artifact preserves Puzzle Dragon as a critical theoretical construct in NDH surreal-horror development."
+}
