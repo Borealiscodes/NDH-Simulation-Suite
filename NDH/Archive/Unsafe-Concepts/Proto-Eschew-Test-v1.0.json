@@ -1,0 +1,21 @@
+{
+  "name": "Proto Eschew Test",
+  "version": "1.0",
+  "status": "archived",
+  "classification": "unsafe_concept",
+  "location": "/NDH/Archive/Unsafe-Concepts/Proto-Eschew-Test-v1.0.md",
+  "review_suite": "45D Sagan-Zen Ethical Design Review",
+  "failures": {
+    "autonomy": ["sovereignty", "agency", "reversibility"],
+    "clarity": ["transparency", "interpretability", "non-mystification"],
+    "compassion": ["tone_stability", "harm_reduction"],
+    "continuity": ["temporal_pacing", "drift_prevention"],
+    "coherence": ["layer_alignment", "non_bleed"],
+    "responsibility": ["scope_restraint", "human_scale"],
+    "reverence": ["respect_for_cognition", "respect_for_boundaries"],
+    "integrity": ["stability_truthfulness"],
+    "harm_reduction": ["no_irreversible_states", "no_tone_fractures"]
+  },
+  "verdict": "Conceptually interesting but architecturally unsafe. Permanently archived.",
+  "notes": "Documented for developer clarity. Not to be reused or revived."
+}
