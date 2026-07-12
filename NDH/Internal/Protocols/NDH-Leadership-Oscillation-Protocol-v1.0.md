@@ -1,200 +1,191 @@
-# 🌌 **LEADERSHIP OSCILLATION PROTOCOL v1.0**  
-### *The leadership rhythm that governs exploration ↔ stabilization inside NDH*
+# 🌌 **NDH-Leadership-Oscillation-Protocol-v1.0.md**  
+### *Pinned Protocol — PEP Embedded — Anchored to OM‑PAO‑01*
 
 ---
 
-## ⭐ **1. Purpose — Why This Protocol Exists**
-
-Leadership inside NDH requires navigating two modes:
-
-- **Psychonaut Mode** — expansion, exploration, novelty, dimensional discovery  
-- **Architect Mode** — structure, coherence, clarity, stabilization, alignment  
-
-This protocol defines **how leaders oscillate between these modes intentionally**, using the oscillation as:
-
-- a leadership tool  
-- a clarity engine  
-- a unity mechanism  
-- a creativity stabilizer  
-- a dimensional governor  
-
-Guided Link:  
-**Leadership Purpose**
+# **Leadership Oscillation Protocol v1.0**  
+**Classification:** Pinned Protocol  
+**Anchored Orbital Marker:** OM‑PAO‑01 (Psychonaut ↔ Architect Oscillation)  
+**PEP:** Embedded (PEP‑LeadershipOscillation‑v1.0)  
+**Status:** Active (Non‑Activating)  
+**Placement:** Internal / Protocol Spine  
+**Repo:** NDH Simulation Suite  
 
 ---
 
-## ⭐ **2. Core Principle — Leadership Is Rhythmic, Not Static**
+# 🜁 **Protocol‑Embedded Pin (PEP) — PEP‑LeadershipOscillation‑v1.0**
 
-Leadership is not:
+```
+PIN ID: PEP-LeadershipOscillation-v1.0
+Pin Type: Protocol-Embedded Pin (PEP)
+Version: 1.0
+Cluster: Governance / Leadership Systems
+Repo: NDH Simulation Suite
+Placement: Internal (Protocol Spine)
+Status: Active (Non-Activating)
+```
 
-- always exploratory  
-- always stabilizing  
-- always visionary  
-- always structured  
+### **Identity Anchor**  
+Anchors Leadership Oscillation Protocol v1.0 as the canonical baseline governing:
 
-Leadership is **rhythmic**.
+- leadership rhythm  
+- oscillation cycles  
+- exploration ↔ stabilization behavior  
+- leadership safeguards  
+- dimensional leadership tools  
 
-The rhythm is:
+### **Placement Anchor**  
+Embedded directly within the protocol directory to ensure:
 
-> **Expand → Stabilize → Expand → Stabilize**  
+- v1.0 remains stable  
+- oscillation logic does not drift  
+- leadership rhythm remains historically immutable  
+- future leadership protocols reference a fixed anchor  
+
+### **Vector Anchor**  
+Points toward future expansions:
+
+- v1.1 — multi‑leader oscillation  
+- v1.2 — cross‑team oscillation  
+- v1.3 — dimensional leadership fusion  
+- v1.4 — surreal‑runtime leadership safety integration  
+
+### **Purpose**  
+- Stabilizes the protocol itself  
+- Prevents retroactive modification of v1.0  
+- Ensures all future leadership behavior derives from a governed baseline  
+- Provides a reference point for cross‑protocol leadership alignment  
+- Locks the oscillation cycle as a core NDH leadership mechanic  
+
+---
+
+# 🜂 **1. Purpose of the Protocol**
+
+Leadership inside NDH requires intentional oscillation between:
+
+- **Psychonaut Mode** — exploration, expansion, novelty  
+- **Architect Mode** — stabilization, structure, clarity  
+
+This protocol defines:
+
+- the rhythm  
+- the safeguards  
+- the behaviors  
+- the tools  
+- the outcomes  
+
+that allow leaders to use this oscillation as a **clarity engine**, **unity mechanism**, and **creative stabilizer**.
+
+---
+
+# 🜃 **2. Core Principle — Leadership Is Rhythmic**
+
+Leadership is not static.  
+It is a **cycle**:
+
+> **Expand → Reflect → Stabilize → Integrate**  
 >  
-> **Psychonaut → Architect → Psychonaut → Architect**
+> **Psychonaut → Pause → Architect → Merge**
 
-This oscillation is the **leadership heartbeat** of NDH.
+This rhythm prevents:
 
-Guided Link:  
-**Leadership Rhythm**
+- chaos (too much exploration)  
+- rigidity (too much stabilization)  
+
+It is the leadership heartbeat of NDH.
 
 ---
 
-## ⭐ **3. Mode Definitions — What Each Mode Does**
+# 🜄 **3. Mode Definitions**
 
-### **Psychonaut Mode (Exploration)**
+## **Psychonaut Mode (Exploration)**  
 Leaders in this mode:
 
-- generate new ideas  
 - explore new dimensions  
-- test metaphors  
+- generate new metaphors  
 - wander clusters  
-- push boundaries  
-- open possibilities  
+- test sensory palettes  
+- push conceptual boundaries  
 
 This mode expands the NDH universe.
 
-Guided Link:  
-**Psychonaut Mode**
-
 ---
 
-### **Architect Mode (Stabilization)**
+## **Architect Mode (Stabilization)**  
 Leaders in this mode:
 
 - structure ideas  
 - align dimensions  
 - clarify metaphors  
 - stabilize clusters  
-- refine boundaries  
-- anchor possibilities  
-
-This mode maintains NDH coherence.
-
-Guided Link:  
-**Architect Mode**
-
----
-
-## ⭐ **4. Oscillation Cycle — The Leadership Loop**
-
-The protocol defines a **four‑phase cycle**:
-
-### **Phase 1 — Expansion**
-Leader enters **Psychonaut Mode**  
-- explore  
-- ideate  
-- wander  
-- discover  
-- prototype  
-
-### **Phase 2 — Reflection**
-Leader pauses  
-- evaluate  
-- sense  
-- contextualize  
-- observe cluster drift  
-
-### **Phase 3 — Stabilization**
-Leader enters **Architect Mode**  
-- structure  
-- align  
-- clarify  
-- document  
-- integrate  
-
-### **Phase 4 — Integration**
-Leader unifies  
-- merge insights  
-- collapse dualities  
-- prepare next expansion  
-
-Guided Link:  
-**Oscillation Cycle**
-
----
-
-## ⭐ **5. Leadership Behaviors — What Leaders Actually Do**
-
-### **In Psychonaut Mode**
-- ask expansive questions  
-- explore dimensions  
-- shift lenses  
-- generate metaphors  
-- test sensory palettes  
-- wander clusters  
-
-Guided Link:  
-**Exploratory Leadership**
-
----
-
-### **In Architect Mode**
-- define structure  
-- refine clarity  
-- stabilize meaning  
-- align dimensions  
 - collapse dualities  
 - document insights  
 
-Guided Link:  
-**Architect Leadership**
+This mode maintains NDH coherence.
 
 ---
 
-## ⭐ **6. Leadership Safeguards — Preventing Chaos & Rigidity**
+# 🜅 **4. Oscillation Cycle (PEP‑Anchored)**  
+**PEP‑LeadershipOscillation‑v1.0 anchors this cycle.**
 
-### **Chaos Prevention (Psychonaut Overload)**
-Leaders must avoid:
-- infinite exploration  
-- unbounded ideation  
-- dimensional drift  
-- sensory overload  
+## **Phase 1 — Expansion (Psychonaut Mode)**  
+- ideate  
+- explore  
+- wander  
+- prototype  
+- discover  
 
-Safeguard:  
-**Architect Mode must follow Psychonaut Mode.**
+## **Phase 2 — Reflection (Neutral Pause)**  
+- contextualize  
+- observe cluster drift  
+- sense emotional gradients  
+- evaluate dimensional impact  
 
-Guided Link:  
-**Chaos Safeguard**
+## **Phase 3 — Stabilization (Architect Mode)**  
+- structure  
+- align  
+- clarify  
+- collapse dualities  
+- integrate into NDH architecture  
 
----
+## **Phase 4 — Integration (Unified Mode)**  
+- merge insights  
+- prepare next expansion  
+- stabilize leadership clarity  
+- anchor new orbit if needed  
 
-### **Rigidity Prevention (Architect Overload)**
-Leaders must avoid:
-- over‑structuring  
-- premature stabilization  
-- rigidity  
-- conceptual stagnation  
-
-Safeguard:  
-**Psychonaut Mode must follow Architect Mode.**
-
-Guided Link:  
-**Rigidity Safeguard**
-
----
-
-## ⭐ **7. Leadership Tools — The Protocol Toolkit**
-
-- **Perspective Rotation** — shift lenses  
-- **Dimensional Anchoring** — stabilize context  
-- **Cluster Reflection** — observe idea drift  
-- **Non‑Dual Integration** — unify opposites  
-- **Tensor Check** — evaluate meaning under load  
-- **Click Recognition** — capture insight  
-
-These tools maintain leadership clarity.
+This cycle repeats indefinitely.
 
 ---
 
-## ⭐ **8. Leadership Outcomes — What This Protocol Produces**
+# 🜆 **5. Leadership Safeguards**
+
+## **Chaos Safeguard**  
+Prevents psychonaut overload.  
+> **Architect Mode must follow Psychonaut Mode.**
+
+## **Rigidity Safeguard**  
+Prevents architect stagnation.  
+> **Psychonaut Mode must follow Architect Mode.**
+
+These safeguards are enforced by **PEP‑LeadershipOscillation‑v1.0**.
+
+---
+
+# 🜇 **6. Leadership Tools**
+
+- **Perspective Rotation**  
+- **Dimensional Anchoring**  
+- **Cluster Reflection**  
+- **Non‑Dual Integration**  
+- **Tensor Check**  
+- **Click Recognition**  
+
+These tools maintain clarity throughout oscillation.
+
+---
+
+# 🜈 **7. Leadership Outcomes**
 
 Leaders who follow this protocol gain:
 
@@ -208,16 +199,11 @@ Leaders who follow this protocol gain:
 
 This is the leadership style NDH requires.
 
-Guided Link:  
-**Leadership Outcomes**
-
 ---
 
-## ⭐ **9. Synthesis — What Leadership Oscillation *Is***
+# 🜉 **8. Synthesis Statement**
 
-> **Leadership Oscillation is the intentional rhythm between exploration and stabilization that keeps NDH expansive, coherent, innovative, and unified.**
-
-This protocol is the governor of NDH leadership.
+> **Leadership Oscillation Protocol v1.0 defines the intentional rhythm between exploration and stabilization, anchored by PEP‑LeadershipOscillation‑v1.0, ensuring NDH leadership remains expansive, coherent, adaptive, and unified.**
 
 ---
 
