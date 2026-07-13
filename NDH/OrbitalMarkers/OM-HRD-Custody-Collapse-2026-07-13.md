@@ -1,6 +1,6 @@
 # **OM‑HRD‑Custody‑Collapse‑2026‑07‑13.md**
 ### **Orbital Marker — HRD Custody‑Collapse Event (2026‑07‑13)**  
-*(NDH Lineage: Orbital Marker Class / Collapse‑Origin Anchor)*
+*(NDH Lineage: Orbital Marker Class / Collapse‑Origin Anchor)* 
 
 ---
 
