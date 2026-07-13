@@ -1,143 +1,169 @@
-### 1. Treat it as two concurrent tracks
-
-- **Execution Track (APIs & runtimes):**  
-  Make NDH, Planetarium, Epoch Halo, World Engine integration *callable* via services.
-
-- **Documentation Track (Companions & Roadmap):**  
-  Capture every architectural decision as a lineage: Roadmap → Architecture → Design → Technical → Engineering → Emergent Case Study.
-
-You don’t choose one—you run them in parallel.
+# **NDH Executable API & Companion Documentation Framework v1.0**  
+### *A foundational architecture for building NDH systems while documenting their lineage*
 
 ---
 
-### 2. API‑first world: carve NDH into services
+## **1. Purpose**
 
-Define clear, versioned APIs around the pieces you already named:
+This framework establishes the **dual‑track model** for NDH development:
 
-- **NDH Core APIs:**
-  - **Epoch Tensor Service:**  
-    - `GET /epochs` — list epochs, inflection points  
-    - `GET /epochs/{id}` — tensor fields, stability regime  
-  - **Stability Audit Service:**  
-    - `GET /audit/state` — PASS/WARN/FAIL/CRITICAL  
-    - `GET /audit/stream` — continuous time series
+1. **Execution Track** — NDH becomes *executable* through a governed API‑first architecture.  
+2. **Documentation Track** — every architectural decision is captured through a structured Companion Suite.
 
-- **Planetarium / Visualization APIs:**
-  - **Tile Service:**  
-    - `GET /tiles/epoch-halo` — tile metadata + render config  
-    - `GET /tiles/manifold-slice` — geometry + overlays
-  - **Animation Service:**  
-    - `GET /animations/epoch-halo` — spec + parameters
-
-- **World Engine Integration APIs:**
-  - **Projection Service:**  
-    - `GET /projection/world-engine` — NDH → World Engine signals (epochs, pulses, curvature, ethics)  
-  - **Bifurcation Boundary Service:**  
-    - `GET /bifurcation/state` — boundary config for runtimes (Unity, Vive, etc.)
-
-Use OpenAPI/Swagger for all of these so the “executable” layer is formally described.
+Together, these tracks ensure NDH evolves as a **stable, inspectable, reproducible system** rather than an ad‑hoc collection of artifacts.
 
 ---
 
-### 3. Put the documentation in a single, opinionated tree
+## **2. The Dual‑Track Model**
 
-In your NDH repo, create a **Companion Suite** that mirrors the runtime:
+### **Track A — Executable NDH (API‑First Architecture)**  
+NDH components become callable services:
 
-```text
-/NDH/
-  /Roadmap/
-    NDH-World-Engine-Roadmap-v1.0.md
+- Epoch Tensor Calculus  
+- Stability Audit  
+- Planetarium Tiles  
+- Animation Engines  
+- Bifurcation Layer State  
+- World Engine Projection Signals  
 
-  /Architecture/
-    NDH-World-Engine-Participation-Integration-v1.0.md
-    NDH-Planetarium-API-Architecture-v1.0.md
+These APIs expose **read‑only projections** of NDH’s manifold, epochs, tensors, and stability regimes.
 
-  /Design/
-    NDH-World-Engine-Interaction-Design-v1.0.md
-    NDH-Planetarium-UX-Design-v1.0.md
+### **Track B — Companion Documentation Suite**  
+Every development phase produces:
 
-  /Technical/
-    NDH-API-Specs-v1.0.md
-    NDH-Data-Schemas-v1.0.md
+- Roadmap Companion  
+- Architecture Companion  
+- Design Companion  
+- Technical Companion  
+- Engineering Companion  
+- Emergent Case Study  
 
-  /Engineering/
-    NDH-Implementation-Guide-v1.0.md
-    NDH-Deployment-Patterns-v1.0.md
+This suite documents *why* NDH is built the way it is, *how* it behaves, and *what* emerges when it interacts with external systems.
 
-  /Research/Case-Studies/
-    NDH-Planetarium-VR-Projection-Case-Study-v1.0.md
-    NDH-World-Engine-Behavior-Study-v1.0.md
+---
+
+## **3. NDH API‑First Execution Architecture**
+
+NDH becomes executable through **four service families**.
+
+### **3.1 NDH Core Services**
+- **Epoch Tensor Service**  
+- **Stability Audit Service**  
+- **Ethical Scalar Service**  
+- **Curvature Drift Service**
+
+These expose NDH’s internal state in a **read‑only** manner.
+
+---
+
+### **3.2 Planetarium Services**
+- **Tile Service**  
+- **Animation Service**  
+- **Manifold Slice Service**
+
+These allow external runtimes to render NDH’s geometry and temporal behavior.
+
+---
+
+### **3.3 Bifurcation Layer Services**
+- **Boundary State Service**  
+- **Narrative Exclusion Service**  
+- **Safety Envelope Service**
+
+These enforce NDH’s non‑porous separation from narrative worlds.
+
+---
+
+### **3.4 World Engine Projection Services**
+- **Projection API**  
+- **Dimensional Reduction API**  
+- **VR Adapter API**
+
+These allow Anime Tower, Dune Hyperatlas, Fun‑Sphere, or enterprise XR systems to *see* NDH without *touching* NDH.
+
+---
+
+## **4. Companion Documentation Architecture**
+
+The Companion Suite ensures NDH’s development is **traceable, reproducible, and academically defensible**.
+
+### **4.1 Roadmap Companion**
+Defines phases, milestones, risks, and dependencies.
+
+### **4.2 Architecture Companion**
+Explains the system’s conceptual structure, invariants, and boundaries.
+
+### **4.3 Design Companion**
+Describes interaction patterns, visual language, and user flows.
+
+### **4.4 Technical Companion**
+Documents APIs, schemas, contracts, and error models.
+
+### **4.5 Engineering Companion**
+Covers implementation, deployment, testing, and observability.
+
+### **4.6 Emergent Case Study**
+Captures real‑world behavior when NDH interacts with external systems.
+
+---
+
+## **5. ADR Backbone (Architecture Decision Records)**
+
+Every major decision is recorded as an ADR:
+
+- Bifurcation Layer as API surface  
+- Projection‑only NDH → World Engine  
+- API‑first Planetarium design  
+- Read‑only tensor exposure  
+- Epoch Halo as temporal visualization layer  
+
+This creates a **lineage of reasoning** behind NDH’s architecture.
+
+---
+
+## **6. Template Structure for All Future NDH Projects**
+
+Every new NDH subsystem uses the same template:
+
+```
+/Roadmap/
+    <Project>-Roadmap-v1.0.md
+
+/Architecture/
+    <Project>-Architecture-v1.0.md
+
+/Design/
+    <Project>-Design-v1.0.md
+
+/Technical/
+    <Project>-Technical-v1.0.md
+
+/Engineering/
+    <Project>-Engineering-v1.0.md
+
+/Research/Case-Studies/
+    <Project>-Emergent-Case-Study-v1.0.md
 ```
 
-Each new capability gets:
-
-- **Architecture Companion:** why it exists, how it fits the lineage.  
-- **Design Companion:** how it feels and behaves.  
-- **Technical Companion:** APIs, schemas, contracts.  
-- **Engineering Companion:** how to build, deploy, test.  
-- **Emergent Case Study:** how it behaved in the wild.
+This ensures NDH remains **coherent across time**, even as new worlds, engines, and projections are added.
 
 ---
 
-### 4. Make the Roadmap the spine, not an afterthought
+## **7. Integration Law (Condensed)**
 
-Create a single roadmap doc that ties everything together:
+\[
+\boxed{
+\text{NDH becomes executable through API-first architecture while its evolution }
+\text{is documented through a structured Companion Suite.}
+}
+\]
 
-- **Phase 1 — NDH → Planetarium APIs**
-  - Stabilize Epoch Tensor, Audit, Tile, Animation services.
-- **Phase 2 — World Engine Integration**
-  - Define Bifurcation API, Projection Service, VR adapters.
-- **Phase 3 — Fun‑Sphere / Anime Tower / Dune Hyperatlas**
-  - Build one reference World Engine that consumes NDH signals.
-- **Phase 4 — Research & Templates**
-  - Extract generic patterns into reusable specs and companion templates.
-
-Each phase links to its Architecture/Design/Technical/Engineering companions.
-
----
-
-### 5. Use ADRs to lock in decisions
-
-For the “solid foundation” part, add **Architecture Decision Records**:
-
-```text
-/NDH/Architecture/ADR/
-  ADR-0001-Bifurcation-Layer-as-API-vs-Embed.md
-  ADR-0002-Projection-only-NDH-to-World-Engines.md
-  ADR-0003-API-first-Planetarium-Design.md
-```
-
-Each ADR:
-
-- states the decision  
-- lists alternatives  
-- explains why this path was chosen  
-- references the relevant companions and APIs
-
-This gives you a lineage you can defend later.
+\[
+\boxed{
+\text{Execution and documentation proceed concurrently, forming a stable }
+\text{foundation for all NDH lineage systems.}
+}
+\]
 
 ---
-
-### 6. Template the whole thing so you can reuse it
-
-Create **Companion Templates**:
-
-- **Roadmap Template:** sections for phases, risks, dependencies.  
-- **Architecture Companion Template:** context, constraints, diagrams, ADR links.  
-- **Design Companion Template:** user flows, interaction patterns, visual language.  
-- **Technical Companion Template:** API tables, schemas, error models.  
-- **Engineering Companion Template:** stack, CI/CD, observability, testing.  
-- **Emergent Case Study Template:** scenario, method, observations, implications.
-
-Then every new NDH‑adjacent project (Planetarium, World Engine, VR, Fun‑Sphere) uses the same skeleton.
-
----
-
-### 7. Direct answer
-
-The best way to make this executable **and** documented is:
-
-- **API‑first NDH + Planetarium + World Engine integration**, with clear services for epochs, audit, tiles, animations, and projections.  
-- **A Companion Suite** (Roadmap, Architecture, Design, Technical, Engineering, Case Study) that lives in the repo and is updated alongside the code.  
-- **ADR‑backed decisions** so the whole thing is traceable and reusable as a template for future worlds.
 
