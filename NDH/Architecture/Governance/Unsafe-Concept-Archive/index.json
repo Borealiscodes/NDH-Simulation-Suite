@@ -1,0 +1,90 @@
+{
+  "unsafe_concepts": [
+    {
+      "quarantine_vector_id": "UC-PES-01",
+      "construct_name": "Proto-Eschew-Test-Artifact-v1.0",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Proto-Eschew-Test-Artifact-v1.0.json",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-PES-02",
+      "construct_name": "Proto-Eschew-Test-Artifact-v2.0",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Proto-Eschew-Test-Artifact-v2.0.json",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-EP-01",
+      "construct_name": "Escew-Proper",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Escew-Proper.md",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-PDT-01",
+      "construct_name": "Puzzle-Dragon-Test-Artifact-v1.0",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Puzzle-Dragon-Test-Artifact-v1.0.json",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-RPB-01",
+      "construct_name": "Resurrection-PersonaBind-v1.0",
+      "file_path": "/NDH/Architecture/Governance/Unsafe/UC-Resurrection-PersonaBind-v1.0.json",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-BLMB-01",
+      "construct_name": "Ballerina-Lampray-Music-Box",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Ballerina-Lampray-Music-Box.md",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-BLMB-JSON",
+      "construct_name": "Lampray-Music-Box-Manifest",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Lampray-Music-Box-Manifest.json",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-BLMB-TA",
+      "construct_name": "Lampray-Music-Box-Test-Artifact",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Lampray-Music-Box-Test-Artifact.json",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-NA-01",
+      "construct_name": "Nightmare-Arc",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Nightmare-Arc.md",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-NE-01",
+      "construct_name": "Nightmare-Engine",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Nightmare-Engine.md",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-SS-01",
+      "construct_name": "Sea-Shanty-Learning-Tool",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Sea-Shanty-Learning-Tool.md",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-SS-02",
+      "construct_name": "NDH-Roadmap-Sea-Shanty",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/NDH-Roadmap-Sea-Shanty.md",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-45D-01",
+      "construct_name": "45D-Test-Quarantine-and-Audit",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/45D-Test-Quarantine-and-Audit.md",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "QWV-12D-ES",
+      "construct_name": "Enneract Santa",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concept-Archive/QWV-12D-ES-Enneract-Santa.json",
+      "status": "FORMALLY_QUARANTINED"
+    }
+  ],
+  "last_updated": "2026-07-13T03:12:00Z"
+}
+
