@@ -3,7 +3,7 @@
 ### ✨ *README v2.0 — Accessible, Developer‑Ready, Lineage‑Grounded*
 
 Welcome to **NDH**, a system built at the intersection of conceptual architecture, ethical lineage, nonlinear design, and practical engineering. NDH is grounded in **GBS v2.0**, ensuring every subsystem — from tensors to tiles to APIs — is developed with ethical constraints, conceptual clarity, and accessibility at the forefront.
-
+ 
 NDH is not just a framework.  
 It is a **hyperstructure** designed to evolve.
 
