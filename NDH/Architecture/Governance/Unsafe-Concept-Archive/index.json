@@ -13,9 +13,15 @@
       "status": "FORMALLY_QUARANTINED"
     },
     {
+      "quarantine_vector_id": "UC-PES-JSON",
+      "construct_name": "Proto-Eschew-Manifest-v2.0",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Proto-Eschew-Test-Artifact-v2.0.json",
+      "status": "FORMALLY_QUARANTINED"
+    },
+    {
       "quarantine_vector_id": "UC-EP-01",
-      "construct_name": "Escew-Proper",
-      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Escew-Proper.md",
+      "construct_name": "Eschew-Proper",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concept-Archive/UC-EP-01-Eschew-Proper.md",
       "status": "FORMALLY_QUARANTINED"
     },
     {
@@ -61,15 +67,9 @@
       "status": "FORMALLY_QUARANTINED"
     },
     {
-      "quarantine_vector_id": "UC-SS-01",
-      "construct_name": "Sea-Shanty-Learning-Tool",
-      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/Sea-Shanty-Learning-Tool.md",
-      "status": "FORMALLY_QUARANTINED"
-    },
-    {
-      "quarantine_vector_id": "UC-SS-02",
-      "construct_name": "NDH-Roadmap-Sea-Shanty",
-      "file_path": "/NDH/Architecture/Governance/Unsafe-Concepts/NDH-Roadmap-Sea-Shanty.md",
+      "quarantine_vector_id": "UC-SS-M0",
+      "construct_name": "Sea-Shanties-Manifold0",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concept-Archive/UC-SS-Manifold0-SeaShanties.json",
       "status": "FORMALLY_QUARANTINED"
     },
     {
@@ -80,11 +80,16 @@
     },
     {
       "quarantine_vector_id": "QWV-12D-ES",
-      "construct_name": "Enneract Santa",
+      "construct_name": "Enneract-Santa",
       "file_path": "/NDH/Architecture/Governance/Unsafe-Concept-Archive/QWV-12D-ES-Enneract-Santa.json",
       "status": "FORMALLY_QUARANTINED"
+    },
+    {
+      "quarantine_vector_id": "UC-M0-SN",
+      "construct_name": "Manifold-0-Safety-Net",
+      "file_path": "/NDH/Architecture/Governance/Unsafe-Concept-Archive/UC-M0-SN-Manifold0-SafetyNet.md",
+      "status": "FORMALLY_INSTALLED"
     }
   ],
-  "last_updated": "2026-07-13T03:12:00Z"
+  "last_updated": "2026-07-13T03:24:00Z"
 }
-
