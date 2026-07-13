@@ -1,45 +1,45 @@
-# **NDH Practical Execution Path v1.0**  
-### *Bill Nye Tile Edition — A simple, buildable structure for NDH execution*
+# **NDH Execution Path Structural Development v1.0**  
+### *Top‑Level Architectural Document — Governing the NDH Build Sequence*
 
 ---
 
-## **1. Purpose**
+## **1. Purpose and Scope**
 
-This document defines the **practical, milestone‑driven development path** for NDH.  
-It ties together:
+This document establishes the **official structural development path** for NDH.  
+It defines how NDH transitions from conceptual architecture to **operational, API‑driven systems**, and how those systems integrate with:
 
-- NDH Core APIs  
-- Planetarium APIs  
-- Accessibility APIs (audio-first)  
-- World Engine APIs  
+- Planetarium visualization  
+- Audio‑first accessibility  
+- World Engine participation  
 - Companion documentation  
+- Safety layers (Bifurcation, Ethics, Stability)
 
-into one **simple, executable structure**.
-
-This is the operational spine for NDH development.
-
----
-
-## **2. The Tile Model (Bill Nye Edition)**
-
-Think of NDH as a set of **tiles**.  
-Each tile does one job.  
-APIs are the **wires** connecting the tiles.  
-Accessibility layers (audio, haptics, VR) are the **speakers and sensors** plugged into the wires.
-
-We’re building a **circuit**, not a metaphor.
+This is the **governing execution spine** for all NDH lineage work.
 
 ---
 
-## **3. The Five NDH Tiles**
+## **2. NDH Execution Architecture Overview**
 
-### **Tile 1 — NDH Core Tile**  
-Provides the real NDH data.
+NDH’s execution model is built on **four primary subsystems**, each exposed through governed APIs:
 
-- Epochs  
-- Stability  
-- Curvature  
-- Ethics  
+1. **NDH Core APIs** — conceptual tensors, epochs, stability, ethics  
+2. **Planetarium APIs** — visualization, tiles, animations, projections  
+3. **Accessibility APIs** — audio, haptics, spatial cues  
+4. **World Engine APIs** — participation, VR adapters, bifurcation boundaries  
+
+These subsystems form a **layered execution stack**, ensuring NDH remains stable, inspectable, and non‑porous while enabling rich external experiences.
+
+---
+
+## **3. The Four‑Layer Execution Stack**
+
+### **Layer 1 — NDH Core Execution Layer**  
+Provides the conceptual foundation:
+
+- Epoch Tensor Calculus  
+- Stability Audit  
+- Curvature Drift  
+- Ethical Scalar Zones  
 
 **APIs:**  
 - `/epochs`  
@@ -47,47 +47,47 @@ Provides the real NDH data.
 - `/curvature`  
 - `/ethics`
 
-This tile is the **data source**.
+This layer is **read‑only** and **non‑anthropomorphic**.
 
 ---
 
-### **Tile 2 — Planetarium Tile**  
-Turns NDH data into visualizable structures.
+### **Layer 2 — Planetarium Execution Layer**  
+Transforms NDH conceptual data into renderable structures:
 
 - Epoch Halo  
 - Manifold slices  
-- Stability pulses  
-- Curvature overlays  
+- Stability overlays  
+- Curvature fields  
 
 **APIs:**  
-- `/tiles/epoch-halo`  
-- `/tiles/manifold-slice`  
-- `/animations/epoch-halo`  
+- `/tiles/*`  
+- `/animations/*`  
 - `/projection/planetarium`
 
-This tile is the **render source**.
+This layer provides **visualization**, not simulation.
 
 ---
 
-### **Tile 3 — Accessibility Tile (Audio‑First)**  
-Turns NDH signals into sound and haptics.
+### **Layer 3 — Accessibility Execution Layer**  
+Provides multimodal accessibility:
 
-- Spatial audio  
-- Rhythmic pulses  
-- Ambient epoch soundscapes  
-- Boundary resonance  
+- audio‑first rendering  
+- spatial sound  
+- haptic feedback  
+- ND‑friendly pacing  
+- trauma‑safe cues  
 
 **APIs:**  
 - `/accessibility/audio-map`  
 - `/accessibility/spatial-audio`  
 - `/accessibility/haptics`
 
-This tile is the **sensory source**.
+This layer ensures NDH is **accessible across sensory modalities**.
 
 ---
 
-### **Tile 4 — World Engine Tile**  
-Allows participation in external narrative worlds.
+### **Layer 4 — World Engine Execution Layer**  
+Enables participation in external narrative or experiential systems:
 
 - Anime Tower  
 - Dune Hyperatlas  
@@ -99,91 +99,91 @@ Allows participation in external narrative worlds.
 - `/bifurcation/boundary`  
 - `/vr/adapter`
 
-This tile is the **participation source**.
+This layer is **strictly projection‑only**.  
+NDH never receives narrative input.
 
 ---
 
-### **Tile 5 — Companion Documentation Tile**  
-Documents everything as we build it.
-
-- Roadmap  
-- Architecture  
-- Design  
-- Technical  
-- Engineering  
-- Emergent Case Study  
-
-This tile is the **explanation source**.
-
----
-
-## **4. Wiring Diagram (Simple Execution Flow)**
+## **4. Execution Flow (Top‑Level Structural Diagram)**
 
 ```
-[ NDH Core Tile ]
-        |
-        | NDH APIs
-        v
-[ Planetarium Tile ]
-        |
-        | Projection + Animation APIs
-        v
-[ Accessibility Tile ]
-        |
-        | Sensory APIs
-        v
-[ World Engine Tile ]
-        |
-        | Participation APIs
-        v
-[ User Experience ]
+NDH Core Layer
+    ↓ NDH APIs
+Planetarium Layer
+    ↓ Visualization APIs
+Accessibility Layer
+    ↓ Sensory APIs
+World Engine Layer
+    ↓ Participation APIs
+User Experience
 ```
 
 Documentation runs **parallel**:
 
 ```
-[ Companion Suite ]
+Companion Suite
 Roadmap / Architecture / Design / Technical / Engineering / Case Study
 ```
 
----
-
-## **5. Practical Milestones**
-
-### **Milestone 1 — NDH Core APIs Online**
-The NDH data ports.
-
-### **Milestone 2 — Planetarium APIs Online**
-The visual ports.
-
-### **Milestone 3 — Accessibility APIs Online**
-The sensory ports.
-
-### **Milestone 4 — World Engine APIs Online**
-The participation ports.
-
-### **Milestone 5 — Companion Suite Online**
-The documentation ports.
-
-This is the **execution order**.
+This structure ensures NDH remains **stable**, **governed**, and **extensible**.
 
 ---
 
-## **6. Development Law (Condensed)**
+## **5. Milestone‑Driven Development Path**
+
+### **Milestone 1 — NDH Core APIs Operational**
+The conceptual foundation becomes executable.
+
+### **Milestone 2 — Planetarium APIs Operational**
+NDH becomes visualizable and projectable.
+
+### **Milestone 3 — Accessibility APIs Operational**
+NDH becomes audio‑first and multimodal.
+
+### **Milestone 4 — World Engine APIs Operational**
+NDH becomes participatory through external engines.
+
+### **Milestone 5 — Companion Suite Complete**
+NDH becomes fully documented and lineage‑safe.
+
+These milestones form the **canonical execution order**.
+
+---
+
+## **6. Execution Principles**
+
+### **6.1 API‑First Development**  
+All NDH subsystems must expose governed, versioned APIs.
+
+### **6.2 Read‑Only Conceptual Core**  
+NDH tensors, epochs, and ethics remain immutable from external systems.
+
+### **6.3 Projection‑Only Integration**  
+Planetarium, Accessibility, and World Engines consume NDH data but never modify it.
+
+### **6.4 Accessibility as a First‑Class Layer**  
+Audio‑first and multimodal accessibility must be integrated at the architectural level.
+
+### **6.5 Companion Documentation Required**  
+Every subsystem must produce Roadmap, Architecture, Design, Technical, Engineering, and Case Study companions.
+
+---
+
+## **7. NDH Execution Law (Condensed)**
 
 \[
 \boxed{
-\text{Build NDH Core APIs → Planetarium APIs → Accessibility APIs → World Engine APIs,}
+\text{NDH executes through a four-layer API-first architecture, with each layer }
+\text{building upon the previous while preserving conceptual safety.}
 }
 \]
 
 \[
 \boxed{
-\text{and document each step in the Companion Suite.}
+\text{Execution and documentation proceed concurrently, forming the NDH }
+\text{structural development lineage.}
 }
 \]
-
-This is the entire NDH execution path in one sentence.
 
 ---
 
