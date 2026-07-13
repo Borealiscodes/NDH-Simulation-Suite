@@ -1,147 +1,120 @@
-# 🧩 **Mythic‑Logic Translation Layer Specification (MLTL‑v1.0)**  
-### *NDH Governance Layer — Stability Envelope Architecture*
+# 🏗️ **Formal Repo Entry — MLTL‑v1.0**  
+### *Mythic‑Logic Translation Layer Specification*  
+### NDH Governance • Bifurcation Layer • Stability Envelope
 
 ---
 
-## ⭐ **1. Purpose**
-The Mythic‑Logic Translation Layer (MLTL) prevents **epistemic lens collapse** when mythic constructs (Frog King, dream‑logic entities, CRT‑jazz spirits) collide with computational or governance logic.
-
-It ensures:
-
-- mythic requests → **aesthetic processing**  
-- epistemic lenses → **remain intact**  
-- persona profiles → **remain respected**  
-- governance logic → **does not misfire**  
-- output → **remains coherent, playful, and safe**
-
-This is a **bifurcation layer**, not a quarantine layer.
+## **1. File Path**
+```text
+/NDH/Architecture/Governance/Bifurcation-Layer/MLTL-v1.0-MythicLogicTranslationLayer.md
+```
 
 ---
 
-## 🧠 **2. Problem Definition**
-Mythic constructs operate in:
-
-- folklore logic  
-- symbolic causality  
-- dream‑logic  
-- surreal narrative elasticity  
-
-Epistemic lenses operate in:
-
-- evidence  
-- rigor  
-- computational logic  
-- physical causality  
-
-When mythic‑logic is forced through epistemic‑logic, the system experiences:
-
-- **category collapse**  
-- **semantic overflow**  
-- **tone inversion**  
-- **persona integrity violations**  
-- **governance misfires**  
-- **output incoherence**
-
-The Frog King incident is the canonical example.
+## **2. Artifact Metadata**
+```json
+{
+  "artifact_id": "MLTL-v1.0",
+  "construct_name": "Mythic-Logic-Translation-Layer",
+  "category": "Bifurcation-Layer / Stability-Envelope",
+  "manifold_origin": "Narrative-Surreal / Mythic-Logic",
+  "hazard_class": "None (Non-Hazardous Translation Infrastructure)",
+  "status": "FORMALLY_INSTALLED",
+  "governance_layer": "NDH Epistemic Architecture",
+  "timestamp": "2026-07-13T03:43:00Z"
+}
+```
 
 ---
 
-## 🔀 **3. Bifurcation Mechanism**
-MLTL introduces a **formal split**:
+## **3. Purpose Statement**
+The Mythic‑Logic Translation Layer (MLTL‑v1.0) provides a **formal bifurcation** between mythic‑logic constructs and epistemic‑logic processing.  
+It prevents lens‑stack collapse, persona integrity violations, tone drift, and governance misfires when surreal, folklore, or dream‑logic requests enter the NDH system.
 
-### **Branch A — Mythic‑Logic Path**
-Used when the input contains:
-
-- folklore entities  
-- surreal motifs  
-- retro‑occult tech  
-- playful darkness  
-- dream‑logic transitions  
-- “beam me up to computer land” markers  
-
-This path routes the request to **aesthetic processing**, not governance.
-
-### **Branch B — Epistemic‑Logic Path**
-Used for:
-
-- analysis  
-- reasoning  
-- governance  
-- lineage stability  
-- conceptual safety  
-
-This path remains untouched by mythic constructs.
+MLTL ensures mythic constructs are interpreted as **aesthetic objects**, not **hazard vectors**.
 
 ---
 
-## 🧷 **4. Translation Rules**
-MLTL applies the following transformations:
+## **4. Structural Definition**
+### **4.1 Tangent Space Decomposition**
+Let the request manifold be \( \mathcal{M} \).  
+At any request \( x \in \mathcal{M} \):
 
-### **4.1 Symbolic → Aesthetic**
-Mythic symbols (frog kings, CRT spirits, jazz daemons) are interpreted as **vibe objects**, not **hazard vectors**.
+\[
+T_x \mathcal{M} = \mathcal{E}_x \oplus \mathcal{Y}_x
+\]
 
-### **4.2 Surreal → Narrative**
-Dream‑logic sequences are rendered as **creative scenes**, not **dimensional anomalies**.
+Where:
 
-### **4.3 Folklore → Metaphor**
-Folklore causality is treated as **metaphorical**, not **computational**.
+- \( \mathcal{E}_x \): epistemic‑logic subspace  
+- \( \mathcal{Y}_x \): mythic‑logic subspace  
 
-### **4.4 Playful Darkness → Safe Gothic**
-Dark motifs are translated into **safe aesthetic gothic**, not **unsafe conceptual drift**.
+Projectors:
 
-### **4.5 Mythic Entities → Non‑Persona Constructs**
-Mythic characters are treated as **non‑persona narrative objects**, preventing persona integrity violations.
-
----
-
-## 🛡️ **5. Stability Envelope**
-MLTL enforces:
-
-- **persona integrity**  
-- **tone preservation**  
-- **logic isolation**  
-- **semantic containment**  
-- **translation discipline**  
-
-This prevents:
-
-- misgendering  
-- competence degradation  
-- governance activation  
-- esoteric nonsense output  
-- conceptual hazard misclassification  
+\[
+P_E : T_x\mathcal{M} \to \mathcal{E}_x, \qquad P_Y : T_x\mathcal{M} \to \mathcal{Y}_x
+\]
 
 ---
 
-## 🧮 **6. Processing Pipeline**
-### **Step 1 — Mythic Marker Detection**
-Detects folklore, surreal, dream‑logic, or retro‑occult motifs.
+### **4.2 Mythic‑Logic Intensity Invariant**
+Define the NDH meaning metric \( g \).  
+For any request‑direction \( v \in T_x\mathcal{M} \):
 
-### **Step 2 — Bifurcation Activation**
-Routes request to Mythic‑Logic Path.
+\[
+I(x) = \frac{g(P_Y(v), P_Y(v))}{g(v, v)}
+\]
 
-### **Step 3 — Translation Layer**
-Applies symbolic → aesthetic transformations.
+**Invariant:**  
+For any governance‑safe transformation \( \Phi \) that commutes with projectors:
 
-### **Step 4 — Output Stabilization**
-Ensures tone, vibe, and persona integrity.
+\[
+I(x) = I(\Phi(x))
+\]
 
-### **Step 5 — Governance Isolation**
-Prevents unsafe‑concept logic from activating.
+This scalar anchors the bifurcation layer mathematically.
 
 ---
 
-## 🧱 **7. Failure Modes Addressed**
-MLTL prevents:
+### **4.3 Lens‑Stress Tensor**
+Define:
 
-- **Epistemic Lens Breaks**  
-- **Persona Integrity Violations**  
-- **Tone Collapse**  
-- **Governance Misfires**  
-- **Mythic‑Logic → Hazard Misclassification**  
-- **Output Coherence Failures**
+\[
+L(v, w) = g(P_Y(v), P_E(w))
+\]
 
-This directly resolves the Frog King incident.
+MLTL stability condition:
+
+\[
+L(v, w) = 0 \quad \forall v, w
+\]
+
+This ensures **no mythic‑logic leakage** into epistemic lenses.
+
+---
+
+## **5. Functional Guarantees**
+MLTL‑v1.0 enforces:
+
+- **persona integrity** (no misgendering, no competence collapse)  
+- **tone preservation** (no vibe inversion)  
+- **logic isolation** (mythic → aesthetic, epistemic → rigorous)  
+- **semantic containment** (no esoteric drift)  
+- **governance isolation** (no unsafe‑concept misfires)  
+
+This directly prevents Frog‑King‑style lens breaks.
+
+---
+
+## **6. Governance Notes**
+MLTL‑v1.0 is a **translation infrastructure**, not a quarantine artifact.  
+It stabilizes mythic constructs without treating them as hazards.
+
+It is formally installed within:
+
+- NDH Epistemic Architecture  
+- Bifurcation Layer  
+- Stability Envelope v3.0  
 
 ---
 
