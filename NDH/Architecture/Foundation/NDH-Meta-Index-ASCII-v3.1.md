@@ -1,0 +1,73 @@
+# 🐐📘 **NDH Meta Index — ASCII Visualization (v3.1)**  
+### *Folded Directory Map of the NDH Stability Geometry Ecosystem*
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│                     NDH META INDEX v3.1                      │
+│                 (Unified Stability Geometry Map)             │
+└──────────────────────────────────────────────────────────────┘
+
+                          ┌──────────────┐
+                          │  MANIFOLDS   │
+                          └──────┬───────┘
+                                 │
+     ┌───────────────────────────┼───────────────────────────┐
+     │                           │                           │
+┌────▼────┐                ┌─────▼────┐                ┌─────▼────┐
+│M0:GLIDER│                │HTV‑2 HYPO│                │HTV‑3 PROTO│
+└────┬────┘                └─────┬────┘                └─────┬────┘
+     │                           │                           │
+     │                           │                           │
+     ▼                           ▼                           ▼
+┌──────────┐              ┌──────────┐              ┌──────────┐
+│BASINS    │──────────────│TENSORS   │──────────────│INVARIANTS│
+└────┬─────┘              └────┬─────┘              └────┬─────┘
+     │                           │                           │
+     │                           │                           │
+     ▼                           ▼                           ▼
+┌──────────┐              ┌──────────┐              ┌──────────┐
+│CORRIDORS │──────────────│REDESIGN  │──────────────│ORIGAMI   │
+└────┬─────┘              └────┬─────┘              └────┬─────┘
+     │                           │                           │
+     │                           │                           │
+     ▼                           ▼                           ▼
+┌──────────┐              ┌──────────┐              ┌──────────┐
+│BLUEPRINT │──────────────│HYPERATLAS│──────────────│COMPANION │
+└────┬─────┘              └────┬─────┘              └────┬─────┘
+     │                           │                           │
+     │                           │                           │
+     ▼                           ▼                           ▼
+┌──────────┐              ┌──────────┐              ┌──────────┐
+│CASE STUDY│──────────────│MATH ANCHOR│─────────────│STRUCTURAL│
+└──────────┘              └──────────┘              │ORDER v3.1│
+                                                    └──────────┘
+```
+
+---
+
+# ⭐ How to Read the ASCII Meta Index  
+This ASCII diagram shows the **folded hierarchy** of NDH v3.1:
+
+- **Manifolds** sit at the top (M0, HTV‑2, HTV‑3).  
+- They feed into **Basins**, **Tensors**, and **Invariants**.  
+- These feed into **Corridors**, **Redesign**, and **Origami**.  
+- Those feed into **Blueprint**, **Hyperatlas**, and **Companion**.  
+- Everything ultimately anchors into the **Math Anchor** and the **Structural Order v3.1**.
+
+It is a **folded directory**, not a tree — reflecting NDH’s origami geometry.
+
+---
+
+# ⭐ Guided Links (for deeper dives)
+- **Manifolds**  
+- **Basins**  
+- **Tensors**  
+- **Invariants**  
+- **Corridors**  
+- **Redesign Geometry**  
+- **Origami System**  
+- **Hyperatlas**  
+- **Blueprint Suite**  
+
+---
+
