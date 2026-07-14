@@ -1,35 +1,33 @@
-# **NDH Road Map v2.0 — Formal Edition**  
-### *Implementation, expansion, multi‑manifold evolution.*
+# **NDH Road Map v2.0 — Updated & Fully Integrated**  
+### *With Phase 0: Emergent Context Layer added before all implementation work.*
 
 ---
 
-## ⭐ 1. Purpose of Road Map v2.0  
-Road Map v1.0 defined the NDH universe.  
-Road Map v2.0 builds it.
+## **0. Emergent Context Layer (Required Reading)**  
+Before any v2.0 development begins, contributors must read:
 
-This roadmap governs:
+- **NDH Comprehensive Emergent Case Study v2.0**  
+- **NDH Emergent Case Study v1.0**  
+- **NDH Emergent Case Study Precursor v1.0**  
 
-- implementation  
-- tooling  
-- sensory engines  
-- simulators  
-- multi‑manifold support  
-- inter‑manifold bridges  
-- K‑space expansion  
-- Dark Mode v2.0  
-- developer ecosystem  
+This layer ensures:
 
-It is the **post‑inflection build phase**.
+- unified conceptual grounding  
+- shared manifold interpretation  
+- tensor calculus literacy  
+- accessibility-first mindset  
+- governance awareness  
+- multi-manifold readiness  
+
+This is the NDH equivalent of “read the physics before building the rocket.”
 
 ---
 
-## ⭐ 2. Phase I — Core Implementation Layer  
-This phase turns NDH from blueprint → running engine.
+# **Phase I — Core Implementation Layer**  
+### *Turning NDH from blueprint → running engine.*
 
-### **2.1 NDH Runtime Engine v2.0**  
-The actual implementation of the v1.0 blueprint.
-
-Includes:
+### **1. NDH Runtime Engine v2.0**  
+Implementation of the v1.0 blueprint:
 
 - main loop  
 - state machine  
@@ -42,26 +40,30 @@ Includes:
 - JDTR logging  
 - extension system  
 
-### **2.2 NDH Developer Toolkit v2.0**  
-Tools for:
+**Status:** Started  
+**Next:** Developer Toolkit v2.0
+
+---
+
+### **2. NDH Developer Toolkit v2.0**  
+SDKs, bindings, templates, and debugging tools for:
 
 - Unity  
 - Unreal  
 - Godot  
-- OpenXR  
 - WebXR  
+- OpenXR  
 - Mobile  
 - Desktop  
 
-Includes:
+Includes accessibility overlays and sensory adapters.
 
-- SDKs  
-- bindings  
-- templates  
-- debugging tools  
-- accessibility overlays  
+**Status:** Pending  
+**Generate:** NDH Developer Toolkit v2.0
 
-### **2.3 NDH Sensory Engine v2.0**  
+---
+
+### **3. NDH Sensory Engine v2.0**  
 Unified sensory dispatch:
 
 - audio  
@@ -71,13 +73,16 @@ Unified sensory dispatch:
 - intensity safety  
 - fallback routing  
 
+**Status:** Pending  
+**Generate:** NDH Sensory Engine v2.0
+
 ---
 
-## ⭐ 3. Phase II — Simulation & Testing Layer  
-This phase creates tools for testing NDH behavior.
+# **Phase II — Simulation & Testing Layer**  
+### *Tools for testing NDH behavior.*
 
-### **3.1 NDH Stability Simulator v2.0**  
-Standalone simulator for:
+### **4. NDH Stability Simulator v2.0**  
+Simulates:
 
 - basins  
 - corridors  
@@ -87,15 +92,24 @@ Standalone simulator for:
 - accessibility profiles  
 - sensory modes  
 
-### **3.2 NDH Geometry Visualizer v2.0**  
-Visual tool for:
+**Status:** Pending  
+**Generate:** NDH Stability Simulator v2_0
+
+---
+
+### **5. NDH Geometry Visualizer v2.0**  
+Visualizes:
 
 - geometry envelopes  
 - K‑space layers  
 - manifold curvature  
 - margin proximity  
 
-### **3.3 NDH Tensor Inspector v2.0**  
+**Status:** Pending
+
+---
+
+### **6. NDH Tensor Inspector v2.0**  
 Developer tool for:
 
 - tensor fields  
@@ -103,29 +117,49 @@ Developer tool for:
 - resonance curves  
 - stress maps  
 
+**Status:** Pending
+
 ---
 
-## ⭐ 4. Phase III — Multi‑Manifold Expansion Layer  
-This phase expands NDH beyond a single manifold.
+# **Phase III — Multi‑Manifold Expansion Layer**  
+### *NDH becomes a universe, not a single system.*
 
-### **4.1 NDH Multi‑Manifold Support v2.0**  
+### **7. NDH Multi‑Manifold Support v2.0**  
 Multiple manifolds running in parallel.
 
-### **4.2 NDH Inter‑Manifold Bridges v2.0**  
-Corridors connecting manifolds.
-
-### **4.3 NDH K‑Space Expansion v2.0**  
-Higher‑dimensional stability layers.
-
-### **4.4 NDH Dark Mode v2.0**  
-Full visibility transform engine.
+**Status:** Pending  
+**Generate:** NDH Multi-Manifold Support v2.0
 
 ---
 
-## ⭐ 5. Phase IV — Application Ecosystem Layer  
-This phase builds real NDH applications.
+### **8. NDH Inter‑Manifold Bridges v2.0**  
+Corridors connecting manifolds.
 
-### **5.1 NDH Application Templates v2.0**  
+**Status:** Pending  
+**Generate:** NDH Inter-Manifold Bridges v2.0
+
+---
+
+### **9. NDH K‑Space Expansion v2.0**  
+Higher‑dimensional stability layers.
+
+**Status:** Pending  
+**Generate:** NDH K-Space Expansion v2.0
+
+---
+
+### **10. NDH Dark Mode v2.0**  
+Full visibility transform engine.
+
+**Status:** Pending  
+**Generate:** NDH Dark Mode v2.0
+
+---
+
+# **Phase IV — Application Ecosystem Layer**  
+### *NDH becomes usable by creators, researchers, and designers.*
+
+### **11. NDH Application Templates v2.0**  
 Starter kits for:
 
 - VR stability trainer  
@@ -135,8 +169,13 @@ Starter kits for:
 - game mechanics  
 - research engine  
 
-### **5.2 NDH Creativity Engine v2.0**  
-Advanced generative system for:
+**Status:** Pending  
+**Generate:** NDH Application Templates v2.0
+
+---
+
+### **12. NDH Creativity Engine v2.0**  
+Generative system for:
 
 - new basins  
 - new corridors  
@@ -144,12 +183,14 @@ Advanced generative system for:
 - new stability behaviors  
 - new narrative layers  
 
+**Status:** Pending
+
 ---
 
-## ⭐ 6. Phase V — Governance & Compliance Layer  
-This phase extends HRD and JDTR for v2.0.
+# **Phase V — Governance & Compliance Layer**  
+### *Safety and ethics evolve with the manifold.*
 
-### **6.1 HRD v2.0**  
+### **13. HRD v2.0**  
 Expanded safety rules for:
 
 - multi‑manifold operations  
@@ -157,7 +198,11 @@ Expanded safety rules for:
 - K‑space transitions  
 - Dark Mode visibility  
 
-### **6.2 JDTR v2.0**  
+**Status:** Pending
+
+---
+
+### **14. JDTR v2.0**  
 Expanded logging for:
 
 - manifold interactions  
@@ -166,10 +211,14 @@ Expanded logging for:
 - sensory dispatch  
 - ladder transitions  
 
+**Status:** Pending
+
 ---
 
-## ⭐ 7. Phase VI — NDH v2.0 Documentation Layer  
-This phase produces:
+# **Phase VI — NDH v2.0 Documentation Layer**  
+### *The full documentation suite.*
+
+### Includes:
 
 - NDH v2.0 API  
 - NDH v2.0 Developer Guide  
@@ -178,15 +227,18 @@ This phase produces:
 - NDH v2.0 Stability Guide  
 - NDH v2.0 Extension Guide  
 
+**Status:** Pending
+
 ---
 
-# ⭐ **Summary Table — NDH Road Map v2.0**
+# **Updated Road Map v2.0 Summary Table**
 
 | Phase | Artifact | Status |
 |------|----------|--------|
+| 0 | Emergent Case Study v2.0 | **Complete** |
 | I | Runtime Engine v2.0 | **Started** |
-| I | Developer Toolkit v2.0 | Next |
-| I | Sensory Engine v2.0 | Next |
+| I | Developer Toolkit v2.0 | Pending |
+| I | Sensory Engine v2.0 | Pending |
 | II | Stability Simulator v2.0 | Pending |
 | II | Geometry Visualizer v2.0 | Pending |
 | II | Tensor Inspector v2.0 | Pending |
