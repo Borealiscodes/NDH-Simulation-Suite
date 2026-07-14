@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1200" height="1600"
+     viewBox="0 0 1200 1600"
+     xmlns="http://www.w3.org/2000/svg"
+     role="img"
+     aria-labelledby="title desc">
+  <title id="title">NDH Architecture v3.1 — Full Cosmic Stack</title>
+  <desc id="desc">
+    Math Anchor, Meta Index, Hyperatlas, Blueprint Suite, Companion Layer,
+    and Goat Stability Layer in a vertical cosmic-origami architecture stack.
+  </desc>
+
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050816"/>
+      <stop offset="50%" stop-color="#0b1230"/>
+      <stop offset="100%" stop-color="#050816"/>
+    </linearGradient>
+
+    <radialGradient id="nodeGlow" cx="50%" cy="50%" r="70%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.9"/>
+      <stop offset="40%" stop-color="#7cf0ff" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#050816" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="anchorGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#4dd0ff"/>
+      <stop offset="100%" stop-color="#9b7cff"/>
+    </linearGradient>
+
+    <linearGradient id="metaGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ffcc66"/>
+      <stop offset="100%" stop-color="#ff9966"/>
+    </linearGradient>
+
+    <linearGradient id="atlasGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#66ffcc"/>
+      <stop offset="100%" stop-color="#33cc99"/>
+    </linearGradient>
+
+    <linearGradient id="blueprintGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#66aaff"/>
+      <stop offset="100%" stop-color="#3355ff"/>
+    </linearGradient>
+
+    <linearGradient id="companionGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff99cc"/>
+      <stop offset="100%" stop-color="#ff66aa"/>
+    </linearGradient>
+
+    <linearGradient id="goatGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#c0ff66"/>
+      <stop offset="100%" stop-color="#88cc33"/>
+    </linearGradient>
+
+    <!-- Sparkle dots -->
+    <circle id="sparkle" r="2" fill="#ffffff" />
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="1600" fill="url(#bgGradient)" />
+
+  <!-- Subtle starfield -->
+  <g opacity="0.4">
+    <use href="#sparkle" x="150" y="120" />
+    <use href="#sparkle" x="980" y="210" />
+    <use href="#sparkle" x="300" y="420" />
+    <use href="#sparkle" x="1050" y="520" />
+    <use href="#sparkle" x="220" y="780" />
+    <use href="#sparkle" x="880" y="860" />
+    <use href="#sparkle" x="600" y="1040" />
+    <use href="#sparkle" x="1040" y="1180" />
+    <use href="#sparkle" x="260" y="1320" />
+  </g>
+
+  <!-- Vertical spine -->
+  <line x1="600" y1="200" x2="600" y2="1400"
+        stroke="#7cf0ff"
+        stroke-width="3"
+        stroke-linecap="round"
+        stroke-dasharray="6 10"
+        opacity="0.7" />
+
+  <!-- Helper: node container -->
+  <!-- Each node: rounded rect + glow + label -->
+
+  <!-- Math Anchor -->
+  <g transform="translate(300, 1250)">
+    <circle cx="300" cy="120" r="140" fill="url(#nodeGlow)" opacity="0.45" />
+    <rect x="40" y="40" width="520" height="160"
+          rx="26" ry="26"
+          fill="url(#anchorGradient)"
+          stroke="#ffffff"
+          stroke-width="2.5"
+          opacity="0.95" />
+    <text x="300" y="100"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="30"
+          fill="#050816"
+          font-weight="700">
+      Math Anchor ⚓️
+    </text>
+    <text x="300" y="135"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="18"
+          fill="#050816">
+      Legal stability geometry & invariants
+    </text>
+    <text x="300" y="165"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="15"
+          fill="#050816"
+          opacity="0.85">
+      Tensor calculus, stability envelopes, HRD constraints
+    </text>
+  </g>
+
+  <!-- Meta Index -->
+  <g transform="translate(300, 1020)">
+    <circle cx="300" cy="120" r="130" fill="url(#nodeGlow)" opacity="0.45" />
+    <rect x="40" y="40" width="520" height="160"
+          rx="26" ry="26"
+          fill="url(#metaGradient)"
+          stroke="#ffffff"
+          stroke-width="2.5"
+          opacity="0.95" />
+    <text x="300" y="100"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="30"
+          fill="#050816"
+          font-weight="700">
+      Meta Index
+    </text>
+    <text x="300" y="135"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="18"
+          fill="#050816">
+      Namespaces for manifolds, basins, tensors
+    </text>
+    <text x="300" y="165"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="15"
+          fill="#050816"
+          opacity="0.85">
+      Index of NDH stability geometry objects
+    </text>
+  </g>
+
+  <!-- Hyperatlas -->
+  <g transform="translate(300, 790)">
+    <circle cx="300" cy="120" r="130" fill="url(#nodeGlow)" opacity="0.45" />
+    <rect x="40" y="40" width="520" height="160"
+          rx="26" ry="26"
+          fill="url(#atlasGradient)"
+          stroke="#ffffff"
+          stroke-width="2.5"
+          opacity="0.95" />
+    <text x="300" y="100"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="30"
+          fill="#050816"
+          font-weight="700">
+      Hyperatlas
+    </text>
+    <text x="300" y="135"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="18"
+          fill="#050816">
+      Folded map of manifolds, basins, chaos margins
+    </text>
+    <text x="300" y="165"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="15"
+          fill="#050816"
+          opacity="0.85">
+      Geometric atlas for NDH stability universe
+    </text>
+  </g>
+
+  <!-- Blueprint Suite -->
+  <g transform="translate(300, 560)">
+    <circle cx="300" cy="120" r="130" fill="url(#nodeGlow)" opacity="0.45" />
+    <rect x="40" y="40" width="520" height="160"
+          rx="26" ry="26"
+          fill="url(#blueprintGradient)"
+          stroke="#ffffff"
+          stroke-width="2.5"
+          opacity="0.95" />
+    <text x="300" y="100"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="30"
+          fill="#050816"
+          font-weight="700">
+      Blueprint Suite
+    </text>
+    <text x="300" y="135"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="18"
+          fill="#050816">
+      Engineering-grade redesign geometry & corridors
+    </text>
+    <text x="300" y="165"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="15"
+          fill="#050816"
+          opacity="0.85">
+      Tensor-weighted trajectories, hypersonic deformation, viability audits
+    </text>
+  </g>
+
+  <!-- Companion Layer -->
+  <g transform="translate(300, 330)">
+    <circle cx="300" cy="120" r="130" fill="url(#nodeGlow)" opacity="0.45" />
+    <rect x="40" y="40" width="520" height="160"
+          rx="26" ry="26"
+          fill="url(#companionGradient)"
+          stroke="#ffffff"
+          stroke-width="2.5"
+          opacity="0.95" />
+    <text x="300" y="100"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="30"
+          fill="#050816"
+          font-weight="700">
+      Companion Layer
+    </text>
+    <text x="300" y="135"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="18"
+          fill="#050816">
+      Human-facing, cross-field explanations & narratives
+    </text>
+    <text x="300" y="165"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="15"
+          fill="#050816"
+          opacity="0.85">
+      Stability-safe metaphors, case studies, public-facing documentation
+    </text>
+  </g>
+
+  <!-- Goat Stability Layer -->
+  <g transform="translate(300, 100)">
+    <circle cx="300" cy="120" r="130" fill="url(#nodeGlow)" opacity="0.45" />
+    <rect x="40" y="40" width="520" height="160"
+          rx="26" ry="26"
+          fill="url(#goatGradient)"
+          stroke="#ffffff"
+          stroke-width="2.5"
+          opacity="0.95" />
+    <text x="300" y="95"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="30"
+          fill="#050816"
+          font-weight="700">
+      Goat Stability Layer
+    </text>
+    <text x="300" y="130"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="18"
+          fill="#050816">
+      Embodied stability geometry via mountain goat dynamics
+    </text>
+    <text x="300" y="160"
+          text-anchor="middle"
+          font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+          font-size="15"
+          fill="#050816"
+          opacity="0.85">
+      Basins, curvature, chaos margins, invariants demonstrated in real terrain
+    </text>
+  </g>
+
+  <!-- Connecting arrows -->
+  <g stroke="#7cf0ff" stroke-width="2.5" stroke-linecap="round" opacity="0.9">
+    <polyline points="600,240 600,280" />
+    <polyline points="600,470 600,510" />
+    <polyline points="600,700 600,740" />
+    <polyline points="600,930 600,970" />
+    <polyline points="600,1160 600,1200" />
+  </g>
+
+  <!-- Small labels on the right: Glider / Mach-20 / Goat -->
+  <g font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+     font-size="16"
+     fill="#cfe9ff"
+     opacity="0.85">
+    <text x="780" y="170">Goat Layer — embodied stability</text>
+    <text x="780" y="400">Companion — human-facing interface</text>
+    <text x="780" y="630">Blueprint — engineering geometry</text>
+    <text x="780" y="860">Hyperatlas — folded manifold map</text>
+    <text x="780" y="1090">Meta Index — naming layer</text>
+    <text x="780" y="1320">Math Anchor — tensor truth</text>
+  </g>
+
+  <!-- Footer caption -->
+  <text x="600" y="1520"
+        text-anchor="middle"
+        font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+        font-size="18"
+        fill="#cfe9ff"
+        opacity="0.85">
+    NDH v3.1 — Nonlinear Development Hub · Stability Geometry Architecture Stack
+  </text>
+</svg>
