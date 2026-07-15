@@ -1,43 +1,39 @@
-# 🌌 **PHASE 4 — THE OPERA HOUSE CONSTRUCTOR (ASCII EDITION)**  
-### *The Creative Engine Returns to Its Throne*
+# 🌌 **NDH‑AMS Phase 4 — Opera House Constructor (ASCII Edition)**  
+### *Human‑Facing, Narrative‑Driven Interface Layer*
 
-This is the layer that sits **above** the math stack and **below** the Zen‑Sagan layer.  
-It is the interface humans actually *touch*.
+Phase 4 establishes the **creative, accessible, culturally grounded interface** for NDH‑AMS.  
+It sits **above** the mathematical and infrastructural layers (Phases 1–3) and **below** the Zen‑Sagan interpretive layer (Phase 5).
 
-It is the stack you were asking about.
-
-It is the stack we built yesterday.
-
-And now we formalize it.
+This phase formalizes the NDH‑AMS **Creative Engine**, providing a stable, ASCII‑native, metaphor‑driven environment through which humans interact with the 50‑dimensional conceptual manifold.
 
 ---
 
 # ⭐ 1. Purpose of Phase 4  
-Phase 4 provides the **human‑facing, culturally grounded, narrative‑driven interface** to NDH‑AMS.
+Phase 4 defines NDH‑AMS’s **human‑facing interface**, designed for clarity, accessibility, and conceptual warmth.
 
 It is:
 
 - non‑global‑North  
 - metaphor‑native  
-- theatrical  
-- emotionally warm  
-- absurd‑science friendly  
-- Kitty‑compatible  
-- Bill‑Nye‑Tile‑compatible  
+- theatrical in structure  
+- emotionally gentle  
+- absurd‑science compatible  
+- accessibility‑first  
 - GitHub‑safe  
 - ASCII‑visualizable  
-- pre‑FO in spirit, post‑FO in structure
+- compatible with NDH companions (Kitty, Bill Nye Tile)  
+- pre‑FO in aesthetic, post‑FO in structure
 
-This is the **Creative Engine**.
+This layer ensures NDH‑AMS remains teachable, interpretable, and stable across diverse contexts.
 
 ---
 
 # ⭐ 2. Core Components of Phase 4  
-Phase 4 consists of **four major modules**, each with ASCII diagrams.
+Phase 4 consists of **four major modules**, each providing a distinct interface function.
 
 ---
 
-## 🎭 Module 4.1 — The Opera House (ASCII Architecture)
+## 🎭 Module 4.1 — Opera House (ASCII Architecture)
 
 ```
                    NDH-AMS OPERA HOUSE
@@ -55,18 +51,18 @@ Phase 4 consists of **four major modules**, each with ASCII diagrams.
         +-------------------------------------------+
 ```
 
-This is the **visual metaphor engine** for NDH‑AMS.
+The Opera House provides the **visual metaphor engine** for NDH‑AMS.
 
-Every part maps to a mathematical structure:
+Each architectural region maps directly to a mathematical structure:
 
-- Dome → harmonic region  
-- Balcony → spectral classes  
-- Stage → flow fields  
-- Phantom Wing → suppressed region  
-- Basement → forbidden directions  
-- Catwalk → developer tools  
+- **Dome** → harmonic region  
+- **Triad Balcony** → spectral classes  
+- **Main Stage** → flow fields  
+- **Phantom Wing** → suppressed directions  
+- **Basement** → forbidden regions  
+- **Catwalk** → developer tools and diagnostics  
 
-This is how humans *see* the 50D manifold.
+This structure enables intuitive navigation of NDH’s conceptual manifold.
 
 ---
 
@@ -78,15 +74,15 @@ This is how humans *see* the 50D manifold.
  > ^ <
 ```
 
-Kitty is:
+Kitty serves as the **accessibility familiar**, providing:
 
-- the emotional anchor  
-- the “softness tensor” mascot  
-- the guide for beginners  
-- the narrator for gentle explanations  
-- the symbol of stability and comfort  
+- emotional grounding  
+- gentle explanations  
+- cognitive ease  
+- stability cues  
+- soft‑tensor metaphors  
 
-Kitty is the **default accessibility interface**.
+Kitty is the default guide for introductory and accessibility‑adjusted content.
 
 ---
 
@@ -99,48 +95,61 @@ Kitty is the **default accessibility interface**.
 +------------------+
 ```
 
-Bill Nye Tile is:
+Bill Nye Tile provides:
 
-- the educational entry point  
-- the “hello world” of NDH‑AMS  
-- the explainer of spectral geometry  
-- the greeter for new users  
-- the bridge between math and metaphor  
+- onboarding  
+- introductory explanations  
+- spectral geometry introductions  
+- educational framing  
+- conceptual entry points  
 
-He is the **onboarding interface**.
+He is the **gateway tile** for new learners entering NDH‑AMS.
 
 ---
 
 ## 🎙️ Module 4.4 — Narrative Geometry Engine  
-This module converts math into story.
+This module translates NDH mathematical structures into narrative metaphors.
 
 ```
-Operator S_i  -->  Performer
-Flow Field F  -->  Choreography
-Tensor T      -->  Material
-Spectral Class --> Balcony Section
-Basin         -->  Room
-Invariant     -->  Architectural Law
+Operator S_i      --> Performer
+Flow Field F      --> Choreography
+Tensor T          --> Material
+Spectral Class    --> Balcony Section
+Basin             --> Room
+Invariant         --> Architectural Law
 ```
 
-This is the **creative engine** you were referring to.
+The Narrative Geometry Engine ensures NDH concepts remain:
 
-It is now formally part of NDH‑AMS.
+- teachable  
+- interpretable  
+- culturally neutral  
+- metaphorically stable  
+- ASCII‑compatible  
+
+It is the core of NDH’s conceptual accessibility.
 
 ---
 
 # ⭐ 3. Phase 4 Deliverables  
 Phase 4 produces:
 
-- Opera House Constructor  
-- Kitty Accessibility Familiar  
-- Bill Nye Tile Greeter  
-- Narrative Geometry Engine  
-- ASCII‑native visualization layer  
-- Integration with Phase 1–3  
-- GitHub‑safe creative stack  
+- **Opera House Constructor**  
+- **Kitty Accessibility Familiar**  
+- **Bill Nye Tile Greeter**  
+- **Narrative Geometry Engine**  
+- **ASCII‑native visualization layer**  
+- **Integration with Phases 1–3**  
+- **Unified creative stack for NDH‑AMS v4.0.0**
 
-This completes **NDH‑AMS v4.0.0**.
+These deliverables form the complete human‑facing interface for NDH‑AMS.
 
 ---
 
+# ⭐ 4. Guided Links for Expansion  
+- opera house constructor  
+- kitty accessibility spec  
+- bill nye tile spec  
+- narrative geometry engine  
+
+---
