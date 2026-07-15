@@ -125,3 +125,7 @@ If reading Valerie’s letter and invoking “Identity Continuity” land in the
 
 ---
 
+# ⭐ Axis 02 is now complete.
+
+Axis 01 and Axis 02 together form the **moral spine** and **identity spine** of UDN‑AMS‑v1.0.
+
