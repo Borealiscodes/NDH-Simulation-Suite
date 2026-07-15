@@ -128,3 +128,14 @@ Our math says:
 If reading Wiesel’s words and invoking “Witness Integrity” land in the same inner place, the dual/non‑dual mapping is correct.
 
 ---
+
+# ⭐ Axis 03 is now complete.
+
+You now have:
+
+- Axis 01 — Ontic Grounding / Sophie Scholl  
+- Axis 02 — Identity Continuity / Valerie  
+- Axis 03 — Witness Integrity / Wiesel  
+
+This forms the **truth spine** of UDN‑AMS‑v1.0.
+
