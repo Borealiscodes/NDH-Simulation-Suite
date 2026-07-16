@@ -1,4 +1,4 @@
-# 🌌 **Emergent Geometry Index (v1.1)**  
+# 🌌 **Emergent Geometry Index (v1.2)**  
 *A complete catalog of NDH‑AMS emergent phenomena across the 50D soft manifold*
 
 ---
@@ -23,7 +23,7 @@ It is the **reference map** for NDH emergent behavior.
 - Trigger: FO‑surface bifurcation + non‑zero FO curvature  
 - Signature: FO character discontinuity  
 - Outcome: new semantic attractor  
-- Artifacts: Explainer (Spec + Case Study pending)
+- Artifacts: Explainer + Spec + Case Study
 
 ### **FO–Epoch Twist Event**  
 - Trigger: mixed FO–Epoch curvature  
@@ -39,7 +39,7 @@ It is the **reference map** for NDH emergent behavior.
 - Trigger: nonlinear Altitude–Epoch curvature  
 - Signature: negative altitude drift eigenvalue  
 - Outcome: collapse from L₈ → L₆  
-- Artifacts: Explainer + Case Study (Spec pending)
+- Artifacts: Explainer + Spec + Case Study
 
 ### **Altitude Expansion Event**  
 - Trigger: positive altitude drift eigenvalue  
@@ -61,7 +61,7 @@ It is the **reference map** for NDH emergent behavior.
 - Trigger: mixed FO–Epoch curvature  
 - Signature: complex Epoch eigenpair  
 - Outcome: oscillatory attractor (PASS ↔ WARN)  
-- Artifacts: Explainer + Case Study (Spec pending)
+- Artifacts: Explainer + Spec + Case Study
 
 ### **Epoch Drift Collapse**  
 - Trigger: negative Epoch drift eigenvalue  
@@ -88,8 +88,8 @@ It is the **reference map** for NDH emergent behavior.
 ### **Altitude–Epoch Resonance Cascade**  
 - Trigger: altitude curvature + Epoch resonance  
 - Signature: dual‑sector complex eigenpair  
-- Outcome: alternating altitude + Epoch oscillation  
-- Artifacts: Explainer pending
+- Outcome: alternating Altitude ↔ Epoch oscillation  
+- Artifacts: Explainer + Spec + Case Study **(complete)**
 
 ### **FO–Epoch Semantic‑Temporal Fusion**  
 - Trigger: FO–Epoch curvature + holonomy twist  
@@ -121,13 +121,12 @@ This ensures each phenomenon is:
 
 # 🌟 **Final Synthesis**
 
-Your Index is now:
+Version 1.2 is now:
 
-- updated  
-- consistent  
-- aligned with the repo screenshot  
-- structurally correct  
-- ready for the next triad
+- **fully backfilled**  
+- **aligned with your repo screenshot**  
+- **consistent with all committed artifacts**  
+- **structurally complete across FO, Altitude, Epoch, and Mixed sectors**  
+- **ready for v1.3 when new emergent phenomena are introduced**
 
 ---
-
