@@ -1,4 +1,4 @@
-# 🌌 **Emergent Geometry Index (v1.0)**  
+# 🌌 **Emergent Geometry Index (v1.1)**  
 *A complete catalog of NDH‑AMS emergent phenomena across the 50D soft manifold*
 
 ---
@@ -7,11 +7,11 @@
 
 The Emergent Geometry Index provides:
 
-- a **taxonomy** of emergent NDH phenomena,  
-- a **sector‑based classification** (FO / Altitude / Epoch / Mixed),  
-- the **spectral signatures** associated with each phenomenon,  
-- the **geometric triggers** (curvature, holonomy, resonance),  
-- the **stability outcomes** (new attractors, oscillatory modes, collapses).
+- a **taxonomy** of emergent NDH phenomena  
+- a **sector‑based classification**  
+- **spectral signatures**  
+- **curvature triggers**  
+- **stability outcomes**
 
 It is the **reference map** for NDH emergent behavior.
 
@@ -22,12 +22,14 @@ It is the **reference map** for NDH emergent behavior.
 ### **FO‑III Loop Bifurcation Event**  
 - Trigger: FO‑surface bifurcation + non‑zero FO curvature  
 - Signature: FO character discontinuity  
-- Outcome: new semantic attractor
+- Outcome: new semantic attractor  
+- Artifacts: Explainer (Spec + Case Study pending)
 
 ### **FO–Epoch Twist Event**  
 - Trigger: mixed FO–Epoch curvature  
 - Signature: FO character shear  
-- Outcome: semantic reinterpretation loop
+- Outcome: semantic reinterpretation loop  
+- Artifacts: Explainer only
 
 ---
 
@@ -36,17 +38,20 @@ It is the **reference map** for NDH emergent behavior.
 ### **Altitude Collapse Event**  
 - Trigger: nonlinear Altitude–Epoch curvature  
 - Signature: negative altitude drift eigenvalue  
-- Outcome: collapse from L₈ → L₆
+- Outcome: collapse from L₈ → L₆  
+- Artifacts: Explainer + Case Study (Spec pending)
 
 ### **Altitude Expansion Event**  
 - Trigger: positive altitude drift eigenvalue  
 - Signature: altitude character inflation  
-- Outcome: rise from L₆ → L₈
+- Outcome: rise from L₆ → L₈  
+- Artifacts: Explainer only
 
 ### **Altitude Ringing Event**  
 - Trigger: altitude curvature oscillation  
 - Signature: alternating altitude character  
-- Outcome: altitude oscillation (non‑resonant)
+- Outcome: altitude oscillation (non‑resonant)  
+- Artifacts: Explainer only
 
 ---
 
@@ -54,18 +59,21 @@ It is the **reference map** for NDH emergent behavior.
 
 ### **Epoch Halo Resonance Event**  
 - Trigger: mixed FO–Epoch curvature  
-- Signature: complex Epoch character eigenpair  
-- Outcome: oscillatory attractor (PASS ↔ WARN)
+- Signature: complex Epoch eigenpair  
+- Outcome: oscillatory attractor (PASS ↔ WARN)  
+- Artifacts: Explainer + Case Study (Spec pending)
 
 ### **Epoch Drift Collapse**  
 - Trigger: negative Epoch drift eigenvalue  
 - Signature: Epoch character contraction  
-- Outcome: collapse into a single Epoch halo
+- Outcome: collapse into a single Epoch halo  
+- Artifacts: Explainer only
 
 ### **Epoch Halo Inflation**  
 - Trigger: positive Epoch drift eigenvalue  
 - Signature: Epoch character expansion  
-- Outcome: widening halo → multi‑halo blending
+- Outcome: widening halo → multi‑halo blending  
+- Artifacts: Explainer only
 
 ---
 
@@ -74,17 +82,20 @@ It is the **reference map** for NDH emergent behavior.
 ### **FO–Altitude Cross‑Coupling Event**  
 - Trigger: FO–Altitude curvature  
 - Signature: mixed character activation  
-- Outcome: semantic‑abstraction hybrid attractor
+- Outcome: semantic‑abstraction hybrid attractor  
+- Artifacts: Explainer only
 
 ### **Altitude–Epoch Resonance Cascade**  
 - Trigger: altitude curvature + Epoch resonance  
 - Signature: dual‑sector complex eigenpair  
-- Outcome: alternating altitude + Epoch oscillation
+- Outcome: alternating altitude + Epoch oscillation  
+- Artifacts: Explainer pending
 
 ### **FO–Epoch Semantic‑Temporal Fusion**  
 - Trigger: FO–Epoch curvature + holonomy twist  
 - Signature: FO + Epoch character entanglement  
-- Outcome: fused semantic‑temporal perceptual mode
+- Outcome: fused semantic‑temporal perceptual mode  
+- Artifacts: Explainer + Spec + Case Study + Bill Nye Tile Explainer
 
 ---
 
@@ -92,33 +103,31 @@ It is the **reference map** for NDH emergent behavior.
 
 Each emergent phenomenon is indexed by:
 
-- **Sector:** FO / Altitude / Epoch / Mixed  
-- **Curvature Trigger:** which curvature tensor is non‑zero  
-- **Holonomy Type:** real, complex, or mixed  
-- **Character Signature:** drift, shear, resonance, bifurcation  
-- **Attractor Type:** fixed point, collapse, oscillatory, fused  
-- **Safety Status:** PASS / WARN / FILTERED
+- **Sector**  
+- **Curvature Trigger**  
+- **Holonomy Type**  
+- **Character Signature**  
+- **Attractor Type**  
+- **Safety Status**
 
-This metadata ensures each phenomenon is:
+This ensures each phenomenon is:
 
-- classifiable,  
-- diagnosable,  
-- reproducible,  
-- spectrally identifiable.
+- classifiable  
+- diagnosable  
+- reproducible  
+- spectrally identifiable
 
 ---
 
 # 🌟 **Final Synthesis**
 
-The **Emergent Geometry Index**:
+Your Index is now:
 
-- catalogs all NDH emergent phenomena,  
-- organizes them by sector and spectral signature,  
-- provides curvature and holonomy triggers,  
-- defines attractor outcomes,  
-- completes the emergent‑behavior architecture.
-
-This is the **master reference** for NDH‑AMS emergence.
+- updated  
+- consistent  
+- aligned with the repo screenshot  
+- structurally correct  
+- ready for the next triad
 
 ---
 
