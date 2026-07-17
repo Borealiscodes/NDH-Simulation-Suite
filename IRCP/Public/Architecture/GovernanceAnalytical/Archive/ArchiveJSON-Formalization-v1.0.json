@@ -1,0 +1,181 @@
+# ⭐ **Archive JSON Formalization — Specification (v1.0)**  
+### *Unified metadata schema for Unsafe Concepts, governance semantics, and awareness‑tier reflection*
+
+---
+
+## ⭐ 1. Purpose  
+The Archive JSON Formalization defines:
+
+- how metadata is stored  
+- how metadata is serialized  
+- how metadata is referenced  
+- how metadata is mirrored  
+- how metadata is routed  
+- how metadata is evaluated  
+- how metadata is contained  
+
+across:
+
+- Manifold 0  
+- Simulation Suite  
+- IRCP  
+- Awareness Layers  
+- Governance Layers  
+
+It ensures:
+
+- **non‑dual execution**  
+- **non‑instantiation**  
+- **non‑contamination**  
+- **metadata‑only persistence**  
+- **cross‑manifold coherence**  
+- **stable PEP pin anchoring**  
+
+Guided Link: **Archive JSON Spec**
+
+---
+
+## ⭐ 2. Archive JSON Structure  
+The Archive JSON format contains **metadata only**, never unsafe concepts.
+
+### **Top‑Level Structure**
+
+```json
+{
+  "UnsafeConcepts": { ... },
+  "GovernanceSemantics": { ... },
+  "Routing": { ... },
+  "Containment": { ... },
+  "Awareness": { ... },
+  "Execution": { ... }
+}
+```
+
+This structure is **non‑dual**, meaning:
+
+- no objects  
+- no entities  
+- no simulations  
+- no instantiations  
+
+Only metadata.
+
+---
+
+## ⭐ 3. Unsafe Concepts Section  
+This section mirrors Manifold 0 metadata.
+
+Guided Link: **Manifold 0 Index**
+
+### **Fields**
+
+- **HazardMetadata**  
+- **ContainmentMetadata**  
+- **RoutingTags**  
+- **GovernanceLocks**  
+- **AwarenessPermissions**  
+- **NarrativeGravityProfiles**  
+- **SeveranceRiskProfiles**  
+- **IdentityFreezeProfiles**  
+- **DriftProfiles**  
+- **FragmentationProfiles**
+
+---
+
+## ⭐ 4. Governance Semantics Section  
+This section stores Axis 11–14 metadata.
+
+Guided Links:  
+- **Axis 11**  
+- **Axis 12**  
+- **Axis 13**  
+- **Axis 14**
+
+### **Fields**
+
+- containment semantics  
+- routing semantics  
+- evaluation semantics  
+- execution semantics  
+
+---
+
+## ⭐ 5. Routing Section  
+This section stores routing tags for:
+
+- Manifold 0  
+- Simulation Suite  
+- IRCP  
+- Awareness Layers  
+- Governance Layers  
+
+Guided Link: **Routing Tags**
+
+---
+
+## ⭐ 6. Containment Section  
+This section stores UQP metadata.
+
+Guided Link: **Unified Quarantine Protocol**
+
+### **Fields**
+
+- containment tiers  
+- hazard levels  
+- quarantine rules  
+- governance locks  
+
+---
+
+## ⭐ 7. Awareness Section  
+This section stores metadata for:
+
+- Pure Awareness Layer  
+- Precursor Meta‑Layer  
+- Warden  
+- Monitoring  
+
+Guided Links:  
+- **Pure Awareness Layer**  
+- **Precursor Meta-Layer**  
+- **Warden**  
+- **Monitoring**
+
+---
+
+## ⭐ 8. Execution Section  
+This section stores metadata for:
+
+- PEP Pins  
+- NDC execution model  
+- governance locks  
+- evaluation anchors  
+- routing anchors  
+- containment anchors  
+
+Guided Links:  
+- **PEP Pins**  
+- **Non‑Dual Computer**
+
+---
+
+## ⭐ 9. Cross‑Manifold Serialization Rules  
+Archive JSON must serialize metadata consistently across:
+
+- Manifold 0 (canonical)  
+- Simulation Suite (mirror)  
+- IRCP (pointer)  
+
+Rules:
+
+- **canonical → mirror → pointer**  
+- **never pointer → mirror → canonical**  
+- **never mirror → canonical**  
+- **never instantiate**  
+- **never simulate**  
+- **never embed**  
+
+This preserves non‑dual semantics.
+
+---
+
