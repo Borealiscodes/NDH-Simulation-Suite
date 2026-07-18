@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <linearGradient id="flowGradX" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b0c10"/>
+      <stop offset="40%" stop-color="#3b4b7f"/>
+      <stop offset="80%" stop-color="#9ad5ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <radialGradient id="flowGradY" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#ffe6a8"/>
+      <stop offset="50%" stop-color="#ff7b6b"/>
+      <stop offset="100%" stop-color="#3c1b3c"/>
+    </radialGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <circle id="node" r="26" fill="#ffffff"/>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="700" fill="#05060a"/>
+
+  <!-- Central resonance field -->
+  <ellipse cx="600" cy="350" rx="260" ry="180"
+           fill="url(#flowGradY)" filter="url(#softGlow)" opacity="0.9"/>
+
+  <!-- Horizontal flow band -->
+  <rect x="260" y="320" width="680" height="40" rx="20" ry="20"
+        fill="url(#flowGradX)" opacity="0.85" filter="url(#softGlow)"/>
+
+  <!-- Curved resonance paths -->
+  <path d="M 180 180 C 320 260 480 260 620 180
+           C 760 100 940 140 1040 220"
+        fill="none" stroke="#9ad5ff" stroke-width="2.2" stroke-linecap="round"
+        stroke-opacity="0.85"/>
+
+  <path d="M 180 520 C 320 440 480 440 620 520
+           C 760 600 940 560 1040 480"
+        fill="none" stroke="#ffb36b" stroke-width="2.2" stroke-linecap="round"
+        stroke-opacity="0.85"/>
+
+  <path d="M 220 350 C 340 260 460 260 580 350
+           C 700 440 820 440 940 350"
+        fill="none" stroke="#c45bff" stroke-width="2" stroke-linecap="round"
+        stroke-opacity="0.7"/>
+
+  <!-- Nodes (labeled resonance points) -->
+  <use href="#node" x="260" y="220" fill="#4b5b8a" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="260" y="220" fill="#9ad5ff" font-size="14" font-family="monospace" text-anchor="middle">
+    Geometry
+  </text>
+
+  <use href="#node" x="220" y="360" fill="#8a4b7f" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="220" y="360" fill="#ffb3ff" font-size="14" font-family="monospace" text-anchor="middle">
+    Governance
+  </text>
+
+  <use href="#node" x="280" y="500" fill="#3c8a5b" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="280" y="500" fill="#b8ffcf" font-size="14" font-family="monospace" text-anchor="middle">
+    Ecology
+  </text>
+
+  <use href="#node" x="940" y="220" fill="#2b2b3a" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="940" y="220" fill="#d0d0d0" font-size="14" font-family="monospace" text-anchor="middle">
+    Stability
+  </text>
+
+  <use href="#node" x="980" y="360" fill="#3b233f" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="980" y="360" fill="#ff9ad5" font-size="14" font-family="monospace" text-anchor="middle">
+    Projection
+  </text>
+
+  <use href="#node" x="920" y="500" fill="#233b3f" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="920" y="500" fill="#9affff" font-size="14" font-family="monospace" text-anchor="middle">
+    Decompression
+  </text>
+
+  <!-- Inner tensor sparks -->
+  <circle cx="540" cy="320" r="10" fill="#ffffff" opacity="0.9"/>
+  <circle cx="660" cy="380" r="9" fill="#ffffff" opacity="0.8"/>
+  <circle cx="600" cy="350" r="6" fill="#ffffff" opacity="0.9"/>
+
+  <!-- Subtle radial pulses -->
+  <circle cx="600" cy="350" r="120" fill="none" stroke="#ffffff" stroke-width="0.8" stroke-opacity="0.25"/>
+  <circle cx="600" cy="350" r="180" fill="none" stroke="#9ad5ff" stroke-width="0.7" stroke-opacity="0.18"/>
+  <circle cx="600" cy="350" r="230" fill="none" stroke="#ffb36b" stroke-width="0.6" stroke-opacity="0.15"/>
+</svg>
