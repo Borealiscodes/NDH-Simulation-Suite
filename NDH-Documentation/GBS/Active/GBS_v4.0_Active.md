@@ -6,6 +6,17 @@
 **Transition:** Prepared for GBS v4.0 Stability Patch A → GBS v5.0 evolution  
 **Note:** This file incorporates the Inflection-Point Declaration and Structural Audit unchanged.
 
+## Addendum Binding
+
+This Active governance boundary is formally bound to the Audit Sequencing 
+Addendum (`GBS_v4.0_Addendum_AuditSequencing.md`). The addendum defines 
+mandatory sequencing for NDH v4.0+:
+
+TTTTTTP Sweep → Audit Layer → Reintegration Test Suite
+
+This binding ensures invariant verification, prevents premature 
+reintegration, and stabilizes the transition path toward GBS v5.0.
+
 
 # ⭐ **Formal Declaration of the Inflection Point — GBS v4.0**
 
