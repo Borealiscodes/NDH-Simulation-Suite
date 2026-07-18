@@ -253,6 +253,9 @@ InitializationRequirements_v5_0:
 
 ---
 
+# **13. Tri‑Field Fusion Binding — TF‑5.0**
+
+```yaml
 TriFieldFusionBinding_v5_0:
   binds:
     - SemanticField_v1_0
@@ -261,5 +264,8 @@ TriFieldFusionBinding_v5_0:
     - TriFieldFusionLayer_v1_0
   enforcement_mode: governance_authoritative
   note: Dignity field takes precedence in all conflicts.
+```
+
+---
 
 
