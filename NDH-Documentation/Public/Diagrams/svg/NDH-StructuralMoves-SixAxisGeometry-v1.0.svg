@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="axisGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b0c10"/>
+      <stop offset="40%" stop-color="#3b4b7f"/>
+      <stop offset="80%" stop-color="#9ad5ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <radialGradient id="coreGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#e8ffe8"/>
+      <stop offset="40%" stop-color="#9ad5ff"/>
+      <stop offset="80%" stop-color="#4b5b8a"/>
+      <stop offset="100%" stop-color="#0b0c10"/>
+    </radialGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <circle id="moveNode" r="18" fill="#ffffff"/>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="720" fill="#05060a"/>
+
+  <!-- Central core: Unified Metric ℳ -->
+  <circle cx="600" cy="360" r="80" fill="url(#coreGrad)" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="600" y="355" fill="#0b0c10" font-size="20" font-family="monospace" text-anchor="middle">
+    ℳ
+  </text>
+  <text x="600" y="385" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle">
+    Unified Metric
+  </text>
+
+  <!-- Six structural move nodes around core -->
+
+  <!-- 1. Aperture Alignment -->
+  <use href="#moveNode" x="600" y="160" fill="#9ad5ff" filter="url(#softGlow)"/>
+  <text x="600" y="160" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Aperture
+  </text>
+  <text x="600" y="190" fill="#9ad5ff" font-size="11" font-family="monospace" text-anchor="middle">
+    Alignment
+  </text>
+  <line x1="600" y1="180" x2="600" y2="280" stroke="#9ad5ff" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- 2. Metric Unification -->
+  <use href="#moveNode" x="860" y="260" fill="#ffb36b" filter="url(#softGlow)"/>
+  <text x="860" y="260" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Metric
+  </text>
+  <text x="860" y="290" fill="#ffb36b" font-size="11" font-family="monospace" text-anchor="middle">
+    Unification
+  </text>
+  <line x1="840" y1="280" x2="680" y2="330" stroke="#ffb36b" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- 3. Tensor Normalization -->
+  <use href="#moveNode" x="860" y="460" fill="#c45bff" filter="url(#softGlow)"/>
+  <text x="860" y="460" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Tensor
+  </text>
+  <text x="860" y="490" fill="#c45bff" font-size="11" font-family="monospace" text-anchor="middle">
+    Normalization
+  </text>
+  <line x1="840" y1="440" x2="680" y2="390" stroke="#c45bff" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- 4. Operator Consolidation -->
+  <use href="#moveNode" x="340" y="260" fill="#3c8a5b" filter="url(#softGlow)"/>
+  <text x="340" y="260" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Operator
+  </text>
+  <text x="340" y="290" fill="#3c8a5b" font-size="11" font-family="monospace" text-anchor="middle">
+    Consolidation
+  </text>
+  <line x1="360" y1="280" x2="520" y2="330" stroke="#3c8a5b" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- 5. Curvature Management -->
+  <use href="#moveNode" x="340" y="460" fill="#ff7b6b" filter="url(#softGlow)"/>
+  <text x="340" y="460" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Curvature
+  </text>
+  <text x="340" y="490" fill="#ff7b6b" font-size="11" font-family="monospace" text-anchor="middle">
+    Management
+  </text>
+  <line x1="360" y1="440" x2="520" y2="390" stroke="#ff7b6b" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- 6. Dignity Propagation -->
+  <use href="#moveNode" x="600" y="580" fill="#ffe6a8" filter="url(#softGlow)"/>
+  <text x="600" y="580" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Dignity
+  </text>
+  <text x="600" y="610" fill="#ffe6a8" font-size="11" font-family="monospace" text-anchor="middle">
+    Propagation
+  </text>
+  <line x1="600" y1="560" x2="600" y2="440" stroke="#ffe6a8" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- Title and footer -->
+  <text x="600" y="80" fill="#ffffff" font-size="18" font-family="monospace" text-anchor="middle">
+    NDH Structural Moves — Six-Axis Metric Geometry
+  </text>
+  <text x="600" y="680" fill="#9ad5ff" font-size="12" font-family="monospace" text-anchor="middle">
+    Aperture • Metric • Tensor • Operator • Curvature • Dignity → ℳ stabilized under ℛ
+  </text>
+</svg>
