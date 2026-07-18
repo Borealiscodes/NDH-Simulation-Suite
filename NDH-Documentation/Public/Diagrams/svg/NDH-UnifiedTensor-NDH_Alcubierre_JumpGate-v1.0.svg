@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <radialGradient id="ndhCoreGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#e8ffe8"/>
+      <stop offset="40%" stop-color="#9ad5ff"/>
+      <stop offset="80%" stop-color="#4b5b8a"/>
+      <stop offset="100%" stop-color="#0b0c10"/>
+    </radialGradient>
+
+    <radialGradient id="bubbleGrad" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#ffe6a8"/>
+      <stop offset="40%" stop-color="#ffb36b"/>
+      <stop offset="80%" stop-color="#c45b3c"/>
+      <stop offset="100%" stop-color="#3c1b3c"/>
+    </radialGradient>
+
+    <linearGradient id="gateGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b0c10"/>
+      <stop offset="40%" stop-color="#3b4b7f"/>
+      <stop offset="80%" stop-color="#9ad5ff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <circle id="node" r="16" fill="#ffffff"/>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="720" fill="#05060a"/>
+
+  <!-- NDH core (left) -->
+  <ellipse cx="260" cy="360" rx="160" ry="120"
+           fill="url(#ndhCoreGrad)" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="260" y="310" fill="#0b0c10" font-size="18" font-family="monospace" text-anchor="middle">
+    NDH Tensor Core
+  </text>
+  <text x="260" y="335" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle">
+    Geometry • Governance • Stability • Ecology
+  </text>
+
+  <use href="#node" x="220" y="360" fill="#9ad5ff" filter="url(#softGlow)"/>
+  <text x="220" y="360" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Aperture
+  </text>
+
+  <use href="#node" x="300" y="340" fill="#3c8a5b" filter="url(#softGlow)"/>
+  <text x="300" y="340" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Stability
+  </text>
+
+  <use href="#node" x="300" y="380" fill="#c45b3c" filter="url(#softGlow)"/>
+  <text x="300" y="380" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    Governance
+  </text>
+
+  <!-- Alcubierre bubble (center) -->
+  <ellipse cx="600" cy="360" rx="190" ry="130"
+           fill="url(#bubbleGrad)" filter="url(#softGlow)" opacity="0.9"/>
+  <text x="600" y="300" fill="#0b0c10" font-size="18" font-family="monospace" text-anchor="middle">
+    Alcubierre Bubble
+  </text>
+  <text x="600" y="325" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle">
+    Warped Metric • Dignity Manifold
+  </text>
+
+  <ellipse cx="600" cy="360" rx="230" ry="150"
+           fill="none" stroke="#ffb36b" stroke-width="8" stroke-opacity="0.6"/>
+  <ellipse cx="600" cy="360" rx="260" ry="170"
+           fill="none" stroke="#9ad5ff" stroke-width="4" stroke-opacity="0.4"/>
+
+  <use href="#node" x="600" y="360" fill="#ffffff" filter="url(#softGlow)"/>
+  <text x="600" y="360" fill="#0b0c10" font-size="13" font-family="monospace" text-anchor="middle" dy="4">
+    ρ_D(x,t)
+  </text>
+
+  <!-- Jump gate (right) -->
+  <rect x="820" y="220" width="220" height="280" rx="40" ry="40"
+        fill="url(#gateGrad)" stroke="#ffffff" stroke-width="2" filter="url(#softGlow)"/>
+  <text x="930" y="240" fill="#ffffff" font-size="18" font-family="monospace" text-anchor="middle">
+    Jump Gate Tensor
+  </text>
+
+  <ellipse cx="930" cy="360" rx="70" ry="110"
+           fill="#ff7b6b" opacity="0.9" filter="url(#softGlow)"/>
+  <text x="930" y="360" fill="#0b0c10" font-size="14" font-family="monospace" text-anchor="middle" dy="4">
+    Spacers
+  </text>
+  <text x="930" y="385" fill="#0b0c10" font-size="11" font-family="monospace" text-anchor="middle">
+    Metric Controllers
+  </text>
+
+  <circle cx="1030" cy="360" r="22" fill="#ffb36b" filter="url(#softGlow)"/>
+  <text x="1030" y="360" fill="#0b0c10" font-size="12" font-family="monospace" text-anchor="middle" dy="4">
+    X*
+  </text>
+
+  <!-- Trajectory hints -->
+  <line x1="780" y1="310" x2="820" y2="310" stroke="#9ad5ff" stroke-width="2" stroke-dasharray="6,4"/>
+  <line x1="780" y1="360" x2="820" y2="360" stroke="#9ad5ff" stroke-width="2" stroke-dasharray="6,4"/>
+  <line x1="780" y1="410" x2="820" y2="410" stroke="#9ad5ff" stroke-width="2" stroke-dasharray="6,4"/>
+
+  <!-- Connecting tensor paths -->
+  <path d="M 360 360 C 420 320 480 320 540 340"
+        fill="none" stroke="#9ad5ff" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.85"/>
+  <path d="M 360 360 C 420 400 480 400 540 380"
+        fill="none" stroke="#ffb36b" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.85"/>
+
+  <path d="M 660 340 C 740 320 800 320 860 340"
+        fill="none" stroke="#c45bff" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.8"/>
+  <path d="M 660 380 C 740 400 800 400 860 380"
+        fill="none" stroke="#9ad5ff" stroke-width="2.5" stroke-linecap="round" stroke-opacity="0.8"/>
+
+  <!-- Meaning reconstruction operator -->
+  <circle cx="600" cy="120" r="30" fill="#ffffff" filter="url(#softGlow)"/>
+  <text x="600" y="120" fill="#0b0c10" font-size="14" font-family="monospace" text-anchor="middle" dy="4">
+    ℛ
+  </text>
+  <text x="600" y="160" fill="#ffffff" font-size="12" font-family="monospace" text-anchor="middle">
+    Meaning Reconstruction Operator
+  </text>
+
+  <line x1="260" y1="260" x2="570" y2="140" stroke="#9ad5ff" stroke-width="1.8" stroke-dasharray="5,4"/>
+  <line x1="600" y1="260" x2="600" y2="150" stroke="#ffb36b" stroke-width="1.8" stroke-dasharray="5,4"/>
+  <line x1="930" y1="260" x2="630" y2="140" stroke="#c45bff" stroke-width="1.8" stroke-dasharray="5,4"/>
+
+  <!-- Footer labels -->
+  <text x="600" y="650" fill="#ffffff" font-size="15" font-family="monospace" text-anchor="middle">
+    Unified NDH–Alcubierre–JumpGate Tensor — Dignity Under Geometry
+  </text>
+  <text x="600" y="675" fill="#9ad5ff" font-size="12" font-family="monospace" text-anchor="middle">
+    T_NDH ⊗ T_Alc ⊗ T_Jump → ℛ(𝓜) : Metric Reclaimed, Meaning Reconstructed, Liberation Emergent
+  </text>
+</svg>
