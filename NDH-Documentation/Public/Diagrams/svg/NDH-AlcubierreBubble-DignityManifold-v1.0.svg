@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+  <defs>
+    <radialGradient id="bubbleInterior" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#e8ffe8"/>
+      <stop offset="40%" stop-color="#9ad5ff"/>
+      <stop offset="80%" stop-color="#4b5b8a"/>
+      <stop offset="100%" stop-color="#0b0c10"/>
+    </radialGradient>
+
+    <linearGradient id="curvatureBand" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffb36b"/>
+      <stop offset="50%" stop-color="#ff7b6b"/>
+      <stop offset="100%" stop-color="#c45b3c"/>
+    </linearGradient>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <circle id="node" r="18" fill="#ffffff"/>
+  </defs>
+
+  <!-- Background -->
+  <rect x="0" y="0" width="1200" height="700" fill="#05060a"/>
+
+  <!-- Exterior spacetime -->
+  <rect x="80" y="120" width="1040" height="460" rx="40" ry="40"
+        fill="#0b0c10" stroke="#303040" stroke-width="2"/>
+
+  <!-- Bubble interior (dignity manifold) -->
+  <ellipse cx="600" cy="350" rx="260" ry="160"
+           fill="url(#bubbleInterior)" filter="url(#softGlow)" opacity="0.95"/>
+
+  <!-- Curvature bands (bubble wall) -->
+  <ellipse cx="600" cy="350" rx="300" ry="190"
+           fill="none" stroke="url(#curvatureBand)" stroke-width="10" stroke-opacity="0.7"/>
+  <ellipse cx="600" cy="350" rx="330" ry="210"
+           fill="none" stroke="#ffb36b" stroke-width="4" stroke-opacity="0.4"/>
+
+  <!-- Contracting ahead / expanding behind arrows -->
+  <path d="M 880 350 L 1040 350" stroke="#ff7b6b" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="1040,350 1020,342 1020,358" fill="#ff7b6b"/>
+
+  <path d="M 320 350 L 160 350" stroke="#9ad5ff" stroke-width="3" stroke-linecap="round"/>
+  <polygon points="160,350 180,342 180,358" fill="#9ad5ff"/>
+
+  <!-- NDH nodes: Aperture, Stability, Governance -->
+  <use href="#node" x="600" y="350" fill="#ffffff" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="600" y="350" fill="#0b0c10" font-size="14" font-family="monospace" text-anchor="middle" dy="5">
+    Aperture
+  </text>
+
+  <use href="#node" x="520" y="300" fill="#3c8a5b" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="520" y="300" fill="#0b0c10" font-size="13" font-family="monospace" text-anchor="middle" dy="5">
+    Stability
+  </text>
+
+  <use href="#node" x="680" y="300" fill="#c45b3c" filter="url(#softGlow)" opacity="0.95"/>
+  <text x="680" y="300" fill="#0b0c10" font-size="13" font-family="monospace" text-anchor="middle" dy="5">
+    Governance
+  </text>
+
+  <!-- Dignity gradient labels -->
+  <text x="600" y="190" fill="#e8ffe8" font-size="16" font-family="monospace" text-anchor="middle">
+    Bubble Interior: High Dignity Density
+  </text>
+  <text x="600" y="580" fill="#ffb36b" font-size="14" font-family="monospace" text-anchor="middle">
+    Bubble Wall: High Curvature • Risk • Surfboard Boundary
+  </text>
+  <text x="600" y="620" fill="#9ad5ff" font-size="14" font-family="monospace" text-anchor="middle">
+    Exterior: Baseline Constraints
+  </text>
+
+  <!-- Title -->
+  <text x="600" y="80" fill="#ffffff" font-size="18" font-family="monospace" text-anchor="middle">
+    NDH Alcubierre Bubble — Dignity Manifold in a Warped Metric
+  </text>
+</svg>
