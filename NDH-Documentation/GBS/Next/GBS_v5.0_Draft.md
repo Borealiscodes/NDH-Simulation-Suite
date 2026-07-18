@@ -339,3 +339,39 @@ PostPatchVerification_v5_0:
 
 ---
 
+# **16. Continuity Lock — CL‑5.0**
+
+```yaml
+ContinuityLock_v5_0:
+  lock_targets:
+    - identity_continuity
+    - lineage_chain
+    - invariant_seal
+    - metadata_cohesion
+    - geometry_altitude
+    - operational_protocols
+    - conceptual_manifold
+    - runtime_stability
+    - drift_resistance
+    - semantic_field_alignment
+    - metric_field_alignment
+    - dignity_field_priority
+    - tri_field_fusion_integrity
+  lock_mechanisms:
+    - continuity_freeze
+    - lineage_hard_lock
+    - invariant_perma_seal
+    - metadata_fusion_lock
+    - geometry_altitude_fixation
+    - operational_protocol_hardening
+    - conceptual_manifold_fixation
+    - runtime_stability_lock
+    - drift_resistance_lock
+    - semantic_metric_dignity_lock
+    - fusion_binding_perma_lock
+  post_lock_state: boundary_continuous_v5_0
+  failure_mode: governance_abort
+```
+
+---
+
