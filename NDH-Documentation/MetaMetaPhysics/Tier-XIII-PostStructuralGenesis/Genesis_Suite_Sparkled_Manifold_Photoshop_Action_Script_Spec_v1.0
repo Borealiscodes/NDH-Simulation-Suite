@@ -1,0 +1,218 @@
+# **Photoshop_Action_Script_Spec_v1.0**  
+### *Tier XIII — Automated PSD Construction Pipeline*
+
+---
+
+## **Takeaway**  
+The Action Script must create the PSD by executing **seven ordered macro‑blocks**, each corresponding to a top‑level PSD group.  
+Every block contains deterministic steps: create layer, set blend mode, apply effect, assign mask, and group.
+
+---
+
+## **I. Global Setup Block**
+
+1. Create new document  
+   - Size: 2400 × 2400 px  
+   - Color mode: RGB  
+   - Profile: sRGB IEC61966‑2.1  
+   - Background: black  
+
+2. Create top‑level groups:  
+   - `Background`  
+   - `Ambient_Sparkles`  
+   - `Manifold_Rings`  
+   - `Flow_System`  
+   - `Flow_Sparkles`  
+   - `Labels`  
+   - `Bloom_Pass`
+
+3. Set ruler units to pixels  
+4. Enable snap‑to‑guides  
+5. Create center guides at x=1200, y=1200
+
+---
+
+## **II. Background Block**
+
+### Steps
+1. Select `Background` group  
+2. Create layer `BG_Radial_Gradient`  
+3. Fill with radial gradient (#0a0a14 → #000000)  
+4. Set blend mode: Normal  
+5. Create layer `BG_Star_Grain`  
+6. Apply noise: 1–2%  
+7. Set blend mode: Overlay  
+8. Set opacity: 20%
+
+---
+
+## **III. Ambient Sparkles Block**
+
+### Steps
+1. Select `Ambient_Sparkles` group  
+2. Create layer `Ambient_Sparkles_Base`  
+3. Generate 1–3 px particles (white + pale cyan)  
+4. Scatter across canvas (3–5% density)  
+5. Set blend mode: Screen  
+6. Set opacity: 40%  
+7. Duplicate layer → rename `Ambient_Sparkles_Blur`  
+8. Apply Gaussian blur (1–2 px)  
+9. Apply soft circular mask to avoid O‑Shell crowding
+
+---
+
+## **IV. Manifold Rings Block**
+
+### Steps  
+For each ring, create a sub‑group and populate it.
+
+---
+
+### **G‑Core**
+1. Create group `G_Core`  
+2. Create layer `G_Core_Fill`  
+3. Draw circle radius 180 px  
+4. Fill: white‑gold  
+5. Set blend: Screen  
+6. Create layer `G_Core_Glow`  
+7. Apply outer glow (4 px)
+
+---
+
+### **C‑Band**
+1. Create group `C_Band`  
+2. Draw ring radius 320 px, thickness 60 px  
+3. Fill gradient cyan → white  
+4. Glow: 8 px  
+5. Blend: Screen
+
+---
+
+### **M‑Field**
+1. Create group `M_Field`  
+2. Draw ring radius 520 px, thickness 80 px  
+3. Fill gradient blue‑violet  
+4. Glow: 10 px  
+5. Blend: Add
+
+---
+
+### **B‑Layer**
+1. Create group `B_Layer`  
+2. Draw ring radius 760 px, thickness 40 px  
+3. Fill: hard red  
+4. Add texture: 5% grain  
+5. Glow: 4 px  
+6. Blend: Overlay
+
+---
+
+### **O‑Shell**
+1. Create group `O_Shell`  
+2. Draw ring radius 1000 px, thickness 120 px  
+3. Fill: pale silver  
+4. Glow: 12 px  
+5. Blend: Screen
+
+---
+
+## **V. Flow System Block**
+
+### Steps
+1. Select `Flow_System` group  
+2. Create layer `Flow_EG13_Path`  
+   - Draw Bézier curve G‑Core → C‑Band  
+   - Stroke: gold, 3 px  
+   - Glow: 4 px  
+   - Blend: Add  
+
+3. Create layer `Flow_CG13_Path`  
+   - C‑Band → M‑Field  
+   - Stroke: cyan, 3 px  
+   - Glow: 5 px  
+   - Blend: Screen  
+
+4. Create layer `Flow_MG13_Path`  
+   - M‑Field → outer + feedback  
+   - Stroke: violet, 4 px  
+   - Glow: 6 px  
+   - Blend: Add  
+
+5. Create layer `Flow_Feedback_Path`  
+   - dotted cyan‑white  
+   - 2 px  
+   - Blend: Screen  
+
+6. Apply hard mask preventing flows from crossing B‑Layer
+
+---
+
+## **VI. Flow Sparkles Block**
+
+### Steps
+1. Select `Flow_Sparkles` group  
+2. Create layers:  
+   - `Flow_Sparkles_Gold`  
+   - `Flow_Sparkles_Cyan`  
+   - `Flow_Sparkles_Violet`  
+
+3. Generate 1–2 px particles along flow paths  
+4. Apply directional motion blur (1 px)  
+5. Blend: Add  
+6. Density: 20–30% of path length  
+7. Mask to avoid label overlap
+
+---
+
+## **VII. Labels Block**
+
+### Steps
+1. Select `Labels` group  
+2. Create text layers:  
+   - `Label_G_Core`  
+   - `Label_C_Band`  
+   - `Label_M_Field`  
+   - `Label_B_Layer`  
+   - `Label_O_Shell`  
+   - `Label_EG13`  
+   - `Label_CG13`  
+   - `Label_MG13`  
+   - `Label_Feedback`  
+
+3. Font: JetBrains Mono  
+4. Size: 24–32 px  
+5. Color: white  
+6. Glow: 2 px  
+7. Blend: Screen  
+8. Position labels outside rings
+
+---
+
+## **VIII. Bloom Pass Block**
+
+### Steps
+1. Select `Bloom_Pass` group  
+2. Create layer `Bloom_Global`  
+   - Apply bloom radius 6–10 px  
+   - Intensity 0.25–0.35  
+   - Blend: Screen  
+   - Mask: exclude labels  
+
+3. Create layer `Bloom_Manifold_Enhance`  
+   - Focused bloom on rings  
+   - Blend: Add
+
+---
+
+## **IX. Export Block**
+
+### Steps
+1. Flatten copy of document  
+2. Export as PNG  
+   - sRGB  
+   - lossless  
+   - 2400 × 2400 px  
+3. Save PSD with full layer stack intact
+
+---
+
