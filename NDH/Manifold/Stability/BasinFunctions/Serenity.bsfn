@@ -1,0 +1,18 @@
+# **📐 Serenity Basin Function (Bs) — Formal Definition**
+
+You already internalized this, but here’s the clean version that belongs in the file:
+
+```
+Bs = lim_{t→∞} M(t)  |  M(0) = Aq, P = 0
+```
+
+Where:
+
+- **M(t)** = manifold state  
+- **Aq** = Quiet Apex  
+- **P** = external forcing  
+
+This is the Serenity basin function.
+
+---
+
