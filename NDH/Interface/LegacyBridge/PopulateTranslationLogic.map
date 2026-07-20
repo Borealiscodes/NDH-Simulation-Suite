@@ -1,0 +1,137 @@
+# NDH Interface Layer — Unified Translation Logic
+# Location: /NDH/Interface/LegacyBridge/PopulateTranslationLogic.map
+# Purpose:
+#   Consolidate all interface-layer mappings into a single translation logic
+#   structure. This file defines how legacy NDH constructs are interpreted,
+#   transformed, and routed through the interface layer into the new Stability
+#   Geometry Manifold.
+
+[Header]
+Version = 1.0
+Manifold = LegacyBridge
+Mode = UnifiedTranslation
+Direction = Legacy → Interface → Manifold
+Boundary = NonDual
+Status = Active
+
+---
+
+[Imports]
+
+# Import foundational mapping definitions
+Import OperatorMapping.def
+Import LegacyToManifold.map
+Import SerenityReference.map
+Import StabilityCompatibilityNotes.md
+Import MigrationGuidelines.md
+
+---
+
+[TranslationEngine]
+
+# The translation engine defines how legacy constructs are processed.
+# Each entry specifies:
+#   - Legacy construct
+#   - Interface-layer interpretation
+#   - Manifold destination
+#   - Notes on stability geometry behavior
+
+Engine = {
+
+    # 1. Resolve()
+    Resolve: {
+        InterfaceInterpretation: StabilityMetric.Settle
+        ManifoldDestination: StabilityGeometry.BasinEntry
+        Notes: "Deprecated operator; mapped to basin-aware settling."
+    },
+
+    # 2. Calm()
+    Calm: {
+        InterfaceInterpretation: Serenity.Apply
+        ManifoldDestination: Serenity.Output
+        Notes: "Calmness becomes Serenity basin output."
+    },
+
+    # 3. Anchor()
+    Anchor: {
+        InterfaceInterpretation: ResonanceField.Clamp
+        ManifoldDestination: ResonanceField.Stabilize
+        Notes: "Grounding reinterpreted as resonance stabilization."
+    },
+
+    # 4. QuietApex()
+    QuietApex: {
+        InterfaceInterpretation: QuietApex.op
+        ManifoldDestination: QuietApex.Attractor
+        Notes: "Canonical attractor feeding Serenity.bsfn."
+    },
+
+    # 5. Normalize()
+    Normalize: {
+        InterfaceInterpretation: EnergyFunctional.NormalizeState
+        ManifoldDestination: StabilityGeometry.BasinEntry
+        Notes: "Normalization becomes energy-functional variance reduction."
+    },
+
+    # 6. DriftAlign()
+    DriftAlign: {
+        InterfaceInterpretation: StabilityMetric.AlignDrift
+        ManifoldDestination: StabilityFlow.Sequence
+        Notes: "Drift correction becomes stability-flow alignment."
+    },
+
+    # 7. EmotionalResolution (legacy)
+    EmotionalResolution: {
+        InterfaceInterpretation: Serenity.Output
+        ManifoldDestination: Serenity.Output
+        Notes: "Legacy scalar emotional model deprecated; replaced by basin output."
+    },
+
+    # 8. OperatorCascade
+    OperatorCascade: {
+        InterfaceInterpretation: StabilityFlow.Sequence
+        ManifoldDestination: StabilityFlow.Sequence
+        Notes: "Legacy cascades replaced by geometry-consistent flow sequences."
+    }
+}
+
+---
+
+[FlowRules]
+
+# Flow rules enforce directional, non-reversible translation.
+
+Flow.Direction = "Legacy → Interface → Manifold"
+Flow.Reversible = False
+Flow.Boundary = "NonDual"
+
+# Serenity-specific rules
+Flow.Serenity = {
+    AccessMode: "PointerOnly",
+    Reference: SerenityReference.map,
+    CopyBehavior: "Forbidden"
+}
+
+# Quiet Apex rules
+Flow.QuietApex = {
+    UpstreamAttractor: True,
+    BasinEntry: Serenity.BasinEntry
+}
+
+---
+
+[Validation]
+
+# Validation ensures translation logic respects stability geometry.
+
+Validation = {
+    CheckNoBasinFunctionsInLegacy: True,
+    CheckNoLegacyOperatorsInManifold: True,
+    CheckDirectionalFlow: True,
+    CheckSerenityPointerIntegrity: True,
+    CheckQuietApexMapping: True
+}
+
+---
+
+[EndOfFile]
