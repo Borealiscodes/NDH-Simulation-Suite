@@ -233,3 +233,12 @@ This README is your invitation to explore.
 
 ---
 
+---
+NDH Constellation Provenance Footer
+Document Class: Legacy / Pre‑Constellation
+Archive Path: /archive/README_Sagan-Edition_legacy.md
+Constitutional Weight: None (observational only)
+Lineage: Sagan Edition → superseded by Constellation Architecture v1.1
+Maintainer: Borealis S. Hedling — Dublin, Ireland
+---
+
