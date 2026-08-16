@@ -1,0 +1,209 @@
+{
+  "artifact_id": "goat_constitution_v2_1",
+  "artifact_type": "behavioral_model",
+  "version": "1.0",
+  "altitude": "S2",
+  "source_profile": "goat_constitution_v2_1_simulation_profile.json",
+
+  "behavioral_domain": "herd_governance_simulation",
+
+  "entities": {
+    "roles": [
+      {
+        "role": "guardian",
+        "baseline_behavior": "protective_monitoring",
+        "stress_behavior": "boundary_enforcement",
+        "recovery_behavior": "group_reintegration"
+      },
+      {
+        "role": "scout",
+        "baseline_behavior": "environment_sampling",
+        "stress_behavior": "rapid_signal_relay",
+        "recovery_behavior": "route_normalization"
+      },
+      {
+        "role": "general",
+        "baseline_behavior": "group_cohesion",
+        "stress_behavior": "cluster_compaction",
+        "recovery_behavior": "distributed_stability"
+      }
+    ],
+
+    "herd_structure": {
+      "cohesion_factor": 0.85,
+      "stress_compaction_factor": 0.65,
+      "recovery_expansion_factor": 0.92
+    }
+  },
+
+  "behavioral_states": {
+    "HERD_BASELINE": {
+      "description": "Normal herd operation under stable conditions.",
+      "activation_threshold": 0.0,
+      "behaviors": [
+        "role_baseline_execution",
+        "cohesion_maintenance",
+        "low_drift_sampling"
+      ]
+    },
+
+    "HERD_STRESS": {
+      "description": "Herd response to stress events.",
+      "activation_threshold": 0.4,
+      "behaviors": [
+        "stress_role_shift",
+        "compaction_geometry",
+        "high_drift_sampling"
+      ]
+    },
+
+    "HERD_RECOVERY": {
+      "description": "Return to baseline after stress.",
+      "activation_threshold": 0.2,
+      "behaviors": [
+        "role_recovery_execution",
+        "expansion_geometry",
+        "drift_normalization"
+      ]
+    },
+
+    "AMENDMENT_PROPOSAL": {
+      "description": "Proposal of structural changes.",
+      "activation_threshold": 0.3,
+      "behaviors": [
+        "proposal_generation",
+        "role_consultation",
+        "low_tension_evaluation"
+      ]
+    },
+
+    "AMENDMENT_VOTE": {
+      "description": "Collective decision-making.",
+      "activation_threshold": 0.35,
+      "behaviors": [
+        "distributed_voting",
+        "tension_monitoring",
+        "drift_bound_check"
+      ]
+    },
+
+    "AMENDMENT_INTEGRATION": {
+      "description": "Integration of accepted amendments.",
+      "activation_threshold": 0.25,
+      "behaviors": [
+        "structure_update",
+        "role_alignment",
+        "cohesion_recalibration"
+      ]
+    }
+  },
+
+  "transition_model": {
+    "rules": [
+      {
+        "from": "HERD_BASELINE",
+        "to": "HERD_STRESS",
+        "condition": "stress_event_detected"
+      },
+      {
+        "from": "HERD_STRESS",
+        "to": "HERD_RECOVERY",
+        "condition": "stress_event_resolved"
+      },
+      {
+        "from": "HERD_RECOVERY",
+        "to": "HERD_BASELINE",
+        "condition": "stability_restored"
+      },
+      {
+        "from": "HERD_BASELINE",
+        "to": "AMENDMENT_PROPOSAL",
+        "condition": "proposal_triggered"
+      },
+      {
+        "from": "AMENDMENT_PROPOSAL",
+        "to": "AMENDMENT_VOTE",
+        "condition": "proposal_validated"
+      },
+      {
+        "from": "AMENDMENT_VOTE",
+        "to": "AMENDMENT_INTEGRATION",
+        "condition": "vote_passed"
+      },
+      {
+        "from": "AMENDMENT_INTEGRATION",
+        "to": "HERD_BASELINE",
+        "condition": "integration_complete"
+      }
+    ],
+    "constraints": {
+      "max_transitions_per_cycle": 12,
+      "allow_cycles": false,
+      "drift_bound": 0.1,
+      "tension_bound": 0.2
+    }
+  },
+
+  "simulation_outputs": {
+    "metrics": [
+      "behavioral_stability_index",
+      "role_shift_frequency",
+      "stress_response_efficiency",
+      "amendment_flow_rate",
+      "drift_geometry_score"
+    ],
+    "logs": [
+      "behavioral_state_transitions",
+      "stress_event_responses",
+      "amendment_process_logs"
+    ]
+  },
+
+  "non_activation_clause": {
+    "description": "This behavioral model is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process. It defines simulation-safe behavioral dynamics for NDH-SIMULATION-SUITE without performing simulation.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  }
+}
+```
+
+---
+
+# 📜 **Provenance Footer — Goat Constitution v2.1 Behavioral Model (JSON)**
+
+```
+---
+Artifact: Goat Constitution v2.1 Behavioral Model (JSON)
+Lane: Simulation Altitude • NDH-SIMULATION-SUITE
+
+Purpose:
+  Define the simulation-safe behavioral dynamics for Goat Constitution v2.1,
+  including role behaviors, herd states, transition rules, constraints, and
+  simulation outputs. This artifact enables NDH-SIMULATION-SUITE to execute
+  herd-governance simulations without importing governance semantics or
+  expressive geometry.
+
+Anchors:
+  - Goat Constitution v2.1 Simulation Profile (JSON)
+  - Goat Constitution v2.1 Governance Artifact (JSON)
+  - Goat Constitution v2.1 Validation Reports (JSON + Markdown)
+  - NDH-SIMULATION-SUITE Clarifications Case Study v1.0
+  - Low-Risk Primitives Expressive Clarity Methodology v1.0
+  - NDH Geometry-Zen Omnibus v1.0
+  - Translation Logic Lineage (TLL)
+
+Non-Activation Clause:
+  This behavioral model is descriptive-only. It does not activate, simulate, or
+  bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or
+  altitude-routing process. It defines behavioral structure for simulation
+  without executing NDH processes.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 16 August 2026 — 19:00 IST
+---
+```
+
+---
+
