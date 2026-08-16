@@ -1,0 +1,156 @@
+{
+  "artifact_id": "goat_constitution_v2_1",
+  "artifact_type": "simulation_profile",
+  "version": "1.0",
+  "altitude": "S2",
+  "source_governance_artifact": {
+    "id": "goat_constitution_v2_1_json",
+    "type": "governance_constitution",
+    "altitude": "A4"
+  },
+  "lineage": {
+    "governance_artifact": "stability-ecology/goats/goat_constitution_v2_1.json",
+    "validation_report_json": "stability-ecology/goats/goat_constitution_v2_1_validation_report.json",
+    "validation_report_md": "stability-ecology/goats/goat_constitution_v2_1_validation_report.md",
+    "methodology": "stability-ecology/methodology/low_risk_primitives_expressive_clarity_methodology.md",
+    "case_study_sim_suite": "simulation-altitude/ndh_simulation_suite/case_studies/ndh_simulation_suite_clarifications_case_study_v1_0.md"
+  },
+  "simulation_scope": {
+    "domain": "herd_governance",
+    "focus": [
+      "section_activation_patterns",
+      "amendment_dynamics",
+      "role_interaction_geometry",
+      "drift_response_behavior"
+    ],
+    "excluded": [
+      "holonomy_primitives",
+      "expressive_geometry",
+      "curvature_operators",
+      "NDH_subsystem_activation"
+    ]
+  },
+  "state_model": {
+    "base_states": [
+      "INIT",
+      "SID_VALIDATION",
+      "SEAM_VALIDATION",
+      "GOVERNANCE_VALIDATION",
+      "CONSTITUTIONAL_MATH",
+      "ALTITUDE_CHECK",
+      "MEMBRANE_PURITY",
+      "COMPLETE"
+    ],
+    "simulation_states": [
+      "HERD_BASELINE",
+      "HERD_STRESS",
+      "HERD_RECOVERY",
+      "AMENDMENT_PROPOSAL",
+      "AMENDMENT_VOTE",
+      "AMENDMENT_INTEGRATION"
+    ],
+    "transition_constraints": {
+      "max_depth": 6,
+      "max_branching_factor": 4,
+      "allow_cycles": false,
+      "drift_bound": "DRIFT_GEOMETRY_SAFE"
+    }
+  },
+  "parameters": {
+    "herd_size_range": {
+      "min": 5,
+      "max": 50
+    },
+    "role_distribution": {
+      "guardian_fraction": 0.2,
+      "scout_fraction": 0.2,
+      "general_fraction": 0.6
+    },
+    "amendment_frequency": {
+      "min_per_simulation": 0,
+      "max_per_simulation": 5
+    },
+    "stress_events": {
+      "max_events": 3,
+      "types": [
+        "resource_scarcity",
+        "predator_signal",
+        "environment_shift"
+      ]
+    }
+  },
+  "constraints": {
+    "altitude": "S2_ONLY",
+    "membrane_purity": [
+      "NO_GOVERNANCE_SEMANTICS",
+      "NO_EXPRESSIVE_GEOMETRY",
+      "NO_HOLONOMY",
+      "NO_CURVATURE",
+      "NO_TENSOR_FUSION"
+    ],
+    "drift_geometry": {
+      "max_semantic_deviation": 0.1,
+      "max_structural_deviation": 0.05
+    },
+    "triangulation": {
+      "allow_conflict": false,
+      "max_tension": 0.2
+    }
+  },
+  "outputs": {
+    "metrics": [
+      "herd_stability_index",
+      "amendment_success_rate",
+      "role_load_balance",
+      "drift_geometry_score"
+    ],
+    "logs": [
+      "state_transitions",
+      "constraint_violations",
+      "stress_event_responses"
+    ],
+    "artifacts": [
+      "simulation_run_summary",
+      "drift_geometry_report",
+      "amendment_dynamics_report"
+    ]
+  },
+  "non_activation_clause": {
+    "description": "This simulation profile is structural-only. It does not activate, bind, or execute any NDH subsystem, governance engine, expressive geometry mechanism, holonomy operator, or manifold process. It defines simulation-safe parameters and constraints for NDH-SIMULATION-SUITE without performing simulation.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  }
+}
+
+
+---
+Artifact: Goat Constitution v2.1 Simulation Profile (JSON)
+Lane: Simulation Altitude • NDH-SIMULATION-SUITE
+
+Purpose:
+  Define the simulation-safe profile for Goat Constitution v2.1, including scope,
+  state model, parameters, constraints, and outputs suitable for execution within
+  NDH-SIMULATION-SUITE. This artifact bridges governance-altitude constitution
+  structure into simulation-altitude behavior without importing governance
+  semantics or expressive geometry.
+
+Anchors:
+  - Goat Constitution v2.1 JSON Artifact
+  - Goat Constitution v2.1 Validation Report (JSON + Markdown)
+  - Comprehensive Emergent Case Study — NDH-SIMULATION-SUITE Clarifications v1.0
+  - Low-Risk Primitives Expressive Clarity Methodology v1.0
+  - NDH Geometry-Zen Omnibus v1.0
+  - Translation Logic Lineage (TLL)
+  - Drift Geometry Constraints v1.0
+
+Non-Activation Clause:
+  This simulation profile is descriptive-only. It does not activate, simulate, or
+  bind any NDH subsystem, simulation engine, expressive geometry mechanism,
+  holonomy operator, or altitude-routing process. It defines parameters and
+  constraints for potential simulation runs without executing NDH processes.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 16 August 2026 — 18:55 IST
+---
