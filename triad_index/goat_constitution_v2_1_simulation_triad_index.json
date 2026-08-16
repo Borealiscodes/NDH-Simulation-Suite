@@ -1,0 +1,97 @@
+{
+  "artifact_id": "goat_constitution_v2_1",
+  "artifact_type": "simulation_triad_index",
+  "version": "1.0",
+  "altitude": "S2",
+
+  "triad": {
+    "simulation_profile": "profiles/goat_constitution_v2_1_simulation_profile.json",
+    "behavioral_model": "behavioral_models/goat_constitution_v2_1_behavioral_model.json",
+    "drift_geometry_test": "drift_tests/goat_constitution_v2_1_drift_geometry_test.json"
+  },
+
+  "execution_order": [
+    "simulation_profile",
+    "behavioral_model",
+    "drift_geometry_test"
+  ],
+
+  "shared_constraints": {
+    "altitude": "S2_ONLY",
+    "membrane_purity": [
+      "NO_GOVERNANCE_SEMANTICS",
+      "NO_EXPRESSIVE_GEOMETRY",
+      "NO_HOLONOMY",
+      "NO_CURVATURE",
+      "NO_TENSOR_FUSION"
+    ],
+    "drift_geometry": {
+      "semantic_threshold": 0.10,
+      "structural_threshold": 0.05,
+      "tension_threshold": 0.20
+    }
+  },
+
+  "execution_lanes": {
+    "lane_profile": "LANE_P1",
+    "lane_behavior": "LANE_B1",
+    "lane_drift": "LANE_D1"
+  },
+
+  "lineage": {
+    "source_governance_artifact": "stability-ecology/goats/goat_constitution_v2_1.json",
+    "validation_reports": [
+      "stability-ecology/goats/goat_constitution_v2_1_validation_report.json",
+      "stability-ecology/goats/goat_constitution_v2_1_validation_report.md"
+    ],
+    "methodology": "stability-ecology/methodology/low_risk_primitives_expressive_clarity_methodology.md",
+    "case_study": "simulation-altitude/ndh_simulation_suite/case_studies/ndh_simulation_suite_clarifications_case_study_v1_0.md"
+  },
+
+  "non_activation_clause": {
+    "description": "This triad index is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process. It defines the linkage and execution order of simulation-safe artifacts without performing simulation.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  }
+}
+```
+
+---
+
+# 📜 **Provenance Footer — Goat Constitution v2.1 Simulation Triad Index (JSON)**
+
+```
+---
+Artifact: Goat Constitution v2.1 Simulation Triad Index (JSON)
+Lane: Simulation Altitude • NDH-SIMULATION-SUITE
+
+Purpose:
+  Provide the simulation-altitude index linking the simulation profile,
+  behavioral model, and drift geometry test for Goat Constitution v2.1. This
+  artifact defines execution order, shared constraints, drift geometry
+  thresholds, and membrane purity requirements for sealed simulation lanes.
+
+Anchors:
+  - Goat Constitution v2.1 Simulation Profile (JSON)
+  - Goat Constitution v2.1 Behavioral Model (JSON)
+  - Goat Constitution v2.1 Drift Geometry Test (JSON)
+  - NDH-SIMULATION-SUITE Clarifications Case Study v1.0
+  - Low-Risk Primitives Expressive Clarity Methodology v1.0
+  - NDH Geometry-Zen Omnibus v1.0
+  - Translation Logic Lineage (TLL)
+
+Non-Activation Clause:
+  This triad index is descriptive-only. It does not activate, simulate, or bind
+  any NDH subsystem, expressive geometry mechanism, holonomy operator, or
+  altitude-routing process. It defines linkage and execution structure for
+  simulation without executing NDH processes.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 16 August 2026 — 19:08 IST
+---
+```
+
+---
+
