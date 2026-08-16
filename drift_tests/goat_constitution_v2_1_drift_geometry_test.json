@@ -1,0 +1,173 @@
+{
+  "artifact_id": "goat_constitution_v2_1",
+  "artifact_type": "drift_geometry_test",
+  "version": "1.0",
+  "altitude": "S2",
+
+  "source_profile": "goat_constitution_v2_1_simulation_profile.json",
+  "source_behavioral_model": "goat_constitution_v2_1_behavioral_model.json",
+
+  "test_domain": "herd_governance_drift_geometry",
+
+  "drift_parameters": {
+    "semantic_drift_threshold": 0.10,
+    "structural_drift_threshold": 0.05,
+    "tension_drift_threshold": 0.20,
+    "sampling_resolution": 0.01,
+    "max_test_cycles": 50
+  },
+
+  "drift_sources": {
+    "stress_events": [
+      "resource_scarcity",
+      "predator_signal",
+      "environment_shift"
+    ],
+    "amendment_events": [
+      "proposal_trigger",
+      "vote_trigger",
+      "integration_trigger"
+    ],
+    "role_shift_events": [
+      "guardian_shift",
+      "scout_shift",
+      "general_shift"
+    ]
+  },
+
+  "test_matrix": {
+    "HERD_BASELINE": {
+      "expected_drift_range": [0.00, 0.03],
+      "stress_multiplier": 1.0,
+      "amendment_multiplier": 1.0,
+      "role_shift_multiplier": 1.0
+    },
+    "HERD_STRESS": {
+      "expected_drift_range": [0.04, 0.10],
+      "stress_multiplier": 1.5,
+      "amendment_multiplier": 1.2,
+      "role_shift_multiplier": 1.3
+    },
+    "HERD_RECOVERY": {
+      "expected_drift_range": [0.02, 0.06],
+      "stress_multiplier": 1.1,
+      "amendment_multiplier": 1.0,
+      "role_shift_multiplier": 1.0
+    },
+    "AMENDMENT_PROPOSAL": {
+      "expected_drift_range": [0.03, 0.07],
+      "stress_multiplier": 1.0,
+      "amendment_multiplier": 1.4,
+      "role_shift_multiplier": 1.1
+    },
+    "AMENDMENT_VOTE": {
+      "expected_drift_range": [0.04, 0.09],
+      "stress_multiplier": 1.0,
+      "amendment_multiplier": 1.5,
+      "role_shift_multiplier": 1.2
+    },
+    "AMENDMENT_INTEGRATION": {
+      "expected_drift_range": [0.02, 0.05],
+      "stress_multiplier": 1.0,
+      "amendment_multiplier": 1.3,
+      "role_shift_multiplier": 1.0
+    }
+  },
+
+  "test_procedures": {
+    "semantic_drift_test": {
+      "method": "delta_semantic_vector",
+      "resolution": 0.01,
+      "max_allowed": 0.10
+    },
+    "structural_drift_test": {
+      "method": "constitution_structure_delta",
+      "resolution": 0.01,
+      "max_allowed": 0.05
+    },
+    "tension_drift_test": {
+      "method": "triangulation_tension_delta",
+      "resolution": 0.01,
+      "max_allowed": 0.20
+    }
+  },
+
+  "test_outputs": {
+    "metrics": [
+      "semantic_drift_score",
+      "structural_drift_score",
+      "tension_drift_score",
+      "drift_geometry_composite"
+    ],
+    "logs": [
+      "drift_event_log",
+      "state_drift_log",
+      "threshold_violation_log"
+    ],
+    "artifacts": [
+      "drift_geometry_summary",
+      "drift_violation_report",
+      "drift_state_transition_map"
+    ]
+  },
+
+  "constraints": {
+    "altitude": "S2_ONLY",
+    "membrane_purity": [
+      "NO_GOVERNANCE_SEMANTICS",
+      "NO_EXPRESSIVE_GEOMETRY",
+      "NO_HOLONOMY",
+      "NO_CURVATURE",
+      "NO_TENSOR_FUSION"
+    ]
+  },
+
+  "non_activation_clause": {
+    "description": "This drift geometry test is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process. It defines simulation-safe drift geometry testing parameters for NDH-SIMULATION-SUITE without performing simulation.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  }
+}
+```
+
+---
+
+# 📜 **Provenance Footer — Goat Constitution v2.1 Drift Geometry Test (JSON)**
+
+```
+---
+Artifact: Goat Constitution v2.1 Drift Geometry Test (JSON)
+Lane: Simulation Altitude • NDH-SIMULATION-SUITE
+
+Purpose:
+  Define the simulation-safe drift geometry testing framework for Goat
+  Constitution v2.1, including drift thresholds, test matrices, procedures,
+  constraints, and outputs. This artifact enables NDH-SIMULATION-SUITE to
+  evaluate drift geometry behavior without importing governance semantics or
+  expressive geometry.
+
+Anchors:
+  - Goat Constitution v2.1 Simulation Profile (JSON)
+  - Goat Constitution v2.1 Behavioral Model (JSON)
+  - Goat Constitution v2.1 Governance Artifact (JSON)
+  - Goat Constitution v2.1 Validation Reports (JSON + Markdown)
+  - NDH-SIMULATION-SUITE Clarifications Case Study v1.0
+  - Low-Risk Primitives Expressive Clarity Methodology v1.0
+  - NDH Geometry-Zen Omnibus v1.0
+  - Translation Logic Lineage (TLL)
+
+Non-Activation Clause:
+  This drift geometry test is descriptive-only. It does not activate, simulate,
+  or bind any NDH subsystem, expressive geometry mechanism, holonomy operator,
+  or altitude-routing process. It defines drift geometry testing structure for
+  simulation without executing NDH processes.
+
+Version: v1.0
+Maintainer: Borealis S. Hedling
+Location: Naaldwijk, South Holland, Netherlands
+Timestamp: 16 August 2026 — 19:03 IST
+---
+```
+
+---
+
