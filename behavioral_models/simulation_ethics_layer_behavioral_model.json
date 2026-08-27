@@ -1,0 +1,88 @@
+{
+  "artifact_name": "Simulation Ethics Layer Behavioral Model",
+  "version": "v1.0",
+  "altitude": "S2",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Simulation Ethics Integration Layer (v1.0)",
+    "conversion_readme": "Simulation Ethics Layer Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Dependency and Ordering Document (v1.0)"
+  },
+
+  "ethical_behavior_modes": {
+    "constraint_enforcement": {
+      "enabled": true,
+      "description": "Applies structural ethical constraints to all simulation-altitude transitions."
+    },
+    "altitude_containment": {
+      "enabled": true,
+      "description": "Prevents altitude drift and ensures simulation artifacts remain within S2 boundaries."
+    },
+    "membrane_sovereignty": {
+      "enabled": true,
+      "description": "Maintains membrane integrity and prevents sealed-layer adjacency."
+    },
+    "dual_stream_separation": {
+      "enabled": true,
+      "description": "Ensures strict separation between survivor epistemics and simulation logic."
+    },
+    "collapse_prevention": {
+      "enabled": true,
+      "description": "Prevents collapse geometry activation except within bounded structural envelopes."
+    },
+    "trauma_informed_gating": {
+      "enabled": true,
+      "description": "Applies trauma-informed gating to all structural transitions and constraint surfaces."
+    },
+    "ethical_stabilization": {
+      "enabled": true,
+      "description": "Maintains stable ethical boundaries during simulation-altitude behavior cycles."
+    }
+  },
+
+  "phase_space_behavior": {
+    "constraint_surfaces": [
+      "harm_boundary_surface",
+      "collapse_prevention_surface",
+      "epistemic_load_surface"
+    ],
+    "transition_logic": "structural_constraint_transition_logic",
+    "envelope_binding": "simulation_envelope_v1_0",
+    "alignment_target": "unified_manifold_constraint_alignment"
+  },
+
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_ethics_only",
+      "bounded_constraint_application",
+      "simulation_envelope_compliance",
+      "ethics_layer_constraint_alignment"
+    ]
+  },
+
+  "triad_relationships": {
+    "simulation_profile": "simulation_ethics_layer_simulation_profile.json",
+    "drift_geometry_test": "simulation_ethics_layer_drift_geometry_test.json",
+    "triad_index": "simulation_ethics_layer_simulation_triad_index.json"
+  },
+
+  "non_activation_clause": {
+    "description": "This behavioral model is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 21:14 IST"
+  }
+}
