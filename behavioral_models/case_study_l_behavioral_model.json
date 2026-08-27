@@ -1,0 +1,93 @@
+{
+  "artifact_name": "Case Study L Behavioral Model",
+  "version": "v1.0",
+  "altitude": "S2",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Case Study L — System-Level ↔ Manifold Interaction Layer (v1.0)",
+    "conversion_readme": "Case Study L Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Interaction Dependency & Ordering Addendum (v2.0)"
+  },
+
+  "interaction_behavior_modes": {
+    "modulation": {
+      "enabled": true,
+      "description": "Models modulation between system-level operational surfaces and manifold structural geometry using bounded structural channels."
+    },
+    "cross_surface_alignment": {
+      "enabled": true,
+      "description": "Routes and aligns structural flows between system and manifold surfaces without expressive geometry."
+    },
+    "gating": {
+      "enabled": true,
+      "description": "Applies manifold-layer gating across system-manifold interaction surfaces."
+    },
+    "stabilization": {
+      "enabled": true,
+      "description": "Maintains stable interaction geometry during system-to-manifold transitions and modulation cycles."
+    },
+    "dissipation": {
+      "enabled": true,
+      "description": "Models dissipation of interaction intensity within bounded simulation envelopes."
+    },
+    "residual_looping": {
+      "enabled": true,
+      "description": "Models residual looping behavior within interaction basins formed by system-manifold modulation."
+    }
+  },
+
+  "phase_space_behavior": {
+    "interaction_surfaces": [
+      "system_to_manifold_surface",
+      "manifold_to_system_surface",
+      "cross_manifold_alignment_plane"
+    ],
+    "modulation_channels": [
+      "system_to_manifold_modulation_channel",
+      "manifold_to_system_modulation_channel",
+      "dual_stream_manifold_modulation_channel"
+    ],
+    "boundary_interfaces": [
+      "collapse_to_manifold_interface",
+      "metastasis_to_manifold_interface",
+      "manifold_gating_interface"
+    ],
+    "transition_logic": "system_manifold_structural_transition_logic",
+    "envelope_binding": "simulation_envelope_v1_0"
+  },
+
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_interaction_only",
+      "bounded_cross_surface_transitions",
+      "simulation_envelope_compliance",
+      "manifold_layer_constraint_alignment"
+    ]
+  },
+
+  "triad_relationships": {
+    "simulation_profile": "case_study_l_simulation_profile.json",
+    "drift_geometry_test": "case_study_l_drift_geometry_test.json",
+    "triad_index": "case_study_l_simulation_triad_index.json"
+  },
+
+  "non_activation_clause": {
+    "description": "This behavioral model is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 22:29 IST"
+  }
+}
