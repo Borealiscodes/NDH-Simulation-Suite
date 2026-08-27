@@ -1,0 +1,80 @@
+{
+  "artifact_name": "Unified Manifold Behavioral Model",
+  "version": "v1.0",
+  "altitude": "S2",
+  "source_lineage": {
+    "rp_altitude_origin": "Unified Cross-Analysis × Simulation Ethics Manifold (v1.0)",
+    "conversion_readme": "Unified Manifold Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Dependency and Ordering Document (v1.0)"
+  },
+  "behavioral_modes": {
+    "harm_acceleration": {
+      "enabled": true,
+      "description": "Structural acceleration of harm-phase trajectories within bounded simulation envelopes."
+    },
+    "harm_propagation": {
+      "enabled": true,
+      "description": "Topology-driven propagation across surfaces and manifolds without governance semantics."
+    },
+    "harm_metastasis": {
+      "enabled": true,
+      "description": "Multi-domain metastasis modeled as structural flow, altitude-contained and trauma-informed."
+    },
+    "harm_collapse": {
+      "enabled": true,
+      "description": "Collapse geometry modeled through bounded structural transitions without sealed-layer adjacency."
+    },
+    "harm_dissipation": {
+      "enabled": true,
+      "description": "Dissipation modeled as structural decline in harm-phase intensity within simulation-safe limits."
+    },
+    "harm_stabilization": {
+      "enabled": true,
+      "description": "Stabilization modeled as plateau behavior in chronic harm states, non-activating and altitude-neutral."
+    },
+    "harm_oscillation": {
+      "enabled": true,
+      "description": "Oscillation modeled as bounded periodic behavior within trauma-informed constraints."
+    }
+  },
+  "phase_space_behavior": {
+    "states": ["L", "A", "E", "D", "T", "C", "X", "R"],
+    "transition_logic": "Structural-only transitions derived from RP-altitude phase algebra.",
+    "collapse_points": "Bounded collapse geometry derived from Case Study G.",
+    "attractor_basins": "Structural attractor basins derived from Unified Manifold topology."
+  },
+  "ethical_constraints": {
+    "trauma_informed_gating": true,
+    "altitude_containment": true,
+    "membrane_sovereignty": true,
+    "dual_stream_separation": true,
+    "collapse_prevention": true,
+    "non_activation": true
+  },
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_behavior_only",
+      "bounded_phase_transitions",
+      "simulation_envelope_compliance",
+      "ethics_layer_compliance"
+    ]
+  },
+  "triad_relationships": {
+    "simulation_profile": "unified_manifold_simulation_profile.json",
+    "drift_geometry_test": "unified_manifold_drift_geometry_test.json",
+    "triad_index": "unified_manifold_simulation_triad_index.json"
+  },
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 17:03 IST"
+  }
+}
