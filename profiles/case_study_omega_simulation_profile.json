@@ -1,0 +1,101 @@
+{
+  "artifact_name": "Case Study Omega Simulation Profile",
+  "version": "v1.0",
+  "altitude": "S2",
+  "triad_layer": "simulation_profile",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Case Study Ω — Full-Manifold Interaction Envelope (A4)",
+    "conversion_readme": "Case Study Ω Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Interaction Dependency & Ordering Addendum (v2.0)"
+  },
+
+  "manifold_interaction_geometry": {
+    "interaction_surfaces": [
+      "primary_manifold_surface",
+      "secondary_manifold_surface",
+      "manifold_alignment_plane",
+      "envelope_contact_surface"
+    ],
+    "modulation_channels": [
+      "manifold_primary_modulation_channel",
+      "manifold_secondary_modulation_channel",
+      "dual_stream_manifold_modulation_channel"
+    ],
+    "boundary_interfaces": [
+      "manifold_collapse_interface",
+      "manifold_metastasis_interface",
+      "manifold_gating_interface",
+      "envelope_binding_interface"
+    ],
+    "envelope_binding": "simulation_envelope_v1_0"
+  },
+
+  "simulation_constraints": {
+    "trauma_informed_gating": true,
+    "interaction_boundary_enforcement": true,
+    "altitude_containment": true,
+    "membrane_sovereignty": true,
+    "dual_stream_separation": true,
+    "collapse_prevention": true,
+    "non_activation": true
+  },
+
+  "interaction_modes": {
+    "modulation_mode": {
+      "enabled": true,
+      "description": "Models modulation across manifold surfaces using bounded structural channels."
+    },
+    "gating_mode": {
+      "enabled": true,
+      "description": "Applies manifold-level gating across envelope-bound interaction surfaces."
+    },
+    "alignment_mode": {
+      "enabled": true,
+      "description": "Aligns structural flows across manifold surfaces without expressive geometry."
+    },
+    "stabilization_mode": {
+      "enabled": true,
+      "description": "Maintains stable manifold geometry during modulation and envelope transitions."
+    },
+    "dissipation_mode": {
+      "enabled": true,
+      "description": "Models dissipation of manifold interaction intensity within bounded envelopes."
+    }
+  },
+
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_interaction_only",
+      "bounded_manifold_transitions",
+      "simulation_envelope_compliance",
+      "manifold_layer_constraint_alignment"
+    ]
+  },
+
+  "triad_relationships": {
+    "behavioral_model": "case_study_omega_behavioral_model.json",
+    "drift_geometry_test": "case_study_omega_drift_geometry_test.json",
+    "triad_index": "case_study_omega_simulation_triad_index.json"
+  },
+
+  "non_activation_clause": {
+    "description": "This simulation profile is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 22:58 IST"
+  }
+}
