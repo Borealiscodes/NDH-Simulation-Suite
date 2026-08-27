@@ -1,0 +1,47 @@
+{
+  "artifact_name": "Unified Manifold Simulation Profile",
+  "version": "v1.0",
+  "altitude": "S2",
+  "source_lineage": {
+    "rp_altitude_origin": "Unified Cross-Analysis × Simulation Ethics Manifold (v1.0)",
+    "conversion_readme": "Unified Manifold Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Dependency and Ordering Document (v1.0)"
+  },
+  "simulation_constraints": {
+    "trauma_informed_gating": true,
+    "altitude_containment": true,
+    "membrane_sovereignty": true,
+    "dual_stream_separation": true,
+    "collapse_prevention": true,
+    "non_activation": true
+  },
+  "structural_geometry": {
+    "harm_topology_enabled": true,
+    "epistemic_load_model": "bounded",
+    "collapse_geometry_model": "bounded",
+    "routing_surface": "unified_manifold_core",
+    "ethical_constraints": "simulation_ethics_layer"
+  },
+  "execution_parameters": {
+    "drift_tolerance": "low",
+    "simulation_mode": "structural",
+    "activation_state": "sealed",
+    "boundary_conditions": [
+      "no_governance_semantics",
+      "no_expressive_geometry",
+      "no_holonomy",
+      "no_curvature",
+      "no_tensor_fusion"
+    ]
+  },
+  "triad_relationships": {
+    "behavioral_model": "unified_manifold_behavioral_model.json",
+    "drift_geometry_test": "unified_manifold_drift_geometry_test.json",
+    "triad_index": "unified_manifold_simulation_triad_index.json"
+  },
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 16:45 IST"
+  }
+}
