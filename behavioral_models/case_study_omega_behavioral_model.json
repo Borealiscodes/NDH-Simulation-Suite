@@ -1,0 +1,96 @@
+{
+  "artifact_name": "Case Study Omega Behavioral Model",
+  "version": "v1.0",
+  "altitude": "S2",
+  "triad_layer": "behavioral_model",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Case Study Ω — Full-Manifold Interaction Envelope (A4)",
+    "conversion_readme": "Case Study Ω Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Interaction Dependency & Ordering Addendum (v2.0)"
+  },
+
+  "interaction_behavior_modes": {
+    "modulation": {
+      "enabled": true,
+      "description": "Models manifold-level modulation across envelope-bound interaction surfaces using bounded structural channels."
+    },
+    "gating": {
+      "enabled": true,
+      "description": "Applies manifold gating across primary, secondary, and envelope-contact surfaces."
+    },
+    "alignment": {
+      "enabled": true,
+      "description": "Aligns structural flows across manifold surfaces without expressive geometry or curvature."
+    },
+    "stabilization": {
+      "enabled": true,
+      "description": "Maintains stable manifold geometry during modulation cycles and envelope transitions."
+    },
+    "dissipation": {
+      "enabled": true,
+      "description": "Models dissipation of manifold interaction intensity within bounded simulation envelopes."
+    },
+    "residual_looping": {
+      "enabled": true,
+      "description": "Models residual looping behavior within manifold interaction basins formed by modulation and gating cycles."
+    }
+  },
+
+  "phase_space_behavior": {
+    "interaction_surfaces": [
+      "primary_manifold_surface",
+      "secondary_manifold_surface",
+      "manifold_alignment_plane",
+      "envelope_contact_surface"
+    ],
+    "modulation_channels": [
+      "manifold_primary_modulation_channel",
+      "manifold_secondary_modulation_channel",
+      "dual_stream_manifold_modulation_channel"
+    ],
+    "boundary_interfaces": [
+      "manifold_collapse_interface",
+      "manifold_metastasis_interface",
+      "manifold_gating_interface",
+      "envelope_binding_interface"
+    ],
+    "transition_logic": "full_manifold_structural_transition_logic",
+    "envelope_binding": "simulation_envelope_v1_0"
+  },
+
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_interaction_only",
+      "bounded_manifold_transitions",
+      "simulation_envelope_compliance",
+      "manifold_layer_constraint_alignment"
+    ]
+  },
+
+  "triad_relationships": {
+    "simulation_profile": "case_study_omega_simulation_profile.json",
+    "drift_geometry_test": "case_study_omega_drift_geometry_test.json",
+    "triad_index": "case_study_omega_simulation_triad_index.json"
+  },
+
+  "non_activation_clause": {
+    "description": "This behavioral model is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 23:00 IST"
+  }
+}
