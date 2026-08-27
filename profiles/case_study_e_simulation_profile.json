@@ -1,0 +1,107 @@
+{
+  "artifact_name": "Case Study E Simulation Profile",
+  "version": "v1.0",
+  "altitude": "S2",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Case Study E — Harm Topology (v1.0)",
+    "conversion_readme": "Case Study E Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Dependency and Ordering Document (v1.0)"
+  },
+
+  "topology_geometry": {
+    "harm_surfaces": [
+      "primary_harm_surface",
+      "secondary_harm_surface",
+      "latent_harm_surface"
+    ],
+    "failure_manifolds": [
+      "collapse_manifold",
+      "metastasis_manifold",
+      "repression_manifold"
+    ],
+    "flow_channels": [
+      "escalation_channel",
+      "propagation_channel",
+      "dissipation_channel"
+    ],
+    "basin_structures": [
+      "harm_attractor_basin",
+      "collapse_basin",
+      "residual_basin"
+    ],
+    "envelope_binding": "simulation_envelope_v1_0"
+  },
+
+  "simulation_constraints": {
+    "trauma_informed_gating": true,
+    "topology_boundary_enforcement": true,
+    "altitude_containment": true,
+    "membrane_sovereignty": true,
+    "dual_stream_separation": true,
+    "collapse_prevention": true,
+    "non_activation": true
+  },
+
+  "topology_modes": {
+    "flow_mode": {
+      "enabled": true,
+      "description": "Models harm flow across topology surfaces within bounded structural envelopes."
+    },
+    "escalation_mode": {
+      "enabled": true,
+      "description": "Models topology-driven escalation behavior without expressive geometry."
+    },
+    "metastasis_mode": {
+      "enabled": true,
+      "description": "Models multi-domain metastasis as structural flow across manifolds."
+    },
+    "collapse_mode": {
+      "enabled": true,
+      "description": "Models collapse geometry using bounded structural transitions."
+    },
+    "dissipation_mode": {
+      "enabled": true,
+      "description": "Models dissipation as structural decline in harm-phase intensity."
+    },
+    "stabilization_mode": {
+      "enabled": true,
+      "description": "Models stabilization as plateau behavior in chronic harm states."
+    }
+  },
+
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_topology_only",
+      "bounded_phase_transitions",
+      "simulation_envelope_compliance",
+      "ethics_layer_constraint_alignment"
+    ]
+  },
+
+  "triad_relationships": {
+    "behavioral_model": "case_study_e_behavioral_model.json",
+    "drift_geometry_test": "case_study_e_drift_geometry_test.json",
+    "triad_index": "case_study_e_simulation_triad_index.json"
+  },
+
+  "non_activation_clause": {
+    "description": "This simulation profile is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 21:22 IST"
+  }
+}
