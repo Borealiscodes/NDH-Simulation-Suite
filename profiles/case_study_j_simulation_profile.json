@@ -1,0 +1,98 @@
+{
+  "artifact_name": "Case Study J Simulation Profile",
+  "version": "v1.0",
+  "altitude": "S2",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Case Study J — Governance ↔ System-Level Interaction Layer (v1.0)",
+    "conversion_readme": "Case Study J Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Interaction Dependency & Ordering Addendum (v2.0)"
+  },
+
+  "interaction_geometry": {
+    "interaction_surfaces": [
+      "governance_to_system_surface",
+      "system_to_governance_surface",
+      "cross_system_alignment_plane"
+    ],
+    "modulation_channels": [
+      "governance_to_system_modulation_channel",
+      "system_to_governance_modulation_channel",
+      "dual_stream_system_modulation_channel"
+    ],
+    "boundary_interfaces": [
+      "collapse_to_system_interface",
+      "metastasis_to_system_interface",
+      "system_gating_interface"
+    ],
+    "envelope_binding": "simulation_envelope_v1_0"
+  },
+
+  "simulation_constraints": {
+    "trauma_informed_gating": true,
+    "interaction_boundary_enforcement": true,
+    "altitude_containment": true,
+    "membrane_sovereignty": true,
+    "dual_stream_separation": true,
+    "collapse_prevention": true,
+    "non_activation": true
+  },
+
+  "interaction_modes": {
+    "modulation_mode": {
+      "enabled": true,
+      "description": "Models modulation between governance boundaries and system-level operational surfaces using bounded structural channels."
+    },
+    "gating_mode": {
+      "enabled": true,
+      "description": "Applies system-level gating across governance-system interaction surfaces."
+    },
+    "cross_surface_alignment_mode": {
+      "enabled": true,
+      "description": "Aligns structural flows between governance and system surfaces without expressive geometry."
+    },
+    "stabilization_mode": {
+      "enabled": true,
+      "description": "Maintains stable interaction geometry during governance-to-system transitions."
+    },
+    "dissipation_mode": {
+      "enabled": true,
+      "description": "Models dissipation of interaction intensity within bounded simulation envelopes."
+    }
+  },
+
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_interaction_only",
+      "bounded_cross_surface_transitions",
+      "simulation_envelope_compliance",
+      "system_layer_constraint_alignment"
+    ]
+  },
+
+  "triad_relationships": {
+    "behavioral_model": "case_study_j_behavioral_model.json",
+    "drift_geometry_test": "case_study_j_drift_geometry_test.json",
+    "triad_index": "case_study_j_simulation_triad_index.json"
+  },
+
+  "non_activation_clause": {
+    "description": "This simulation profile is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 22:19 IST"
+  }
+}
