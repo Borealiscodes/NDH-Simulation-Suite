@@ -1,0 +1,93 @@
+{
+  "artifact_name": "Case Study H Behavioral Model",
+  "version": "v1.0",
+  "altitude": "S2",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Case Study H — Ethics ↔ Governance Interaction Layer (v1.0)",
+    "conversion_readme": "Case Study H Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Interaction Dependency & Ordering Addendum (v2.0)"
+  },
+
+  "interaction_behavior_modes": {
+    "modulation": {
+      "enabled": true,
+      "description": "Models modulation between ethics constraints and governance boundaries using bounded structural channels."
+    },
+    "cross_surface_alignment": {
+      "enabled": true,
+      "description": "Routes and aligns structural flows between ethics and governance surfaces without expressive geometry."
+    },
+    "gating": {
+      "enabled": true,
+      "description": "Applies governance-layer gating across ethics-governance interaction surfaces."
+    },
+    "stabilization": {
+      "enabled": true,
+      "description": "Maintains stable interaction geometry during governance-boundary transitions and modulation cycles."
+    },
+    "dissipation": {
+      "enabled": true,
+      "description": "Models dissipation of interaction intensity within bounded simulation envelopes."
+    },
+    "residual_looping": {
+      "enabled": true,
+      "description": "Models residual looping behavior within interaction basins formed by ethics-governance modulation."
+    }
+  },
+
+  "phase_space_behavior": {
+    "interaction_surfaces": [
+      "ethics_to_governance_surface",
+      "governance_to_ethics_surface",
+      "cross_surface_alignment_plane"
+    ],
+    "modulation_channels": [
+      "constraint_to_boundary_modulation_channel",
+      "boundary_to_constraint_modulation_channel",
+      "dual_stream_governance_modulation_channel"
+    ],
+    "boundary_interfaces": [
+      "collapse_to_governance_interface",
+      "metastasis_to_governance_interface",
+      "governance_gating_interface"
+    ],
+    "transition_logic": "ethics_governance_structural_transition_logic",
+    "envelope_binding": "simulation_envelope_v1_0"
+  },
+
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_interaction_only",
+      "bounded_cross_surface_transitions",
+      "simulation_envelope_compliance",
+      "governance_layer_constraint_alignment"
+    ]
+  },
+
+  "triad_relationships": {
+    "simulation_profile": "case_study_h_simulation_profile.json",
+    "drift_geometry_test": "case_study_h_drift_geometry_test.json",
+    "triad_index": "case_study_h_simulation_triad_index.json"
+  },
+
+  "non_activation_clause": {
+    "description": "This behavioral model is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 22:12 IST"
+  }
+}
