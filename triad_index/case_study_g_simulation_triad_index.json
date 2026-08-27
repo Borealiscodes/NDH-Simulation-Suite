@@ -1,0 +1,63 @@
+{
+  "artifact_name": "Case Study G Simulation Triad Index",
+  "version": "v1.0",
+  "altitude": "S2",
+  "triad_id": "case_study_g_simulation_triad",
+
+  "artifacts": {
+    "simulation_profile": "case_study_g_simulation_profile.json",
+    "behavioral_model": "case_study_g_behavioral_model.json",
+    "drift_geometry_test": "case_study_g_drift_geometry_test.json"
+  },
+
+  "execution_order": [
+    "simulation_profile",
+    "behavioral_model",
+    "drift_geometry_test"
+  ],
+
+  "shared_constraints": {
+    "trauma_informed_gating": true,
+    "interaction_boundary_enforcement": true,
+    "altitude_containment": true,
+    "membrane_sovereignty": true,
+    "dual_stream_separation": true,
+    "collapse_prevention": true,
+    "non_activation": true
+  },
+
+  "drift_geometry_envelope": {
+    "semantic_drift_max": 0.06,
+    "structural_drift_max": 0.03,
+    "tension_drift_max": 0.11
+  },
+
+  "membrane_purity_rules": [
+    "NO_GOVERNANCE_SEMANTICS",
+    "NO_EXPRESSIVE_GEOMETRY",
+    "NO_HOLONOMY",
+    "NO_CURVATURE",
+    "NO_TENSOR_FUSION",
+    "NO_SEALED_LAYER_ADJACENCY"
+  ],
+
+  "lineage_references": {
+    "rp_altitude_origin": "Case Study G — Harm-Topology ↔ Ethics Interaction Layer (v1.0)",
+    "conversion_readme": "Case Study G Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Dependency and Ordering Document (v1.0)",
+    "modeling_addendum": "Modeling Dependency & Ordering Addendum (v1.0)",
+    "simulation_envelope": "Cross-Altitude Ethical Simulation Envelope (v1.0)"
+  },
+
+  "non_activation_clause": {
+    "description": "This triad index is structural-only. It does not activate, simulate, or bind any NDH subsystem or manifold process.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 21:37 IST"
+  }
+}
