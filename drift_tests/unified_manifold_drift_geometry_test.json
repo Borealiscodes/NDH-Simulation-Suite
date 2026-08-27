@@ -1,0 +1,139 @@
+{
+  "artifact_name": "Unified Manifold Drift Geometry Test",
+  "artifact_type": "drift_geometry_test",
+  "version": "v1.0",
+  "altitude": "S2",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Unified Cross-Analysis × Simulation Ethics Manifold (v1.0)",
+    "conversion_readme": "Unified Manifold Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Dependency and Ordering Document (v1.0)"
+  },
+
+  "test_domain": "unified_manifold_structural_drift_geometry",
+
+  "drift_parameters": {
+    "semantic_drift_threshold": 0.08,
+    "structural_drift_threshold": 0.04,
+    "tension_drift_threshold": 0.15,
+    "sampling_resolution": 0.01,
+    "max_test_cycles": 60
+  },
+
+  "drift_sources": {
+    "stress_events": [
+      "multi_domain_harm_acceleration",
+      "collapse_geometry_activation",
+      "epistemic_load_shift"
+    ],
+    "transition_events": [
+      "phase_state_transition",
+      "topology_surface_shift",
+      "geometry_boundary_adjustment"
+    ],
+    "role_shift_events": [
+      "ethics_layer_constraint_shift",
+      "envelope_boundary_shift",
+      "routing_surface_shift"
+    ]
+  },
+
+  "test_matrix": {
+    "MANIFOLD_BASELINE": {
+      "expected_drift_range": [0.00, 0.03],
+      "stress_multiplier": 1.0,
+      "transition_multiplier": 1.0,
+      "role_shift_multiplier": 1.0
+    },
+    "MANIFOLD_STRESS": {
+      "expected_drift_range": [0.03, 0.09],
+      "stress_multiplier": 1.4,
+      "transition_multiplier": 1.2,
+      "role_shift_multiplier": 1.3
+    },
+    "MANIFOLD_RECOVERY": {
+      "expected_drift_range": [0.02, 0.05],
+      "stress_multiplier": 1.1,
+      "transition_multiplier": 1.0,
+      "role_shift_multiplier": 1.0
+    },
+    "PHASE_TRANSITION": {
+      "expected_drift_range": [0.03, 0.07],
+      "stress_multiplier": 1.0,
+      "transition_multiplier": 1.5,
+      "role_shift_multiplier": 1.1
+    },
+    "TOPOLOGY_SHIFT": {
+      "expected_drift_range": [0.04, 0.08],
+      "stress_multiplier": 1.0,
+      "transition_multiplier": 1.3,
+      "role_shift_multiplier": 1.2
+    },
+    "GEOMETRY_ADJUSTMENT": {
+      "expected_drift_range": [0.02, 0.05],
+      "stress_multiplier": 1.0,
+      "transition_multiplier": 1.2,
+      "role_shift_multiplier": 1.0
+    }
+  },
+
+  "test_procedures": {
+    "semantic_drift_test": {
+      "method": "delta_semantic_vector",
+      "resolution": 0.01,
+      "max_allowed": 0.08
+    },
+    "structural_drift_test": {
+      "method": "manifold_structure_delta",
+      "resolution": 0.01,
+      "max_allowed": 0.04
+    },
+    "tension_drift_test": {
+      "method": "manifold_tension_delta",
+      "resolution": 0.01,
+      "max_allowed": 0.15
+    }
+  },
+
+  "test_outputs": {
+    "metrics": [
+      "semantic_drift_score",
+      "structural_drift_score",
+      "tension_drift_score",
+      "unified_manifold_drift_composite"
+    ],
+    "logs": [
+      "drift_event_log",
+      "state_drift_log",
+      "threshold_violation_log"
+    ],
+    "artifacts": [
+      "unified_manifold_drift_summary",
+      "unified_manifold_violation_report",
+      "unified_manifold_state_transition_map"
+    ]
+  },
+
+  "constraints": {
+    "altitude": "S2_ONLY",
+    "membrane_purity": [
+      "NO_GOVERNANCE_SEMANTICS",
+      "NO_EXPRESSIVE_GEOMETRY",
+      "NO_HOLONOMY",
+      "NO_CURVATURE",
+      "NO_TENSOR_FUSION"
+    ]
+  },
+
+  "non_activation_clause": {
+    "description": "This drift geometry test is structural-only. It does not activate, simulate, or bind any NDH subsystem, expressive geometry mechanism, holonomy operator, or manifold process. It defines simulation-safe drift geometry testing parameters for NDH-SIMULATION-SUITE without performing simulation.",
+    "altitude": "S2",
+    "membrane_status": "INTACT"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 17:09 IST"
+  }
+}
