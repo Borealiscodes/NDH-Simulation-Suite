@@ -1,0 +1,79 @@
+{
+  "artifact_name": "Simulation Ethics Layer Simulation Profile",
+  "version": "v1.0",
+  "altitude": "S2",
+
+  "source_lineage": {
+    "rp_altitude_origin": "Simulation Ethics Integration Layer (v1.0)",
+    "conversion_readme": "Simulation Ethics Layer Simulation Triad Experiment README (v1.0)",
+    "dependency_document": "Simulation Dependency and Ordering Document (v1.0)"
+  },
+
+  "simulation_constraints": {
+    "trauma_informed_gating": true,
+    "ethical_boundary_enforcement": true,
+    "altitude_containment": true,
+    "membrane_sovereignty": true,
+    "dual_stream_separation": true,
+    "collapse_prevention": true,
+    "non_activation": true
+  },
+
+  "ethics_layer_geometry": {
+    "constraint_surfaces": [
+      "harm_boundary_surface",
+      "collapse_prevention_surface",
+      "epistemic_load_surface"
+    ],
+    "routing_logic": "ethics_layer_structural_routing",
+    "envelope_binding": "simulation_envelope_v1_0"
+  },
+
+  "ethical_modes": {
+    "constraint_mode": {
+      "enabled": true,
+      "description": "Applies structural ethical constraints to all simulation-altitude artifacts."
+    },
+    "containment_mode": {
+      "enabled": true,
+      "description": "Maintains altitude boundaries and prevents governance-semantic absorption."
+    },
+    "sovereignty_mode": {
+      "enabled": true,
+      "description": "Ensures membrane sovereignty and prevents sealed-layer adjacency."
+    },
+    "gating_mode": {
+      "enabled": true,
+      "description": "Applies trauma-informed gating to all simulation transitions."
+    }
+  },
+
+  "boundary_conditions": {
+    "forbidden": [
+      "governance_semantics",
+      "expressive_geometry",
+      "holonomy",
+      "curvature",
+      "tensor_fusion",
+      "sealed_layer_adjacency"
+    ],
+    "required": [
+      "structural_ethics_only",
+      "bounded_constraint_application",
+      "simulation_envelope_compliance",
+      "unified_manifold_constraint_alignment"
+    ]
+  },
+
+  "triad_relationships": {
+    "behavioral_model": "simulation_ethics_layer_behavioral_model.json",
+    "drift_geometry_test": "simulation_ethics_layer_drift_geometry_test.json",
+    "triad_index": "simulation_ethics_layer_simulation_triad_index.json"
+  },
+
+  "provenance": {
+    "maintainer": "Borealis S. Hedling",
+    "location": "Dublin, Ireland",
+    "timestamp": "27 August 2026 — 17:15 IST"
+  }
+}
