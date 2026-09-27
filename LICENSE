@@ -1,21 +1,84 @@
-MIT License
+NDH‑Simulation‑Suite — Conceptual Physics License v2.1
+Copyright (c) 2026 Borealis S. Hedling
 
-Copyright (c) 2026 Borealis S Hedling
+NDH‑Simulation‑Suite (“the Work”) is a conceptual physics and manifold‑architecture framework
+designed for humane technology, research, accessibility, and high‑altitude systems thinking.
+It is not a real‑world guidance system, weapons algorithm, or aerospace control stack.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license preserves attribution, dignity invariants, and dual‑use safeguards while allowing
+legitimate scientific, mathematical, and engineering exploration.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+----------------------------------------------------------------------
+1. PERMITTED USES
+----------------------------------------------------------------------
+You may:
+• Study, extend, and transform the conceptual physics architecture.
+• Use real physics, mathematics, and engineering transformations.
+• Build research tools, simulations, educational materials, or humane systems.
+• Create derivative works that preserve attribution, provenance, and NDH ethics membranes.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Real physics is allowed. Real engineering is allowed. Conceptual → operational mapping is allowed.
+Weaponization is not.
+
+----------------------------------------------------------------------
+2. PROHIBITED USES (DUAL‑USE SAFEGUARD)
+----------------------------------------------------------------------
+The Work may not be used for:
+• weapons development, targeting, guidance, or control;
+• autonomous weapons systems or kinetic optimization;
+• surveillance systems that violate human rights;
+• any activity restricted under international arms‑control treaties, including:
+    – Missile Technology Control Regime (MTCR),
+    – Wassenaar Arrangement,
+    – Hague Code of Conduct (HCoC),
+    – and related dual‑use export‑control frameworks.
+
+These references define ethical boundaries only. They are not operational guidance.
+
+----------------------------------------------------------------------
+3. ATTRIBUTION, PROVENANCE & DERIVATIVE DRIFT DISCLOSURE
+----------------------------------------------------------------------
+Derivative works must:
+• preserve clear attribution to the original author;
+• maintain provenance of NDH conceptual structures;
+• disclose any reinterpretation of conceptual physics as real‑world physics;
+• disclose any removal or modification of NDH ethical membranes;
+• disclose any reframing of NDH primitives into operational algorithms.
+
+Failure to disclose derivative drift constitutes a violation of this license.
+
+----------------------------------------------------------------------
+4. CONCEPTUAL ARCHITECTURE DISCLAIMER
+----------------------------------------------------------------------
+All references to dimensional physics, hypersonic traversal, stability envelopes,
+manifold geometry, or multi‑axis dynamics are conceptual metaphors used for clarity.
+
+These structures are not intended or suitable for real‑world aerospace, defense,
+or high‑velocity control systems.
+
+Any attempt to operationalize conceptual physics into weapons‑adjacent systems
+violates this license.
+
+----------------------------------------------------------------------
+5. ETHICS & DIGNITY INVARIANTS
+----------------------------------------------------------------------
+The Work is built on dignity‑preserving design principles. Derivative works must:
+• uphold humane technology standards,
+• avoid harm amplification,
+• preserve conceptual safety membranes,
+• maintain non‑dual interpretive clarity.
+
+----------------------------------------------------------------------
+6. WARRANTY & LIABILITY
+----------------------------------------------------------------------
+The Work is provided “as‑is,” without warranty of any kind. The author is not liable
+for misuse, misinterpretation, or derivative drift resulting from removal of ethical safeguards.
+
+----------------------------------------------------------------------
+7. LICENSE COMPATIBILITY
+----------------------------------------------------------------------
+This license is compatible with NDH‑Platforms License v1.0 and may be used alongside AGPL‑3.0
+provided that NDH dual‑use safeguards, attribution requirements, and conceptual‑physics
+disclaimers remain intact.
+
+END OF LICENSE
